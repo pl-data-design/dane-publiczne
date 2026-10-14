@@ -1,0 +1,44 @@
+name: Zbieranie danych
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # codziennie 03:00 UTC; skrypt pracuje tylko w dni wskazane w zrodla.json
+  workflow_dispatch:       # ręczne uruchomienie z zakładki Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: zbieranie
+  cancel-in-progress: false
+
+jobs:
+  zbieranie:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Zależności
+        run: pip install --quiet openpyxl==3.1.5 pdfminer.six==20240706
+
+      - name: Zbieranie danych
+        id: kolektor
+        run: python kolektor/collect.py
+
+      - name: Zapis wyników
+        if: steps.kolektor.outputs.pominieto != 'true'
+        run: |
+          git config user.name "data-bot"
+          git config user.email "data-bot@users.noreply.github.com"
+          git add dane
+          if git diff --cached --quiet; then
+            echo "Brak zmian."
+          else
+            git commit -m "Aktualizacja danych $(date -u +%Y-%m-%d)"
+            git push
+          fi

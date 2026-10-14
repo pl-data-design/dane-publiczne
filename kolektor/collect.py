@@ -27,10 +27,10 @@ ROOT = Path(__file__).resolve().parent.parent
 CONFIG = json.loads(Path(os.environ.get("KOLEKTOR_CONFIG", ROOT / "kolektor" / "zrodla.json")).read_text(encoding="utf-8"))
 OUT = Path(os.environ.get("KOLEKTOR_OUT", ROOT / "dane"))
 SEJM = os.environ.get("SEJM_API", "https://api.sejm.gov.pl")
-UA = "PublicDataCollector/1.0"
+UA = "Python-urllib/%d.%d" % sys.version_info[:2]  # standardowy identyfikator biblioteki Pythona
 TZ_PL = dt.timezone(dt.timedelta(hours=1))  # przybliżenie; dzień liczony z zapasem
 MAX_FILE_TEXT = 300_000
-MAX_PROCESSES = 200
+MAX_PROCESSES = 400
 errors = []
 
 
@@ -236,25 +236,41 @@ def html_to_text(raw):
     return re.sub(r"\s+", " ", t).strip()
 
 
-DATE_RES = [
-    (re.compile(r"(\d{1,2})[._-](\d{1,2})[._-](20\d{2})"), "dmy"),
-    (re.compile(r"(20\d{2})[._-](\d{1,2})[._-](\d{1,2})"), "ymd"),
-    (re.compile(r"(?<!\d)(\d{2})(\d{2})(20\d{2})(?!\d)"), "dmy"),
-]
-SKIP_LABELS = ("opis zmian", "opis_zmian", "karta zmian", "karta-zmian", "wykaz zmian", "wykaz%20zmian")
-FILE_EXTS = (".pdf", ".xlsx", ".xlsm", ".xls", ".docx")
+MONTHS = {
+    "stycznia": 1, "lutego": 2, "marca": 3, "kwietnia": 4, "maja": 5, "czerwca": 6, "lipca": 7,
+    "sierpnia": 8, "wrzesnia": 9, "września": 9, "pazdziernika": 10, "października": 10,
+    "listopada": 11, "grudnia": 12,
+}
+DMY = re.compile(r"(?<!\d)(\d{1,2})[._-](\d{1,2})[._-](20\d{2})(?!\d)")
+DMY_COMPACT = re.compile(r"(?<!\d)(\d{2})(\d{2})(20\d{2})(?!\d)")
+D_MONTH_Y = re.compile(r"(?<!\d)(\d{1,2})[\s_-]+(" + "|".join(MONTHS) + r")[\s_-]+(20\d{2})", re.I)
+YMD = re.compile(r"(?<![\d.])(20\d{2})-(\d{2})-(\d{2})(?![\d.])")
+SKIP_RE = re.compile(r"(opis\w*|karta|wykaz)\W*zmian", re.I)
+FILE_EXTS = (".pdf", ".xlsx", ".xlsm", ".xls")
+EXT_PRIORITY = {".xlsx": 3, ".xlsm": 3, ".xls": 2, ".pdf": 1}
 
 
 def dates_in(text):
-    found = []
-    for rx, order in DATE_RES:
-        for m in rx.finditer(text or ""):
-            a, b, c = (int(x) for x in m.groups())
-            d, mo, y = (a, b, c) if order == "dmy" else (c, b, a)
+    """Daty z tekstu: najpierw dd.mm.rrrr i „15 września 2026”, potem rrrr-mm-dd. Odrzuca daty z przyszłości."""
+    text = urllib.parse.unquote(text or "")
+    found, spans = [], []
+    for rx, kind in ((D_MONTH_Y, "month"), (DMY, "dmy"), (DMY_COMPACT, "dmy"), (YMD, "ymd")):
+        for m in rx.finditer(text):
+            if any(a <= m.start() < b for a, b in spans):
+                continue
+            g = m.groups()
             try:
-                found.append(dt.date(y, mo, d))
+                if kind == "month":
+                    d = dt.date(int(g[2]), MONTHS[g[1].lower()], int(g[0]))
+                elif kind == "dmy":
+                    d = dt.date(int(g[2]), int(g[1]), int(g[0]))
+                else:
+                    d = dt.date(int(g[0]), int(g[1]), int(g[2]))
             except ValueError:
-                pass
+                continue
+            spans.append((m.start(), m.end()))
+            if d <= dt.date.today() + dt.timedelta(days=60):
+                found.append(d)
     return found
 
 
@@ -262,11 +278,17 @@ def guess_ext(href, label):
     ext = Path(urllib.parse.urlsplit(href).path).suffix.lower()
     if ext in FILE_EXTS:
         return ext
-    low = label.lower()
-    for e in (".xlsm", ".xlsx", ".pdf", ".docx", ".xls"):
-        if e[1:] in low.split() or e[1:] + " " in low or f"| {e[1:]}" in low:
+    if ext in (".docx", ".doc", ".zip", ".odt"):
+        return None
+    words = re.findall(r"[a-z]+", label.lower())
+    for e in (".xlsm", ".xlsx", ".pdf", ".xls"):
+        if e[1:] in words:
             return e
     return None
+
+
+def rank_key(c):
+    return (c["data"] or dt.date(1900, 1, 1), EXT_PRIORITY.get(c["ext"], 0), -c["kolejnosc"])
 
 
 def find_schedule_files(raw, base):
@@ -276,24 +298,25 @@ def find_schedule_files(raw, base):
     for idx, m in enumerate(re.finditer(r'(?is)<a\b[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>', raw)):
         href, label = html.unescape(m.group(1)), html_to_text(m.group(2))
         full = urllib.parse.urljoin(base, href)
-        ext = guess_ext(full, label)
+        after = html_to_text(raw[m.end():m.end() + 160])
+        ext = guess_ext(full, label) or (guess_ext(full, after) if "download" in href.lower() else None)
         if not ext:
             continue
         hay = (urllib.parse.unquote(full) + " " + label).lower()
-        if any(k in hay for k in SKIP_LABELS):
+        if SKIP_RE.search(urllib.parse.unquote(hay)):
             continue
         if not (page_is_schedule or "harmonogram" in hay):
             continue
-        context = html_to_text(raw[max(0, m.start() - 700):m.start()])
+        context = html_to_text(raw[max(0, m.start() - 1500):m.start()])
         ctx_dates = dates_in(context)
         own_dates = dates_in(urllib.parse.unquote(full) + " " + label)
         best = max(own_dates) if own_dates else (ctx_dates[-1] if ctx_dates else None)
-        cands.append({"url": full, "opis": label[:200], "ext": ext, "data": best, "kolejnosc": idx})
+        cands.append({"url": full, "opis": (label or after)[:200], "ext": ext, "data": best, "kolejnosc": idx})
     uniq = {}
     for c in cands:
         if c["url"] not in uniq:
             uniq[c["url"]] = c
-    ranked = sorted(uniq.values(), key=lambda c: (c["data"] or dt.date(1900, 1, 1), -c["kolejnosc"]), reverse=True)
+    ranked = sorted(uniq.values(), key=rank_key, reverse=True)
     return ranked
 
 
@@ -352,12 +375,12 @@ def collect_regions(prev):
         entry["zmiana"] = prev.get(region, {}).get("sha") != digest
         entry["sha"] = digest
         old = {f.get("url"): f.get("sha") for f in prev.get(region, {}).get("pliki", [])}
-        file_links.sort(key=lambda c: (c["data"] or dt.date(1900, 1, 1), -c["kolejnosc"]), reverse=True)
+        file_links.sort(key=rank_key, reverse=True)
         entry["pliki_kandydaci"] = [
             {"url": c["url"], "opis": c["opis"], "data": c["data"].isoformat() if c["data"] else None}
             for c in file_links[:6]
         ]
-        for i, c in enumerate(file_links[:1], 1):
+        for i, c in enumerate(file_links[:2], 1):
             furl, label, ext = c["url"], c["opis"], c["ext"]
             item = {"url": furl, "opis": label, "data_wg_strony": c["data"].isoformat() if c["data"] else None}
             entry["pliki"].append(item)
@@ -395,10 +418,8 @@ def main():
 
     OUT.mkdir(exist_ok=True)
     state = load_state()
-    since = parse_date(state.get("ostatnie_uruchomienie")) or (
-        today - dt.timedelta(days=CONFIG["dni_wstecz_pierwsze_uruchomienie"])
-    )
-    since = since - dt.timedelta(days=2)  # zakładka na opóźnienia publikacji
+    # Stałe okno (domyślnie 35 dni) – ręczne uruchomienia między terminami niczego nie „zjadają”.
+    since = today - dt.timedelta(days=CONFIG.get("dni_wstecz", 35))
     log(f"Okno: {since} – {today}")
 
     acts = collect_acts(since, today)
@@ -409,7 +430,13 @@ def main():
     proc_nums = []
     for p in prints:
         proc_nums.extend(p.get("proces") or [re.sub(r"-[A-Z]+$", "", p["numer"])])
-    processes = collect_processes(term, list(dict.fromkeys(proc_nums))[:MAX_PROCESSES])
+    seen = state.get("procesy_widziane", {})
+    for n in proc_nums:
+        seen.setdefault(n, today.isoformat())
+    keep_from = today - dt.timedelta(days=CONFIG.get("procesy_dni", 120))
+    seen = {n: d for n, d in seen.items() if parse_date(d) and parse_date(d) >= keep_from}
+    order = sorted(seen, key=lambda n: seen[n], reverse=True)
+    processes = collect_processes(term, order[:MAX_PROCESSES])
     log(f"Procesy: {len(processes)}")
     regions = collect_regions(state.get("regiony", {}))
     log("Regiony: " + ", ".join(f"{k}={v['status']}" for k, v in regions.items()))
@@ -431,6 +458,7 @@ def main():
     save_json("index.json", index)
     state = {
         "ostatnie_uruchomienie": today.isoformat(),
+        "procesy_widziane": seen,
         "regiony": {k: {"sha": v.get("sha"), "pliki": [{"url": f["url"], "sha": f.get("sha")} for f in v["pliki"]]}
                     for k, v in regions.items()},
     }

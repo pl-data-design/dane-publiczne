@@ -3,7 +3,8 @@
     1,
     15
   ],
-  "dni_wstecz_pierwsze_uruchomienie": 35,
+  "dni_wstecz": 35,
+  "procesy_dni": 120,
   "sejm_kadencja": null,
   "regiony": {
     "dolnośląskie": [

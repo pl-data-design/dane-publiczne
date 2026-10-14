@@ -1,0 +1,2467 @@
+Program
+
+Działanie - kod i nazwa
+
+Realizacja instrumentów 
+terytorialnych
+
+Tytuł naboru
+
+Typy projektów, które mogą otrzymać 
+dofinansowanie 
+
+Sposób wyboru projektów
+
+Wnioskodawcy - ogólni
+
+Wnioskodawcy - szczegółowi
+
+Przewidywana data 
+rozpoczęcia naboru
+
+Data zakończenia 
+naboru
+
+ Całkowity budżet naboru (PLN) 
+
+Obszar geograficzny
+
+Instytucja, która 
+przeprowadzi nabór
+
+Cel szczegółowy - kod i nazwa
+
+Fundusz
+
+Informacje dodatkowe
+
+Załącznik do Uchwały nr 1241/26
+Zarządu Województwa Łódzkiego 
+z dnia 21 września 2026 r.
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+Projekty badawczo-rozwojowe przedsiębiorstw
+
+konkurencyjny
+
+Instytucje nauki i edukacji, 
+Instytucje wspierające biznes, 
+Partnerstwa, Przedsiębiorstwa
+
+Duże przedsiębiorstwa, Jednostki naukowe, 
+Konsorcja naukowo-przemysłowe, MŚP, 
+Organizacje badawcze, Ośrodki innowacji, 
+Uczelnie
+
+2026-09-15
+
+2026-10-30
+
+ 9 315 247,05 zł 
+
+Województwo łódzkie
+
+Instytucja Pośrednicząca
+ [Centrum Obsługi 
+Przedsiębiorcy]
+
+EFRR.CP1.I Rozwijanie i wzmacnianie zdolności 
+badawczych i innowacyjnych oraz wykorzystywanie 
+zaawansowanych technologii
+
+15
+
+EFRR
+
+16
+
+Nie dotyczy
+
+FELD
+
+FELD.01.05 Konkurencyjność MŚP
+
+Nie dotyczy
+
+Rozwój usług dla firm (w tym innowacyjnych)
+
+niekonkurencyjny
+
+Województwo Łódzkie
+
+Województwo Łódzkie
+
+2027-01
+
+2027-03
+
+ 6 145 500,00 zł 
+
+Województwo łódzkie
+
+Instytucja Pośrednicząca
+ [Centrum Obsługi 
+Przedsiębiorcy]
+
+EFRR.CP1.III Wzmacnianie trwałego wzrostu i 
+konkurencyjności MŚP oraz tworzenie miejsc pracy w 
+MŚP, w tym poprzez inwestycje produkcyjne
+
+EFRR
+
+Województwo Łódzkie
+
+1
+
+FELD
+
+FELD.01.02 Inwestycje przedsiębiorstw w 
+badania i innowacje
+
+Nie dotyczy
+
+Budowa, przebudowa, 
+rozbudowa, modernizacja 
+infrastruktury B+R w 
+przedsiębiorstwach
+
+Łódzkie dla Biznesu – 
+Wsparcie, które działa
+
+FELD
+
+FELD.02.08 Dostosowanie do zmian klimatu, 
+zapobieganie klęskom i katastrofom
+
+Nie dotyczy
+
+Nie dotyczy
+
+Zakup sprzętu do prowadzenia akcji ratowniczych 
+lub usuwania skutków zjawisk katastrofalnych lub 
+poważnych awarii chemiczno-ekologicznych
+
+konkurencyjny
+
+Administracja publiczna, 
+Organizacje społeczne i związki 
+wyznaniowe, Służby publiczne
+
+Jednostki organizacyjne działające w imieniu 
+jednostek samorządu terytorialnego, 
+Jednostki Samorządu Terytorialnego, 
+Organizacje pozarządowe, Podmioty 
+świadczące usługi publiczne w ramach 
+realizacji obowiązków własnych jednostek 
+samorządu terytorialnego, Policja, Straż 
+pożarna i służby ratownicze
+
+2026-09-25
+
+2026-11-05
+
+ 30 000 000,00 zł 
+
+Województwo łódzkie
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+EFRR/FS.CP2.IV Wspieranie przystosowania się do 
+zmian klimatu i zapobiegania ryzyku związanemu z 
+klęskami żywiołowymi i katastrofami, a także 
+odporności, z uwzględnieniem podejścia 
+ekosystemowego
+
+EFRR
+
+Nie dotyczy
+
+FELD
+
+FELD.02.18 Ochrona przyrody – ZIT Łódzki 
+Obszar Metropolitalny
+
+ZIT
+
+OP_SŁOM_4
+
+FELD
+
+FELD.02.21 Dostosowanie do zmian klimatu, 
+zapobieganie klęskom i katastrofom – ZIT 
+Sieradz-Zduńska Wola-Łask
+
+ZIT
+
+ZK_SIERADZ_5
+
+FELD
+
+FELD.02.28 Odnawialne źródła energii – ZIT 
+Tomaszów Mazowiecki-Opoczno
+
+ZIT
+
+OZE_Tomaszów_5
+
+FELD
+
+FELD.02.29 Dostosowanie do zmian klimatu, 
+zapobieganie klęskom i katastrofom – ZIT 
+Tomaszów Mazowiecki-Opoczno
+
+ZIT
+
+ZK_Tomaszów_4
+
+Tworzenie lub wsparcie centrów ochrony 
+różnorodności biologicznej (np. banki genowe, parki 
+miejskie, ogrody botaniczne, ogrody tematyczne i 
+edukacyjne, ośrodki rehabilitacji zwierząt 
+chronionych), ośrodków prowadzących działalność 
+w zakresie edukacji ekologicznej;
+Inwestycje związane z właściwym ukierunkowaniem 
+ruchu turystycznego na obszarach cennych 
+przyrodniczo służące ograniczeniu antropopresji i 
+degradacji środowiska
+
+Adaptacja miast do zmian klimatu;
+Inwestycje w zakresie urządzeń wodnych i 
+infrastruktury towarzyszącej służących zmniejszeniu 
+skutków powodzi lub suszy;
+Inwestycje w zakresie ochrony przed pożarami 
+lasów oraz obszarów cennych przyrodniczo;
+Inwestycje w zakresie małej retencji[1], w tym 
+retencji naturalnej;
+Zakup sprzętu do prowadzenia akcji ratowniczych 
+lub usuwania skutków zjawisk katastrofalnych lub 
+poważnych awarii chemiczno-ekologicznych
+
+Wsparcie infrastruktury służącej do wytwarzania 
+energii elektrycznej, pochodzącej ze źródeł 
+odnawialnych;
+Wsparcie infrastruktury służącej do wytwarzania 
+energii cieplnej lub chłodu, pochodzącej ze źródeł 
+odnawialnych wraz z przyłączeniem do sieci;
+Wsparcie infrastruktury służącej do magazynowania 
+ciepła lub chłodu ze źródeł odnawialnych;
+Wsparcie infrastruktury służącej do magazynowania 
+energii elektrycznej ze źródeł odnawialnych, 
+pracującej na rzecz istniejącej instalacji energii 
+odnawialnej, a w przypadku projektu łączącego typ 
+przedsięwzięcia z wsparciem infrastruktury służącej 
+do wytwarzania energii elektrycznej pochodzącej ze 
+źródeł odnawialnych, również na rzecz instalacji 
+będącej przedmiotem projektu
+
+Adaptacja miast do zmian klimatu;
+Inwestycje w zakresie urządzeń wodnych i 
+infrastruktury towarzyszącej służących zmniejszeniu 
+skutków powodzi lub suszy;
+Inwestycje w zakresie ochrony przed pożarami 
+lasów oraz obszarów cennych przyrodniczo;
+Inwestycje w zakresie małej retencji[1], w tym 
+retencji naturalnej;
+Zakup sprzętu do prowadzenia akcji ratowniczych 
+lub usuwania skutków zjawisk katastrofalnych lub 
+poważnych awarii chemiczno-ekologicznych
+
+niekonkurencyjny
+
+Zintegrowane Inwestycje 
+Terytorialne (ZIT)
+
+Jednostki Samorządu Terytorialnego
+
+2026-11-02
+
+2026-11-30
+
+ 2 023 387,38 zł 
+
+Województwo łódzkie
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+EFRR/FS.CP2.VII Wzmacnianie ochrony i zachowania 
+przyrody, różnorodności biologicznej oraz zielonej 
+infrastruktury, w tym na obszarach miejskich, oraz 
+ograniczanie wszelkich rodzajów zanieczyszczenia
+
+EFRR
+
+Nabór na projekt:
+ Kompleksowe zagospodarowanie terenu Leźnicy Wielkiej 
+w gminie Parzęczew - Gmina Parzęczew
+
+niekonkurencyjny
+
+Zintegrowane Inwestycje 
+Terytorialne (ZIT)
+
+Jednostki Samorządu Terytorialnego
+
+2026-09-01
+
+2026-09-30
+
+ 3 894 575,53 zł 
+
+Województwo łódzkie
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+EFRR/FS.CP2.IV Wspieranie przystosowania się do 
+zmian klimatu i zapobiegania ryzyku związanemu z 
+klęskami żywiołowymi i katastrofami, a także 
+odporności, z uwzględnieniem podejścia 
+ekosystemowego
+
+EFRR
+
+Nabór na projekt: 
+Zakup samochodów ratowniczo - gaśniczych wraz z 
+wyposażeniem na potrzeby Gminy Sieradz - Gmina 
+Sieradz
+
+niekonkurencyjny
+
+Zintegrowane Inwestycje 
+Terytorialne (ZIT)
+
+Jednostki Samorządu Terytorialnego
+
+2026-09-01
+
+2026-09-30
+
+ 3 117 162,85 zł 
+
+Województwo łódzkie
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+EFRR/FS.CP2.II Wspieranie energii odnawialnej 
+zgodnie z dyrektywą (UE) 2018/2001, w tym 
+określonymi w niej kryteriami zrównoważonego 
+rozwoju
+
+EFRR
+
+Nabór na projekt:
+Zasilanie energią odnawialną z OZE obiektów 
+użyteczności publicznej w Gminie Lubochnia - Gmina 
+Lubochnia
+
+niekonkurencyjny
+
+Zintegrowane Inwestycje 
+Terytorialne (ZIT)
+
+Jednostki Samorządu Terytorialnego
+
+2026-10-01
+
+2026-10-30
+
+ 857 729,34 zł 
+
+Województwo łódzkie
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+EFRR/FS.CP2.IV Wspieranie przystosowania się do 
+zmian klimatu i zapobiegania ryzyku związanemu z 
+klęskami żywiołowymi i katastrofami, a także 
+odporności, z uwzględnieniem podejścia 
+ekosystemowego
+
+EFRR
+
+Nabór na projekt: 
+Gospodarowanie wodami opadowymi w Gminie Opoczno 
+- Gmina Opoczno
+
+FELD
+
+FELD.03.01 Mobilność miejska
+
+Nie dotyczy
+
+Nie dotyczy
+
+Inwestycje z zakresu niezmotoryzowanego 
+transportu indywidualnego
+
+konkurencyjny
+
+Administracja publiczna
+
+ Jednostki Samorządu Terytorialnego
+
+2026-11-19
+
+2026-12-30
+
+ 99 000 000,00 zł 
+
+Województwo łódzkie
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+EFRR/FS.CP2.VIII Wspieranie zrównoważonej 
+multimodalnej mobilności miejskiej jako elementu 
+transformacji w kierunku gospodarki zeroemisyjnej
+
+EFRR
+
+Nie dotyczy
+
+Program
+
+Działanie - kod i nazwa
+
+Realizacja instrumentów 
+terytorialnych
+
+Tytuł naboru
+
+Typy projektów, które mogą otrzymać 
+dofinansowanie 
+
+Sposób wyboru projektów
+
+Wnioskodawcy - ogólni
+
+Wnioskodawcy - szczegółowi
+
+Przewidywana data 
+rozpoczęcia naboru
+
+Data zakończenia 
+naboru
+
+ Całkowity budżet naboru (PLN) 
+
+Obszar geograficzny
+
+Instytucja, która 
+przeprowadzi nabór
+
+Cel szczegółowy - kod i nazwa
+
+Fundusz
+
+Informacje dodatkowe
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+FELD
+
+FELD.03.02 Mobilność miejska - ZIT Łódzki 
+Obszar Metropolitalny
+
+ZIT
+
+MM_SŁOM_7
+
+FELD
+
+FELD.03.03 Mobilność miejska - ZIT Sieradz-
+Zduńska Wola-Łask
+
+ZIT
+
+MM_SIERADZ_2
+
+FELD
+
+FELD.05.04 Kultura i turystyka - ZIT Sieradz-
+Zduńska Wola-Łask
+
+ZIT
+
+KiT_SIERADZ_6
+
+FELD
+
+FELD.05.06 Kultura i turystyka - ZIT 
+Tomaszów Mazowiecki-Opoczno
+
+ZIT
+
+KiT_Tomaszów_9
+
+Inwestycje z zakresu infrastruktury publicznego 
+transportu zbiorowego;
+Inwestycje dotyczące bezemisyjnego lub 
+niskoemisyjnego taboru komunikacji miejskiej z 
+niezbędną infrastrukturą;
+Inwestycje z zakresu niezmotoryzowanego 
+transportu indywidualnego;
+Inwestycje dotyczące ogólnodostępnej 
+infrastruktury paliw alternatywnych;
+Inwestycje z zakresu cyfryzacji w transporcie 
+miejskim;
+Przygotowanie lub aktualizacja planów 
+zrównoważonej mobilności miejskiej
+
+Inwestycje z zakresu infrastruktury publicznego 
+transportu zbiorowego;
+Inwestycje dotyczące bezemisyjnego lub 
+niskoemisyjnego taboru komunikacji miejskiej z 
+niezbędną infrastrukturą;
+Inwestycje z zakresu niezmotoryzowanego 
+transportu indywidualnego;
+Inwestycje dotyczące ogólnodostępnej 
+infrastruktury paliw alternatywnych;
+Inwestycje z zakresu cyfryzacji w transporcie 
+miejskim;
+Przygotowanie lub aktualizacja planów 
+zrównoważonej mobilności miejskiej
+
+Przedsięwzięcia związane z tworzeniem wspólnej 
+oferty instytucji kultury i wypracowaniem 
+mechanizmów współpracy sieciowej instytucji 
+kultury, w tym przedsięwzięcia dotyczące rozwoju 
+międzysektorowej współpracy w ramach 
+zwiększania zaangażowania sektora prywatnego i 
+pozarządowego w sektorze kultury, uzupełnione o 
+wsparcie inwestycji związanych z rozwojem 
+infrastruktury służącej prowadzeniu działalności 
+kulturalnej;
+Inwestycje związane z tworzeniem wspólnej oferty 
+turystycznej, sprzyjające budowaniu rozpoznawalnej 
+marki turystycznej województwa poprzez 
+promowanie istniejących lub budowanie nowych 
+marek turystycznych;
+Inwestycje w infrastrukturę turystyczną, w 
+szczególności tworzącą piesze, rowerowe, konne lub 
+wodne szlaki turystyczne; Wsparcie inicjatyw na 
+rzecz rozwoju terytorialnego
+
+Przedsięwzięcia związane z tworzeniem wspólnej 
+oferty instytucji kultury i wypracowaniem 
+mechanizmów współpracy sieciowej instytucji 
+kultury, w tym przedsięwzięcia dotyczące rozwoju 
+międzysektorowej współpracy w ramach 
+zwiększania zaangażowania sektora prywatnego i 
+pozarządowego w sektorze kultury, uzupełnione o 
+wsparcie inwestycji związanych z rozwojem 
+infrastruktury służącej prowadzeniu działalności 
+kulturalnej; Inwestycje związane z tworzeniem 
+wspólnej oferty turystycznej, sprzyjające budowaniu 
+rozpoznawalnej marki turystycznej województwa 
+poprzez promowanie istniejących lub budowanie 
+nowych marek turystycznych; 
+Inwestycje w infrastrukturę turystyczną, w 
+szczególności tworzącą piesze, rowerowe, konne lub 
+wodne szlaki turystyczne;  
+Wsparcie inicjatyw na rzecz rozwoju terytorialnego
+
+niekonkurencyjny
+
+Zintegrowane Inwestycje 
+Terytorialne (ZIT)
+
+Jednostki Samorządu Terytorialnego
+
+2026-09-15
+
+2026-10-15
+
+ 11 959 408,89 zł 
+
+Województwo łódzkie
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+EFRR/FS.CP2.VIII Wspieranie zrównoważonej 
+multimodalnej mobilności miejskiej jako elementu 
+transformacji w kierunku gospodarki zeroemisyjnej
+
+EFRR
+
+Nabór na projekt: 
+Budowa systemu mobilności lokalnej w Konstantynowie 
+Łódzkim - Gmina Konstantynów Łódzki
+
+niekonkurencyjny
+
+Zintegrowane Inwestycje 
+Terytorialne (ZIT)
+
+Jednostki Samorządu Terytorialnego
+
+2026-09-01
+
+2026-09-30
+
+ 32 938 074,73 zł 
+
+Województwo łódzkie
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+EFRR/FS.CP2.VIII Wspieranie zrównoważonej 
+multimodalnej mobilności miejskiej jako elementu 
+transformacji w kierunku gospodarki zeroemisyjnej
+
+EFRR
+
+Nabór na projekty:
+Budowa dróg pieszo-rowerowych w mieście Zduńska 
+Wola - Miasto Zduńska Wola;
+Wymiana taboru publicznego na niskoemisyjny wraz z 
+niezbędną infrastrukturą oraz cyfryzacją transportu 
+miejskiego w Zduńskiej Woli - Miejskie Przedsiębiorstwo 
+Komunikacji Sp. z o.o.;
+Budowa punktów ładowania pojazdów elektrycznych - 
+Gmina Łask;
+Rowerowy Sieradz - Gmina Miasto Sieradz;
+Zielony mobilny Łask - Gmina Łask
+
+niekonkurencyjny
+
+Zintegrowane Inwestycje 
+Terytorialne (ZIT)
+
+Jednostki Samorządu Terytorialnego
+
+2026-09-01
+
+2026-09-30
+
+ 18 840 371,35 zł 
+
+Województwo łódzkie
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+EFRR.CP5.I Wspieranie zintegrowanego i sprzyjającego 
+włączeniu społecznemu rozwoju społecznego, 
+gospodarczego i środowiskowego, kultury, 
+dziedzictwa naturalnego, zrównoważonej turystyki i 
+bezpieczeństwa na obszarach miejskich
+
+EFRR
+
+Nabór na projekty: 
+Budowa bulwarów nad rzeką Wartą w Sieradzu  - Miasto 
+Sieradz;
+Przebudowa i modernizacja infrastruktury kultury w 
+Zduńskiej Woli -  Miejski Dom Kultury w Zduńskiej Woli;
+Infrastruktura turystyczna w Gminie Sieradz - Gmina 
+Sieradz
+
+niekonkurencyjny
+
+Zintegrowane Inwestycje 
+Terytorialne (ZIT)
+
+Jednostki Samorządu Terytorialnego
+
+2026-10-01
+
+2026-10-30
+
+ 6 410 977,51 zł 
+
+Województwo łódzkie
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+EFRR.CP5.I Wspieranie zintegrowanego i sprzyjającego 
+włączeniu społecznemu rozwoju społecznego, 
+gospodarczego i środowiskowego, kultury, 
+dziedzictwa naturalnego, zrównoważonej turystyki i 
+bezpieczeństwa na obszarach miejskich
+
+EFRR
+
+Nabór na projekt:
+Rozwój infrastruktury turystycznej na terenie gminy 
+Tomaszów Mazowiecki - Gmina Tomaszów Mazowiecki
+
+FELD
+
+FELD.07.01 Aktywizacja zawodowa – PUP
+
+Nie dotyczy
+
+PUP 1/2026
+
+Programy przyczyniające się do poprawy sytuacji na 
+rynku pracy
+
+niekonkurencyjny
+
+Służby publiczne
+
+Instytucje rynku pracy
+
+2026-12-21
+
+2027-01-21
+
+ 191 700 000,00 zł 
+
+Województwo łódzkie 
+
+FELD
+
+FELD.07.02 Aktywizacja zawodowa – OHP
+
+Nie dotyczy
+
+Nie dotyczy
+
+Programy przyczyniające się do poprawy sytuacji na 
+rynku pracy
+
+niekonkurencyjny
+
+Służby publiczne
+
+Instytucje rynku pracy
+
+2026-12-18
+
+2027-01-18
+
+ 2 500 000,00 zł 
+
+Województwo łódzkie 
+
+Instytucja Pośrednicząca 
+[Wojewódzki Urząd Pracy 
+w Łodzi]
+
+Instytucja Pośrednicząca 
+[Wojewódzki Urząd Pracy 
+w Łodzi]
+
+EFS+.CP4.A Poprawa dostępu do zatrudnienia i działań 
+aktywizujących dla wszystkich osób poszukujących 
+pracy, w szczególności osób młodych, zwłaszcza 
+poprzez wdrażanie gwarancji dla młodzieży, 
+długotrwale bezrobotnych oraz grup znajdujących się 
+w niekorzystnej sytuacji na rynku pracy, jak również 
+dla osób biernych zawodowo, a także poprzez 
+promowanie samozatrudnienia i ekonomii społecznej
+
+EFS+.CP4.A Poprawa dostępu do zatrudnienia i działań 
+aktywizujących dla wszystkich osób poszukujących 
+pracy, w szczególności osób młodych, zwłaszcza 
+poprzez wdrażanie gwarancji dla młodzieży, 
+długotrwale bezrobotnych oraz grup znajdujących się 
+w niekorzystnej sytuacji na rynku pracy, jak również 
+dla osób biernych zawodowo, a także poprzez 
+promowanie samozatrudnienia i ekonomii społecznej
+
+EFS+
+
+Powiatowe Urzędy Pracy
+
+EFS+
+
+Łódzka Wojewódzka Komenda Ochotniczych Hufców 
+Pracy
+
+Program
+
+Działanie - kod i nazwa
+
+Realizacja instrumentów 
+terytorialnych
+
+Tytuł naboru
+
+Typy projektów, które mogą otrzymać 
+dofinansowanie 
+
+Sposób wyboru projektów
+
+Wnioskodawcy - ogólni
+
+Wnioskodawcy - szczegółowi
+
+Przewidywana data 
+rozpoczęcia naboru
+
+Data zakończenia 
+naboru
+
+ Całkowity budżet naboru (PLN) 
+
+Obszar geograficzny
+
+Instytucja, która 
+przeprowadzi nabór
+
+Cel szczegółowy - kod i nazwa
+
+Fundusz
+
+Informacje dodatkowe
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+FELD
+
+FELD.07.05 Integracja i społeczeństwo 
+obywatelskie
+
+Nie dotyczy
+
+Antydyskryminacja
+
+Działania antydyskryminacyjne
+
+konkurencyjny
+
+Administracja publiczna, 
+Instytucje nauki i edukacji, 
+Instytucje wspierające biznes, 
+Organizacje społeczne i związki 
+wyznaniowe, Partnerzy społeczni,
+Przedsiębiorstwa, Służby publiczne
+
+Duże przedsiębiorstwa, Instytucje integracji i 
+pomocy społecznej, Instytucje kultury, 
+Instytucje rynku pracy, Instytucje sportu, Izby 
+gospodarcze, Jednostki organizacyjne 
+działające w imieniu jednostek samorządu 
+terytorialnego, Kluby sportowe, centra 
+sportu, Kościoły i związki wyznaniowe, MŚP, 
+Niepubliczne instytucje kultury, Niepubliczne 
+instytucje sportu, Niepubliczne podmioty 
+integracji i pomocy społecznej, Organizacje 
+pozarządowe, Organizacje zrzeszające 
+pracodawców, Ośrodki kształcenia dorosłych, 
+Podmioty ekonomii społecznej, Szkoły i inne 
+placówki systemu oświaty, Uczelnie, Związki 
+zawodowe
+
+2027-03
+
+2027-04
+
+ 4 571 373,00 zł 
+
+Województwo łódzkie 
+
+Instytucja Pośrednicząca 
+[Wojewódzki Urząd Pracy 
+w Łodzi]
+
+EFS+.CP4.H Wspieranie aktywnego włączenia 
+społecznego w celu promowania równości szans, 
+niedyskryminacji i aktywnego uczestnictwa, oraz 
+zwiększanie zdolności do zatrudnienia, w 
+szczególności grup w niekorzystnej sytuacji
+
+EFS+
+
+Nie dotyczy
+
+FELD
+
+FELD.07.05 Integracja i społeczeństwo 
+obywatelskie
+
+Nie dotyczy
+
+Partnerzy społeczni
+
+Budowa zdolności partnerów społecznych 
+
+konkurencyjny
+
+Partnerzy społeczni
+
+Organizacje zrzeszające pracodawców, 
+Związki zawodowe
+
+2027-03
+
+2027-04
+
+ 2 436 683,00 zł 
+
+Województwo łódzkie 
+
+Instytucja Pośrednicząca 
+[Wojewódzki Urząd Pracy 
+w Łodzi]
+
+EFS+.CP4.H Wspieranie aktywnego włączenia 
+społecznego w celu promowania równości szans, 
+niedyskryminacji i aktywnego uczestnictwa, oraz 
+zwiększanie zdolności do zatrudnienia, w 
+szczególności grup w niekorzystnej sytuacji
+
+EFS+
+
+Nie dotyczy
+
+FELD
+
+FELD.07.09 Usługi społeczne i zdrowotne
+
+Nie dotyczy
+
+Nie dotyczy
+
+Rozwój zdeinstytucjonalizowanych usług 
+społecznych;
+Wsparcie tworzenia i funkcjonowania centrów usług 
+społecznych (CUS);
+Podnoszenie kwalifikacji i kompetencji kadr na 
+potrzeby świadczenia usług w społeczności lokalnej 
+oraz zapewnienie dostępu do superwizji
+
+konkurencyjny
+
+Administracja publiczna, Instytucje 
+nauki i edukacji, Instytucje 
+ochrony zdrowia, Organizacje 
+społeczne i związki wyznaniowe, 
+Przedsiębiorstwa, Służby 
+publiczne, Partnerzy społeczni
+
+Duże przedsiębiorstwa, Instytucje integracji i 
+pomocy społecznej, Instytucje kultury, 
+Instytucje sportu, Jednostki organizacyjne 
+działające w imieniu jednostek samorządu 
+terytorialnego, Jednostki Samorządu 
+Terytorialnego, Kluby sportowe, centra 
+sportu, Kościoły i związki wyznaniowe, MŚP, 
+Niepubliczne instytucje kultury, Niepubliczne 
+instytucje sportu, Niepubliczne podmioty 
+integracji i pomocy społecznej, Niepubliczne 
+zakłady opieki zdrowotnej, Organizacje 
+pozarządowe, Ośrodki kształcenia dorosłych, 
+Podmioty ekonomii społecznej, Publiczne 
+zakłady opieki zdrowotnej, Szkoły i inne 
+placówki systemu oświaty, Uczelnie, 
+Wspólnoty, spółdzielnie mieszkaniowe TBS i 
+SIM, Związki zawodowe
+
+2027-01
+
+2027-02
+
+ 42 499 873,00 zł 
+
+Województwo łódzkie 
+
+Instytucja Pośrednicząca 
+[Wojewódzki Urząd Pracy 
+w Łodzi]
+
+FELD
+
+FELD.07.10 Usługi społeczne i zdrowotne - 
+ZIT Łódzki Obszar Metropolitalny
+
+ZIT
+
+SP1-104
+
+Rozwój zdeinstytucjonalizowanych usług 
+społecznych; 
+Podnoszenie kwalifikacji i kompetencji kadr na 
+potrzeby świadczenia usług w społeczności lokalnej 
+oraz zapewnienie dostępu do superwizji
+
+niekonkurencyjny
+
+Zintegrowane Inwestycje
+Terytorialne (ZIT)
+
+ Jednostki Samorządu Terytorialnego, 
+Jednostki organizacyjne działające w imieniu 
+jednostek samorządu terytorialnego
+
+2026-09-29
+
+2026-10-15
+
+ 1 281 942,00 zł 
+
+Województwo łódzkie 
+
+Instytucja Pośrednicząca 
+[Wojewódzki Urząd Pracy 
+w Łodzi]
+
+FELD
+
+FELD.07.10 Usługi społeczne i zdrowotne - 
+ZIT Łódzki Obszar Metropolitalny
+
+ZIT
+
+SP1-101
+
+Rozwój zdeinstytucjonalizowanych usług 
+zdrowotnych
+
+niekonkurencyjny
+
+Zintegrowane Inwestycje
+Terytorialne (ZIT)
+
+ Jednostki Samorządu Terytorialnego, 
+Jednostki organizacyjne działające w imieniu 
+jednostek samorządu terytorialnego
+
+2026-12-21
+
+2027-01-15
+
+ 1 225 750,00 zł 
+
+Województwo łódzkie 
+
+Instytucja Pośrednicząca 
+[Wojewódzki Urząd Pracy 
+w Łodzi]
+
+EFS+.CP4.K Zwiększanie równego i szybkiego dostępu 
+do dobrej jakości, trwałych i przystępnych cenowo 
+usług, w tym usług, które wspierają dostęp do 
+mieszkań oraz opieki skoncentrowanej na osobie, w 
+tym opieki zdrowotnej; modernizacja systemów 
+ochrony socjalnej, w tym wspieranie dostępu do 
+ochrony socjalnej, ze szczególnym uwzględnieniem 
+dzieci i grup w niekorzystnej sytuacji; poprawa 
+dostępności, w tym dla osób z 
+niepełnosprawnościami, skuteczności i odporności 
+systemów ochrony zdrowia i usług opieki 
+długoterminowej
+
+EFS+.CP4.K Zwiększanie równego i szybkiego dostępu 
+do dobrej jakości, trwałych i przystępnych cenowo 
+usług, w tym usług, które wspierają dostęp do 
+mieszkań oraz opieki skoncentrowanej na osobie, w 
+tym opieki zdrowotnej; modernizacja systemów 
+ochrony socjalnej, w tym wspieranie dostępu do 
+ochrony socjalnej, ze szczególnym uwzględnieniem 
+dzieci i grup w niekorzystnej sytuacji; poprawa 
+dostępności, w tym dla osób z 
+niepełnosprawnościami, skuteczności i odporności 
+systemów ochrony zdrowia i usług opieki 
+długoterminowej
+
+EFS+.CP4.K Zwiększanie równego i szybkiego dostępu 
+do dobrej jakości, trwałych i przystępnych cenowo 
+usług, w tym usług, które wspierają dostęp do 
+mieszkań oraz opieki skoncentrowanej na osobie, w 
+tym opieki zdrowotnej; modernizacja systemów 
+ochrony socjalnej, w tym wspieranie dostępu do 
+ochrony socjalnej, ze szczególnym uwzględnieniem 
+dzieci i grup w niekorzystnej sytuacji; poprawa 
+dostępności, w tym dla osób z 
+niepełnosprawnościami, skuteczności i odporności 
+systemów ochrony zdrowia i usług opieki 
+długoterminowej
+
+EFS+
+
+Nie dotyczy
+
+EFS+
+
+Nabór na projekt:
+"Zaopiekowani" - Miasto Pabianice
+
+EFS+
+
+Nabór na projekt:
+ "Wsparcie opieki geriatrycznej na
+terenie gminy Andrespol" - Gmina Andrespol
+
+Program
+
+Działanie - kod i nazwa
+
+Realizacja instrumentów 
+terytorialnych
+
+Tytuł naboru
+
+Typy projektów, które mogą otrzymać 
+dofinansowanie 
+
+Sposób wyboru projektów
+
+Wnioskodawcy - ogólni
+
+Wnioskodawcy - szczegółowi
+
+Przewidywana data 
+rozpoczęcia naboru
+
+Data zakończenia 
+naboru
+
+ Całkowity budżet naboru (PLN) 
+
+Obszar geograficzny
+
+Instytucja, która 
+przeprowadzi nabór
+
+Cel szczegółowy - kod i nazwa
+
+Fundusz
+
+Informacje dodatkowe
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+FELD
+
+FELD.07.11 Usługi na rzecz dzieci i młodzieży 
+oraz młodych dorosłych
+
+Nie dotyczy
+
+Nie dotyczy
+
+Rozwój usług skierowanych do dzieci i młodzieży 
+oraz młodych dorosłych
+
+konkurencyjny
+
+Administracja publiczna,
+Instytucje nauki i edukacji,
+Instytucje ochrony zdrowia,
+Organizacje społeczne i związki
+wyznaniowe, Przedsiębiorstwa,
+Służby publiczne
+
+Duże przedsiębiorstwa, Instytucje integracji i 
+pomocy społecznej, Instytucje kultury, 
+Instytucje sportu, Jednostki organizacyjne 
+działające w imieniu jednostek samorządu 
+terytorialnego, Jednostki Samorządu 
+Terytorialnego, Kluby sportowe, centra 
+sportu, Kościoły i związki wyznaniowe, MŚP, 
+Niepubliczne instytucje kultury, Niepubliczne 
+instytucje sportu, Niepubliczne podmioty 
+integracji i pomocy społecznej, Niepubliczne 
+zakłady opieki zdrowotnej, Organizacje 
+pozarządowe, Ośrodki kształcenia dorosłych, 
+Podmioty ekonomii społecznej, Publiczne 
+zakłady opieki zdrowotnej, Szkoły i inne 
+placówki systemu oświaty, Uczelnie, 
+Wspólnoty, spółdzielnie mieszkaniowe i TBS, 
+Wymiar sprawiedliwości
+
+2027-03
+
+2027-05
+
+ 12 227 568,00 zł 
+
+Województwo łódzkie 
+
+Instytucja Pośrednicząca 
+[Wojewódzki Urząd Pracy 
+w Łodzi]
+
+EFS+.CP4.L Wspieranie integracji społecznej osób 
+zagrożonych ubóstwem lub wykluczeniem 
+społecznym, w tym osób najbardziej potrzebujących i 
+dzieci 
+
+EFS+
+
+Nie dotyczy
+
+FELD
+
+FELD.07.12 Usługi na rzecz rodziny
+
+Nie dotyczy
+
+Nabór dla JST
+
+Rozwój usług wspierania rodziny i systemu pieczy 
+zastępczej;
+Tworzenie ośrodków lub punktów interwencji 
+kryzysowej oraz rozwój usług w zakresie 
+przeciwdziałania przemocy, w tym przemocy w 
+rodzinie;
+Rozwój usług skierowanych do dzieci i młodzieży 
+oraz młodych dorosłych;
+Podnoszenie kwalifikacji i kompetencji kadr na 
+potrzeby świadczenia usług w społeczności lokalnej 
+oraz zapewnienie dostępu do superwizji
+
+konkurencyjny
+
+Administracja publiczna,
+Służby publiczne 
+
+ Jednostki Samorządu Terytorialnego, 
+Jednostki organizacyjne działające w imieniu 
+jednostek samorządu terytorialnego,  
+Instytucje integracji i pomocy społecznej
+
+2026-12-30
+
+2027-02-26
+
+ 20 000 000,00 zł 
+
+Województwo łódzkie 
+
+Instytucja Pośrednicząca 
+[Wojewódzki Urząd Pracy 
+w Łodzi]
+
+EFS+.CP4.L Wspieranie integracji społecznej osób 
+zagrożonych ubóstwem lub wykluczeniem 
+społecznym, w tym osób najbardziej potrzebujących i 
+dzieci 
+
+EFS+
+
+Nie dotyczy
+
+FELD
+
+FELD.07.12 Usługi na rzecz rodziny
+
+Nie dotyczy
+
+Adopcja
+
+Rozwój usług adopcyjnych
+
+niekonkurencyjny
+
+Administracja publiczna
+
+ Jednostki Samorządu Terytorialnego, 
+Jednostki organizacyjne działające w imieniu 
+jednostek samorządu terytorialnego
+
+2027-01
+
+2027-03
+
+ 3 500 000,00 zł 
+
+Województwo łódzkie 
+
+Instytucja Pośrednicząca 
+[Wojewódzki Urząd Pracy 
+w Łodzi]
+
+EFS+.CP4.L Wspieranie integracji społecznej osób 
+zagrożonych ubóstwem lub wykluczeniem 
+społecznym, w tym osób najbardziej potrzebujących i 
+dzieci 
+
+EFS+
+
+Nabór na projekt partnerski:
+ Regionalnego Ośrodka Adopcyjnego w Łodzi z ośrodkami 
+adopcyjnymi województwa łódzkiego
+
+FELD
+
+FELD.07.13 Włączenie społeczne
+
+Nie dotyczy
+
+Włączenie społeczne 2/26
+
+Rozwój usług dla osób najbardziej zagrożonych 
+wykluczeniem społecznym, w tym osób w kryzysie 
+bezdomności;
+Podnoszenie kwalifikacji i kompetencji kadr na 
+potrzeby świadczenia usług w społeczności lokalnej 
+oraz zapewnienie dostępu do superwizji
+
+konkurencyjny
+
+Administracja publiczna, Instytucje 
+nauki i edukacji, Instytucje 
+ochrony zdrowia, Organizacje 
+społeczne i związki wyznaniowe, 
+Przedsiębiorstwa, Służby publiczne
+
+Duże przedsiębiorstwa, Instytucje integracji i 
+pomocy społecznej, Instytucje kultury, 
+Instytucje sportu, Jednostki organizacyjne 
+działające w imieniu jednostek samorządu 
+terytorialnego, Jednostki Samorządu 
+Terytorialnego, Kluby sportowe, centra 
+sportu, Kościoły i związki wyznaniowe, MŚP, 
+Niepubliczne instytucje kultury, Niepubliczne 
+instytucje sportu, Niepubliczne podmioty 
+integracji i pomocy społecznej, Niepubliczne 
+zakłady opieki zdrowotnej, Organizacje 
+pozarządowe, Ośrodki kształcenia dorosłych, 
+Podmioty ekonomii społecznej, Publiczne 
+zakłady opieki zdrowotnej, Szkoły i inne 
+placówki systemu oświaty, Uczelnie, 
+Wspólnoty, spółdzielnie mieszkaniowe i TBS, 
+Wymiar sprawiedliwości
+
+2026-10-19
+
+2026-11-30
+
+ 4 454 018,00 zł 
+
+Województwo łódzkie 
+
+Instytucja Pośrednicząca 
+[Wojewódzki Urząd Pracy 
+w Łodzi]
+
+EFS+.CP4.L Wspieranie integracji społecznej osób 
+zagrożonych ubóstwem lub wykluczeniem 
+społecznym, w tym osób najbardziej potrzebujących i 
+dzieci 
+
+EFS+
+
+Nie dotyczy
+
+FELD
+
+FELD.08.04 Zdrowy pracownik
+
+Nie dotyczy
+
+Eliminacja ryzyk
+
+Działania ukierunkowane na eliminowanie 
+zdrowotnych czynników ryzyka w miejscu pracy, 
+przekwalifikowanie pracowników pracujących w 
+warunkach negatywnie wpływających na zdrowie
+
+konkurencyjny
+
+FELD
+
+FELD.08.06 Edukacja przedszkolna
+
+Nie dotyczy
+
+Nie dotyczy
+
+Poprawa jakości edukacji w ośrodkach wychowania 
+przedszkolnego (OWP)
+
+konkurencyjny
+
+Instytucje ochrony zdrowia,
+Administracja publiczna,
+Przedsiębiorstwa,
+Organizacje społeczne i związki 
+wyznaniowe, Partnerzy społeczni, 
+Instytucje nauki i edukacji
+
+Administracja publiczna, Instytucje 
+nauki i edukacji, Organizacje 
+społeczne i związki wyznaniowe, 
+Partnerzy społeczni, 
+Przedsiębiorstwa, Służby publiczne
+
+Nie dotyczy
+
+2026-10-12
+
+2026-11-30
+
+ 20 000 000,00 zł 
+
+Województwo łódzkie
+
+Nie dotyczy
+
+2026-12-14
+
+2027-01-31
+
+ 18 000 000,00 zł 
+
+Województwo łódzkie
+
+FELD
+
+FELD.08.07 Kształcenie ogólne
+
+Nie dotyczy
+
+Kompleksowe wsparcie 
+szkół
+
+Wsparcie szkół realizujących podstawę programową 
+kształcenia ogólnego (szkoły ogólne) ich uczniów i 
+nauczycieli, w ramach kompleksowych programów, 
+podnoszących jakość edukacji, obejmujących rozwój
+kompetencji kluczowych, w tym proinnowacyjnych, 
+kreatywnych, przedsiębiorczych, uniwersalnych,
+przekrojowych, kompetencji społecznych i społeczno-
+emocjonalnych, cyfrowych, realizację działań 
+społeczno-wychowawczych
+
+konkurencyjny
+
+Administracja publiczna, Instytucje 
+nauki i edukacji, Organizacje 
+społeczne i związki wyznaniowe, 
+Partnerzy społeczni, 
+Przedsiębiorstwa, Służby publiczne
+
+Nie dotyczy
+
+2027-02
+
+2027-03
+
+ 8 000 000,00 zł 
+
+Województwo łódzkie
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+EFS+.CP4.D Wspieranie dostosowania pracowników, 
+przedsiębiorstw i przedsiębiorców do zmian, 
+wspieranie aktywnego i zdrowego starzenia się oraz 
+zdrowego i dobrze dostosowanego środowiska pracy, 
+które uwzględnia zagrożenia dla zdrowia
+
+EFS+
+
+Nie dotyczy
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+EFS+.CP4.F Wspieranie równego dostępu do dobrej 
+jakości, włączającego kształcenia i szkolenia oraz 
+możliwości ich ukończenia, w szczególności w 
+odniesieniu do grup w niekorzystnej sytuacji, od 
+wczesnej edukacji i opieki nad dzieckiem przez ogólne 
+i zawodowe kształcenie i szkolenie, po szkolnictwo 
+wyższe, a także kształcenie i uczenie się dorosłych, w 
+tym ułatwianie mobilności edukacyjnej dla wszystkich 
+i dostępności dla osób z niepełnosprawnościami
+
+EFS+.CP4.F Wspieranie równego dostępu do dobrej 
+jakości, włączającego kształcenia i szkolenia oraz 
+możliwości ich ukończenia, w szczególności w 
+odniesieniu do grup w niekorzystnej sytuacji, od 
+wczesnej edukacji i opieki nad dzieckiem przez ogólne 
+i zawodowe kształcenie i szkolenie, po szkolnictwo 
+wyższe, a także kształcenie i uczenie się dorosłych, w 
+tym ułatwianie mobilności edukacyjnej dla wszystkich 
+i dostępności dla osób z niepełnosprawnościami
+
+EFS+
+
+Nie dotyczy
+
+EFS+
+
+Nie dotyczy
+
+Program
+
+Działanie - kod i nazwa
+
+Realizacja instrumentów 
+terytorialnych
+
+Tytuł naboru
+
+Typy projektów, które mogą otrzymać 
+dofinansowanie 
+
+Sposób wyboru projektów
+
+Wnioskodawcy - ogólni
+
+Wnioskodawcy - szczegółowi
+
+Przewidywana data 
+rozpoczęcia naboru
+
+Data zakończenia 
+naboru
+
+ Całkowity budżet naboru (PLN) 
+
+Obszar geograficzny
+
+Instytucja, która 
+przeprowadzi nabór
+
+Cel szczegółowy - kod i nazwa
+
+Fundusz
+
+Informacje dodatkowe
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+FELD
+
+FELD.08.08 Kształcenie zawodowe
+
+Nie dotyczy
+
+Nie dotyczy
+
+Wsparcie uczniów szczególnie uzdolnionych ze szkół 
+prowadzących kształcenie zawodowe poprzez 
+dostosowanie oferty kształcenia we współpracy z 
+uczelniami publicznymi w celu implementacji 
+rozwiązań indywidualizujących ścieżkę rozwoju
+
+konkurencyjny
+
+Instytucje nauki i edukacji
+
+Nie dotyczy
+
+2026-11-09
+
+2026-12-31
+
+ 15 000 000,00 zł 
+
+Województwo łódzkie
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+EFS+.CP4.F Wspieranie równego dostępu do dobrej 
+jakości, włączającego kształcenia i szkolenia oraz 
+możliwości ich ukończenia, w szczególności w 
+odniesieniu do grup w niekorzystnej sytuacji, od 
+wczesnej edukacji i opieki nad dzieckiem przez ogólne 
+i zawodowe kształcenie i szkolenie, po szkolnictwo 
+wyższe, a także kształcenie i uczenie się dorosłych, w 
+tym ułatwianie mobilności edukacyjnej dla wszystkich 
+i dostępności dla osób z niepełnosprawnościami
+
+EFS+
+
+Nie dotyczy
+
+FELD
+
+FELD.09.02 Społeczeństwo w transformacji
+
+Nie dotyczy
+
+Aktywność społeczna
+
+Działania zwiększające aktywność społeczną, 
+świadomość i akceptację dla procesu transformacji z 
+wykorzystaniem potencjału trzeciego sektora 
+działającego na obszarze
+
+konkurencyjny
+
+Organizacje społeczne
+i związki wyznaniowe, Partnerzy 
+społeczni
+
+Organizacje pozarządowe, Podmioty 
+ekonomii społecznej, Kościoły i związki
+wyznaniowe
+
+2026-10-05
+
+2026-11-15
+
+ 21 000 000,00 zł 
+
+FELD
+
+FELD.09.04 Mobilność lokalna w 
+transformacji
+
+Nie dotyczy
+
+PKP_FST
+
+Budowa, przebudowa lub modernizacja 
+infrastruktury kolejowej
+
+niekonkurencyjny
+
+Przedsiębiorstwa realizujące cele 
+publiczne
+
+Zarządcy infrastruktury kolejowej
+
+2026-09-22
+
+2026-10-23
+
+ 66 520 814,98 zł 
+
+Województwo łódzkie - 
+obszar transformacji
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+FST.CP6.I Umożliwienie regionom i ludności 
+łagodzenia wpływających na społeczeństwo, 
+zatrudnienie, gospodarkę i środowisko skutków 
+transformacji w kierunku osiągnięcia celów Unii na 
+rok 2030 w dziedzinie energii i klimatu oraz w 
+kierunku neutralnej dla klimatu gospodarki Unii do 
+roku 2050 w oparciu o porozumienie paryskie.
+
+FST
+
+Nie dotyczy
+
+Województwo łódzkie - 
+obszar transformacji
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+FST.CP6.I Umożliwienie regionom i ludności 
+łagodzenia wpływających na społeczeństwo, 
+zatrudnienie, gospodarkę i środowisko skutków 
+transformacji w kierunku osiągnięcia celów Unii na 
+rok 2030 w dziedzinie energii i klimatu oraz w 
+kierunku neutralnej dla klimatu gospodarki Unii do 
+roku 2050 w oparciu o porozumienie paryskie.
+
+FST
+
+Nabór na projekt w ramach Kontraktu Programowego:
+Elektryfikacja linii kolejowej nr 24 na odcinku Piotrków 
+Trybunalski – Bogumiłów - PKP Polskie Linie Kolejowe 
+S.A.
+
+FELD
+
+FELD.10.01 Pomoc techniczna EFRR
+
+Nie dotyczy
+
+Nie dotyczy
+
+FELD
+
+FELD.11.01 Pomoc techniczna EFS+
+
+Nie dotyczy
+
+Nie dotyczy
+
+FELD
+
+FELD.12.01 Pomoc techniczna FST
+
+Nie dotyczy
+
+Nie dotyczy
+
+FELD
+
+FELD.13.01 Zdolności przemysłowe dla 
+obronności i technologii podwójnego 
+zastosowania
+
+Nie dotyczy
+
+Nie dotyczy
+
+FELD
+
+FELD.14.01 Bezpieczeństwo wodne 
+
+Nie dotyczy
+
+Nie dotyczy
+
+Wsparcie instytucji Programu w zarządzaniu 
+zasobami ludzkimi (ZZL) i wzmocnienie ich 
+potencjału administracyjnego;
+Wsparcie skutecznych procedur i procesów we 
+wdrażaniu Programu; 
+Wsparcie beneficjentów i potencjalnych 
+beneficjentów Programu; 
+Wsparcie funkcjonowania komitetów, grup 
+roboczych i doradczych, partnerów; 
+Stworzenie spójnego systemu informacji i 
+komunikacji
+
+Wsparcie instytucji Programu w zarządzaniu 
+zasobami ludzkimi (ZZL) i wzmocnienie ich 
+potencjału administracyjnego;
+Wsparcie skutecznych procedur i procesów we 
+wdrażaniu Programu; 
+Wsparcie beneficjentów i potencjalnych 
+beneficjentów Programu; 
+Wsparcie funkcjonowania komitetów, grup 
+roboczych i doradczych, partnerów; 
+Stworzenie spójnego systemu informacji i 
+komunikacji
+
+Wsparcie instytucji Programu w zarządzaniu 
+zasobami ludzkimi (ZZL) i wzmocnienie ich 
+potencjału administracyjnego;
+Wsparcie skutecznych procedur i procesów we 
+wdrażaniu Programu; 
+Wsparcie beneficjentów i potencjalnych 
+beneficjentów Programu;
+ Wsparcie funkcjonowania komitetów, grup 
+roboczych i doradczych, partnerów; Stworzenie 
+spójnego systemu informacji i komunikacji
+
+Typ 1. Inwestycje produkcyjne w przedsiębiorstwach 
+z obszaru technologii, produktów lub procesów 
+istotnych dla zdolności obronnych lub odporności, z 
+możliwością obejmowania technologii o 
+podwójnym zastosowaniu (dual-use);
+Typ 2. Projekty badawczo-rozwojowe 
+przedsiębiorstw (TRL 4–9), realizowane 
+samodzielnie lub we współpracy z organizacjami 
+badawczymi
+
+Inwestycje w zakresie zapewnienia źródeł 
+zaopatrzenia w wodę, w tym infrastruktury do 
+ujmowania wody dla szpitali i innych budynków 
+użyteczności publicznej; 
+Inwestycje w infrastrukturę do celów ujęcia, 
+uzdatniania, zaopatrzenia, dostawy i 
+magazynowania wody; 
+Inwestycje w zakresie kanalizacji sanitarnej i 
+oczyszczalni ścieków; 
+Inwestycje w technologie i systemy informatyczne 
+dotyczące zarządzania wodą, w tym 
+cyberbezpieczeństwo
+
+niekonkurencyjny
+
+Administracja publiczna
+
+Jednostki Samorządu Terytorialnego
+
+2026-10-01
+
+2026-10-12
+
+ 26 894 000,00 zł 
+
+Województwo łódzkie
+
+niekonkurencyjny
+
+Administracja publiczna
+
+Jednostki Samorządu Terytorialnego
+
+2026-10-01
+
+2026-10-12
+
+ 71 893 000,00 zł 
+
+Województwo łódzkie
+
+niekonkurencyjny
+
+Administracja publiczna
+
+Jednostki Samorządu Terytorialnego
+
+2026-10-01
+
+2026-10-12
+
+ 25 143 000,00 zł 
+
+Województwo łódzkie
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+PT.1 Pomoc Techniczna
+
+EFRR PT
+
+Nie dotyczy
+
+PT.1 Pomoc Techniczna
+
+EFS+ PT
+
+Nie dotyczy
+
+PT.1 Pomoc Techniczna
+
+FST PT
+
+Nie dotyczy
+
+konkurencyjny
+
+Administracja publiczna, Instytucje 
+nauki i edukacji, Instytucje 
+wspierające biznes, Organizacje 
+społeczne i związki wyznaniowe, 
+Partnerstwa, Przedsiębiorstwa, 
+Służby publiczne
+
+Duże przedsiębiorstwa, Instytucje otoczenia 
+biznesu, Izby gospodarcze, Jednostki 
+naukowe, Jednostki organizacyjne działające 
+w imieniu jednostek samorządu 
+terytorialnego,  Klastry, Konsorcja naukowo-
+przemysłowe, MŚP, Organizacje badawcze, 
+Organizacje pozarządowe, Ośrodki innowacji, 
+Uczelnie
+
+konkurencyjny
+
+Administracja publiczna, Instytucje 
+ochrony zdrowia, Przedsiębiorstwa 
+realizujące cele publiczne, Służby 
+publiczne
+
+Instytucje odpowiedzialne za gospodarkę 
+wodną, Jednostki organizacyjne działające w 
+imieniu jednostek samorządu terytorialnego, 
+Jednostki Samorządu Terytorialnego, 
+Niepubliczne zakłady opieki zdrowotnej, 
+Podmioty świadczące usługi publiczne w 
+ramach realizacji obowiązków własnych 
+jednostek samorządu terytorialnego, 
+Przedsiębiorstwa wodociągowo-
+kanalizacyjne, Publiczne zakłady opieki 
+zdrowotnej, Spółki wodne
+
+2026-09-30
+
+2026-11-16
+
+ 90 086 862,97 zł 
+
+Województwo łódzkie
+
+Instytucja Pośrednicząca
+ [Centrum Obsługi 
+Przedsiębiorcy]
+
+EFRR.CP1.VII Zwiększanie zdolności przemysłowych w 
+celu wspierania zdolności obronnych, przy 
+priorytetowym traktowaniu zdolności w zakresie 
+technologii podwójnego zastosowania
+
+EFRR
+
+Nie dotyczy
+
+2026-09-21
+
+2026-11-02
+
+ 100 000 000,00 zł 
+
+Województwo łódzkie
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+EFRR/FS.CP2.V Wspieranie bezpiecznego dostępu do 
+wody, zrównoważonej gospodarki wodnej 
+obejmującej zintegrowane zarządzanie wodą, a także 
+odporności wodnej
+
+EFRR
+
+Nie dotyczy
+
+FELD
+
+FELD.15.01 Bezpieczny region 
+
+Nie dotyczy
+
+IMŁ
+
+Zagospodarowanie odpadów medycznych i 
+weterynaryjnych (także w procesach termicznych)
+
+niekonkurencyjny
+
+Przedsiębiorstwa realizujące cele 
+publiczne
+
+Jednostki organizacyjne działające w imieniu 
+jednostek samorządu terytorialnego
+
+2026-12-01
+
+2026-12-31
+
+ 75 731 124,00 zł 
+
+Województwo łódzkie
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+EFRR/FS.CP3.III Rozwój odpornej infrastruktury 
+obronnej, przy priorytetowym traktowaniu 
+infrastruktury podwójnego zastosowania, w tym w 
+celu wspierania mobilności wojskowej w Unii, oraz 
+zwiększanie gotowości cywilnej
+
+EFRR
+
+Nabór na projekt w ramach Kontraktu Programowego:
+Regionalne Centrum Recyklingu i Odzysku Energii - 
+Inwestycje Medyczne Łódzkiego Sp. z o.o. 
+
+Program
+
+Działanie - kod i nazwa
+
+Realizacja instrumentów 
+terytorialnych
+
+Tytuł naboru
+
+Typy projektów, które mogą otrzymać 
+dofinansowanie 
+
+Sposób wyboru projektów
+
+Wnioskodawcy - ogólni
+
+Wnioskodawcy - szczegółowi
+
+Przewidywana data 
+rozpoczęcia naboru
+
+Data zakończenia 
+naboru
+
+ Całkowity budżet naboru (PLN) 
+
+Obszar geograficzny
+
+Instytucja, która 
+przeprowadzi nabór
+
+Cel szczegółowy - kod i nazwa
+
+Fundusz
+
+Informacje dodatkowe
+
+1
+
+2
+
+3
+
+FELD
+
+FELD.15.01 Bezpieczny region 
+
+Nie dotyczy
+
+4
+
+ŁKA
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+Inwestycje dotyczące infrastruktury kolejowej o 
+znaczeniu ewakuacyjnym lub podwójnego 
+zastosowania (dual use)
+
+niekonkurencyjny
+
+Przedsiębiorstwa realizujące cele 
+publiczne
+
+Organizatorzy i operatorzy publicznego 
+transportu zbiorowego
+
+2027-01
+
+2027-01
+
+ 86 399 709,48 zł 
+
+Województwo łódzkie
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+EFRR/FS.CP3.III Rozwój odpornej infrastruktury 
+obronnej, przy priorytetowym traktowaniu 
+infrastruktury podwójnego zastosowania, w tym w 
+celu wspierania mobilności wojskowej w Unii, oraz 
+zwiększanie gotowości cywilnej
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+EFRR/FS.CP3.III Rozwój odpornej infrastruktury 
+obronnej, przy priorytetowym traktowaniu 
+infrastruktury podwójnego zastosowania, w tym w 
+celu wspierania mobilności wojskowej w Unii, oraz 
+zwiększanie gotowości cywilnej
+
+15
+
+EFRR
+
+EFRR
+
+16
+
+Nabór na projekt w ramach Kontraktu Programowego:
+Budowa Łódzkiej Kolei Aglomeracyjnej Etap VI - Zaplecze 
+Techniczne - Łódzka Kolej Aglomeracyjna Sp. z o.o.
+
+Nabór na projekt w ramach Kontraktu Programowego:
+Budowa linii łączącej Bełchatów z linią 131 - PKP Polskie 
+Linie Kolejowe S.A.
+
+FELD
+
+FELD.15.02 Bezpieczny transport 
+
+Nie dotyczy
+
+PKP
+
+Inwestycje dotyczące infrastruktury kolejowej o 
+znaczeniu ewakuacyjnym lub podwójnego
+zastosowania (dual use)
+
+niekonkurencyjny
+
+Przedsiębiorstwa realizujące cele 
+publiczne
+
+Zarządcy infrastruktury kolejowej
+
+2028-12
+
+2028-12
+
+ 605 828 745,34 zł 
+
+Województwo łódzkie
+
+FELD
+
+FELD.15.03 Bezpieczeństwo infrastruktury 
+obronnej 
+
+Nie dotyczy
+
+Nie dotyczy
+
+FELD
+
+FELD.17.01 Kształcenie kadr systemu 
+ochrony ludności cywilnej 
+
+Nie dotyczy
+
+Podnoszenie umiejętności 
+kadr ochrony zdrowia 
+
+Typ 1. Inwestycje w infrastrukturę medyczną 
+związaną z przygotowaniem do funkcjonowania w 
+sytuacji kryzysowej lub warunkach konfliktu 
+zbrojnego, w szczególności w podziemną 
+infrastrukturę medyczno - techniczną, sprzęt lub 
+wyposażenie medyczne, lądowiska przyszpitalne, 
+podniesienie poziomu bezpieczeństwa obiektów;
+Typ 2. Inwestycje w budowle ochronne, schrony, 
+ukrycia lub miejsca doraźnego schronienia ludności;
+Typ 3. Inwestycje w budowę magazynów energii, w 
+tym elektrycznej i cieplnej, wraz ze źródłami energii 
+instalowanymi w celu zapewniania ciągłości 
+funkcjonowania danego podmiotu w sytuacjach 
+kryzysowych
+
+Podnoszenie umiejętności w zakresie ochrony 
+ludności i gotowości cywilnej dla pracowników i 
+funkcjonariuszy służb ratunkowych oraz osób 
+odpowiedzialnych za organizację ochrony ludności i 
+obrony cywilnej
+
+konkurencyjny
+
+Administracja publiczna, Instytucje 
+nauki i edukacji, Instytucje 
+ochrony zdrowia, Przedsiębiorstwa 
+realizujące cele publiczne, Służby 
+publiczne
+
+Jednostki organizacyjne działające w imieniu 
+jednostek samorządu terytorialnego, 
+Jednostki Samorządu
+Terytorialnego, Niepubliczne zakłady opieki 
+zdrowotnej, Podmioty świadczące usługi 
+publiczne w ramach realizacji obowiązków 
+własnych jednostek samorządu 
+terytorialnego, Przedszkola i inne formy 
+wychowania przedszkolnego, Publiczne 
+zakłady opieki zdrowotnej, Szkoły i inne 
+placówki systemu oświaty
+
+2026-10-19
+
+2026-11-30
+
+ 38 908 019,02 zł 
+
+Województwo łódzkie
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+EFRR/FS.CP3.III Rozwój odpornej infrastruktury 
+obronnej, przy priorytetowym traktowaniu 
+infrastruktury podwójnego zastosowania, w tym w 
+celu wspierania mobilności wojskowej w Unii, oraz 
+zwiększanie gotowości cywilnej
+
+EFRR
+
+Nie dotyczy
+
+niekonkurencyjny
+
+Administracja publiczna
+
+Nie dotyczy
+
+2026-11-16
+
+2026-11-27
+
+ 5 700 000,00 zł 
+
+Województwo łódzkie
+
+FELD
+
+FELD.17.02 Kształcenie zawodowe dla 
+bezpieczeństwa 
+
+Nie dotyczy
+
+Nie dotyczy
+
+Wsparcie kształcenia zawodowego w zakresie 
+przemysłu obronnego i bezpieczeństwa 
+energetycznego
+
+konkurencyjny
+
+Administracja publiczna, Instytucje 
+nauki i edukacji, Organizacje 
+społeczne i związki wyznaniowe, 
+Partnerzy społeczni, 
+Przedsiębiorstwa, Służby publiczne
+
+Nie dotyczy
+
+2026-08-24
+
+2026-10-30
+
+ 54 953 049,72 zł 
+
+Województwo łódzkie
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+EFS+.CP4.D Wspieranie dostosowania pracowników, 
+przedsiębiorstw i przedsiębiorców do zmian, 
+wspieranie aktywnego i zdrowego starzenia się oraz 
+zdrowego i dobrze dostosowanego środowiska pracy, 
+które uwzględnia zagrożenia dla zdrowia
+
+Instytucja Zarządzająca 
+FEŁ2027 
+[Urząd Marszałkowski 
+Województwa Łódzkiego]
+
+EFS+.CP4.F Wspieranie równego dostępu do dobrej 
+jakości, włączającego kształcenia i szkolenia oraz 
+możliwości ich ukończenia, w szczególności w 
+odniesieniu do grup w niekorzystnej sytuacji, od 
+wczesnej edukacji i opieki nad dzieckiem przez ogólne 
+i zawodowe kształcenie i szkolenie, po szkolnictwo 
+wyższe, a także kształcenie i uczenie się dorosłych, w 
+tym ułatwianie mobilności edukacyjnej dla wszystkich 
+i dostępności dla osób z niepełnosprawnościami
+
+EFS+
+
+Województwo Łódzkie
+
+EFS+
+
+Nie dotyczy
+
+

@@ -166,6 +166,7 @@ def collect_prints(term, since):
             "data_dokumentu": p.get("documentDate"),
             "data_doreczenia": p.get("deliveryDate"),
             "data_zmiany": p.get("changeDate"),
+            "proces": [str(x) for x in (p.get("processPrint") or [])],
             "link": f"https://www.sejm.gov.pl/Sejm{term}.nsf/druk.xsp?nr={urllib.parse.quote(num)}",
         })
     out.sort(key=lambda x: x["numer"])
@@ -235,22 +236,65 @@ def html_to_text(raw):
     return re.sub(r"\s+", " ", t).strip()
 
 
+DATE_RES = [
+    (re.compile(r"(\d{1,2})[._-](\d{1,2})[._-](20\d{2})"), "dmy"),
+    (re.compile(r"(20\d{2})[._-](\d{1,2})[._-](\d{1,2})"), "ymd"),
+    (re.compile(r"(?<!\d)(\d{2})(\d{2})(20\d{2})(?!\d)"), "dmy"),
+]
+SKIP_LABELS = ("opis zmian", "opis_zmian", "karta zmian", "karta-zmian", "wykaz zmian", "wykaz%20zmian")
+FILE_EXTS = (".pdf", ".xlsx", ".xlsm", ".xls", ".docx")
+
+
+def dates_in(text):
+    found = []
+    for rx, order in DATE_RES:
+        for m in rx.finditer(text or ""):
+            a, b, c = (int(x) for x in m.groups())
+            d, mo, y = (a, b, c) if order == "dmy" else (c, b, a)
+            try:
+                found.append(dt.date(y, mo, d))
+            except ValueError:
+                pass
+    return found
+
+
+def guess_ext(href, label):
+    ext = Path(urllib.parse.urlsplit(href).path).suffix.lower()
+    if ext in FILE_EXTS:
+        return ext
+    low = label.lower()
+    for e in (".xlsm", ".xlsx", ".pdf", ".docx", ".xls"):
+        if e[1:] in low.split() or e[1:] + " " in low or f"| {e[1:]}" in low:
+            return e
+    return None
+
+
 def find_schedule_files(raw, base):
-    links = []
-    for m in re.finditer(r'(?is)<a\b[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>', raw):
-        href, label = m.group(1), html_to_text(m.group(2))
+    """Zwraca kandydatów na plik harmonogramu, od najnowszego (wg dat w nazwie, opisie i kontekście)."""
+    page_is_schedule = "harmonogram" in (base + " " + raw[:5000]).lower()
+    cands = []
+    for idx, m in enumerate(re.finditer(r'(?is)<a\b[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>', raw)):
+        href, label = html.unescape(m.group(1)), html_to_text(m.group(2))
         full = urllib.parse.urljoin(base, href)
-        ext = Path(urllib.parse.urlsplit(full).path).suffix.lower()
-        if ext in (".pdf", ".xlsx", ".xlsm", ".xls", ".docx") and (
-            "harmonogram" in (href + " " + label).lower()
-        ):
-            links.append((full, label[:200], ext))
-    seen, out = set(), []
-    for item in links:
-        if item[0] not in seen:
-            seen.add(item[0])
-            out.append(item)
-    return out[:3]
+        ext = guess_ext(full, label)
+        if not ext:
+            continue
+        hay = (urllib.parse.unquote(full) + " " + label).lower()
+        if any(k in hay for k in SKIP_LABELS):
+            continue
+        if not (page_is_schedule or "harmonogram" in hay):
+            continue
+        context = html_to_text(raw[max(0, m.start() - 700):m.start()])
+        ctx_dates = dates_in(context)
+        own_dates = dates_in(urllib.parse.unquote(full) + " " + label)
+        best = max(own_dates) if own_dates else (ctx_dates[-1] if ctx_dates else None)
+        cands.append({"url": full, "opis": label[:200], "ext": ext, "data": best, "kolejnosc": idx})
+    uniq = {}
+    for c in cands:
+        if c["url"] not in uniq:
+            uniq[c["url"]] = c
+    ranked = sorted(uniq.values(), key=lambda c: (c["data"] or dt.date(1900, 1, 1), -c["kolejnosc"]), reverse=True)
+    return ranked
 
 
 def file_to_text(data, ext):
@@ -288,7 +332,7 @@ def collect_regions(prev):
                 statuses.append(f"{url}: zablokowane przez robots.txt")
                 continue
             try:
-                raw_b, _ = http_get(url, accept="text/html")
+                raw_b, _ = http_get(url, accept="text/html", timeout=75)
             except Exception as e:  # noqa: BLE001
                 statuses.append(f"{url}: błąd pobierania: {e}")
                 continue
@@ -308,9 +352,14 @@ def collect_regions(prev):
         entry["zmiana"] = prev.get(region, {}).get("sha") != digest
         entry["sha"] = digest
         old = {f.get("url"): f.get("sha") for f in prev.get(region, {}).get("pliki", [])}
-        seen = set()
-        for i, (furl, label, ext) in enumerate([f for f in file_links if not (f[0] in seen or seen.add(f[0]))][:3], 1):
-            item = {"url": furl, "opis": label}
+        file_links.sort(key=lambda c: (c["data"] or dt.date(1900, 1, 1), -c["kolejnosc"]), reverse=True)
+        entry["pliki_kandydaci"] = [
+            {"url": c["url"], "opis": c["opis"], "data": c["data"].isoformat() if c["data"] else None}
+            for c in file_links[:6]
+        ]
+        for i, c in enumerate(file_links[:1], 1):
+            furl, label, ext = c["url"], c["opis"], c["ext"]
+            item = {"url": furl, "opis": label, "data_wg_strony": c["data"].isoformat() if c["data"] else None}
             entry["pliki"].append(item)
             if not allowed(furl):
                 item["status"] = "zablokowane przez robots.txt"
@@ -357,7 +406,10 @@ def main():
     term = current_term()
     prints = collect_prints(term, since)
     log(f"Druki: {len(prints)}")
-    processes = collect_processes(term, [p["numer"] for p in prints][:MAX_PROCESSES])
+    proc_nums = []
+    for p in prints:
+        proc_nums.extend(p.get("proces") or [re.sub(r"-[A-Z]+$", "", p["numer"])])
+    processes = collect_processes(term, list(dict.fromkeys(proc_nums))[:MAX_PROCESSES])
     log(f"Procesy: {len(processes)}")
     regions = collect_regions(state.get("regiony", {}))
     log("Regiony: " + ", ".join(f"{k}={v['status']}" for k, v in regions.items()))

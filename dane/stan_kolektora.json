@@ -14,16 +14,8 @@
    "sha": "869699239478e66a3a135151f1cfd0f4a88799ffdc47ca66d20f5aef69da75e9",
    "pliki": [
     {
-     "url": "https://funduszeue.kujawsko-pomorskie.pl/wp-content/uploads/2026/09/Harmonogram-FEdKP-2021-2027-16.09.2026r.xlsx",
-     "sha": "9583594063aa5405f99de6b882de680d2b98d309e6e98e4918cef3abbc7c9c31"
-    },
-    {
      "url": "https://funduszeue.kujawsko-pomorskie.pl/wp-content/uploads/2026/09/Harmonogram-FEdKP-2021-2027-09.09.2026-r.xlsx",
      "sha": "5b05d4795a10134a6d858677485ec6c84ff4d6fedf90d10fe2404822503adb63"
-    },
-    {
-     "url": "https://funduszeue.kujawsko-pomorskie.pl/wp-content/uploads/2026/06/Harmonogram-29.07.2026r.xlsx",
-     "sha": "b8f8afc0ee151a26e68cb5e36ec50a42f7c4c1b0a53565ee99dfacc1108ec377"
     }
    ]
   },
@@ -31,37 +23,21 @@
    "sha": "abc587e05a753e083cc48df582bf45488e77650a904d3bb2caf0aa770ab4a71c",
    "pliki": [
     {
-     "url": "https://funduszeue.lubelskie.pl/assets/files/1019/cc/cc1bf8b608cbb169058a35dd8f578227b2e67022.harmonogram_fel_17_08_2026.xlsm",
-     "sha": "d16404b788c84b3890ee956572148d056199c93a632b5e29167cf29549fd36a4"
-    },
-    {
-     "url": "https://funduszeue.lubelskie.pl/assets/files/1019/6c/6c3fd4515c9aef5e8dbf2fda9e5bc8f1350719b5.harmonogram_fel_30_06_2026.xlsm",
-     "sha": "7325125c297e7092d309bc29329f4ee2ff59ce373c7be4ad6a97fc582b0b9b5f"
-    },
-    {
-     "url": "https://funduszeue.lubelskie.pl/assets/files/1019/91/9111772f8f7f130e5dbec33395ff589f970f26e0.harmonogram_naborow_fel_19_05_2026.xlsm",
-     "sha": "64f6db47d49d60f7258d73653807a706f9be802a87f6fbebea8465463551a6cc"
+     "url": "https://funduszeue.lubelskie.pl/assets/files/6999/harmonogram_fel_16_09_2026.xlsm",
+     "sha": "05a6e2e4f6ab4ce94c0cfdddfbac87021d2e7ecc38b8c38e3a14c71d24e6f6a2"
     }
    ]
   },
   "lubuskie": {
-   "sha": "c529beb3beb8152ff0ba4feb5c99c92dbe04c740bff0a253cfbd3e5487fa8538",
+   "sha": "65f46b75b450917dd432e5a6ae69bb0fe0c8520d4e1c520a380b79f5e16f42e7",
    "pliki": []
   },
   "mazowieckie": {
    "sha": "34ea90dd1fe0d398345ed5a70780286a703d48070b95f1ed243511a65df14962",
    "pliki": [
     {
-     "url": "https://funduszeuedlamazowsza.eu/wp-content/uploads/2024/04/Karta-zmian-do-Harmonogramu-Naboru-Wnioskow-FEM-6.docx",
-     "sha": null
-    },
-    {
-     "url": "https://funduszeuedlamazowsza.eu/wp-content/uploads/2024/04/Harmonogram-Naboru-Wnioskow-FEM-2021-2027-7.xlsm",
-     "sha": "1c7f4fce1a65403cf176901e0160d567ba631bcd5c1348f4ba76762f879ec9e2"
-    },
-    {
-     "url": "https://funduszeuedlamazowsza.eu/wp-content/uploads/2024/04/Karta-zmian-do-Harmonogramu-Naboru-Wnioskow-FEM-5.docx",
-     "sha": null
+     "url": "https://funduszeuedlamazowsza.eu/wp-content/uploads/2024/04/Harmonogram-Naboru-Wnioskow-FEM-2021-2027-7.04.2026-.xlsm",
+     "sha": "88494bef560a53e86697b7336bf33877693a1f723a4ce39858489ed4a2881b2d"
     }
    ]
   },
@@ -69,18 +45,19 @@
    "sha": "3c8acb903d01dda2e7df7727e22323c42354d15f1d31ea22c190ea717839d7fe",
    "pliki": [
     {
-     "url": "https://www.fundusze.malopolska.pl/sites/default/files/2026/09/1862/Wykaz%20zmian%20w%20Harmonogramie_29.09.2026.pdf",
-     "sha": "27dd6fb309a6bc198f1cfe5cddbbe547a027618aad08056a3ee1d92256e6e3e4"
-    },
-    {
      "url": "https://www.fundusze.malopolska.pl/sites/default/files/2026/09/1862/zal.%20do%20uchwaly%20nr%202168_26%20HN%20FEM%2021-27.pdf",
      "sha": "7c09b80ba3bddee4b434b6765373fb26b9c78d34b1d2941ffa1b6d7ae4d73787"
     }
    ]
   },
   "opolskie": {
-   "sha": null,
-   "pliki": []
+   "sha": "e3beaf8452167574fe4897036ec3750148fec348f52bf4ed0d506912986f0760",
+   "pliki": [
+    {
+     "url": "https://funduszeue.opolskie.pl/sites/default/files/2026-10/aktualizacja-opisu-zmian_28.09.2026.docx",
+     "sha": null
+    }
+   ]
   },
   "podkarpackie": {
    "sha": "59e1be0d6700cafccc5429c45a4e1816904e268cff60b6e706d77ed2cd721db3",
@@ -88,14 +65,6 @@
     {
      "url": "https://funduszeue.podkarpackie.pl/images/Dokumenty_2026/harmonogram/Harmonogram_naborow_FEP_29092026.xlsm",
      "sha": "0dde1413314367a203e2d3097d42c19adb138d7b6f09682ce8625c69e56edb78"
-    },
-    {
-     "url": "https://funduszeue.podkarpackie.pl/images/Dokumenty_2026/harmonogram/Harmonogram%20naborow%20wnioskow%20o%20dofinansowanie%20dla%20programu%20regionalnego%20Fundusze%20Europejskie%20dla%20Podkarpacia.xlsm",
-     "sha": "e479fe3470f3dd7f6da3c4bb4c43cb098392c7526b3b80fa63ae2886820d0ed5"
-    },
-    {
-     "url": "https://funduszeue.podkarpackie.pl/images/Dokumenty_2026/Pliki/Harmonogram%20naborow%20wnioskow%20o%20dofinansowanie%20dla%20programu%20regionalnego%20Fundusze%20Europejskie%20dla%20Podkarpacia%202021-2027%20z%2030.06.2.xlsm",
-     "sha": "007553f81bd704fd53b80d5945f907925944bdccd63cafe6a2bd5660bbc826ca"
     }
    ]
   },
@@ -122,10 +91,6 @@
     {
      "url": "https://funduszeue.wielkopolskie.pl/sites/default/files/Dokumenty%2C%20Harmonogram%20nabor%C3%B3w/2026-09-07/Harmonogram_nabor%C3%B3w_wniosk%C3%B3w_2021-2027.pdf",
      "sha": "de81e803abb4557b66304830c3c7082f9a16e6a0c84c9d33e9ac33029d4bd808"
-    },
-    {
-     "url": "https://funduszeue.wielkopolskie.pl/sites/default/files/Dokumenty%2C%20Harmonogram%20nabor%C3%B3w/2026-09-07/Harmonogram_nabor%C3%B3w_wniosk%C3%B3w_2021-2027.docx",
-     "sha": null
     }
    ]
   },
@@ -133,16 +98,8 @@
    "sha": "68415584285058a0fe20f7ff11879fc46ab533d7f80f32c98e6dedcdea72e0de",
    "pliki": [
     {
-     "url": "https://funduszeue.wzp.pl/wp-content/uploads/2026/03/Harmonogram-naborow-wnioskow-FEPZ-24-06-2026.docx",
-     "sha": null
-    },
-    {
-     "url": "https://funduszeue.wzp.pl/wp-content/uploads/2026/06/Harmonogram-naborow-wnioskow-FEPZ-24-06-2026.xlsx",
-     "sha": "30688ab6c48af028d95f937fdd4f7cf1232861d1e623f274e2f93fbb6a19f6b7"
-    },
-    {
-     "url": "https://funduszeue.wzp.pl/wp-content/uploads/2025/12/FEPZ-Harmonogram-naborow-wnioskow-20260324-opis-zmian.docx",
-     "sha": null
+     "url": "https://funduszeue.wzp.pl/wp-content/uploads/2026/06/Harmonogram-naborow-wnioskow-FEPZ-24092026-na-strone.xlsm",
+     "sha": "7145fdce2c71e9afeefd3d50eae977cf0636bc3deff956b6e8520435a63bcb25"
     }
    ]
   },
@@ -150,22 +107,19 @@
    "sha": "e064485194fbe907f14bdcf26fe6d56fe8ef3fa7e1b19b30a24fe89c4168dcca",
    "pliki": [
     {
-     "url": "https://www.funduszeue.lodzkie.pl/sites/default/files/2026/812-harmonogram-naborow/1.harmonogram-naborow-nr-3_26.pdf",
-     "sha": "5d02bd0b9fd80ed2eddd9859ecb8b7adb789383f8f9be7fd21e01d89bd61e0de"
-    },
-    {
-     "url": "https://www.funduszeue.lodzkie.pl/sites/default/files/2026/610-harmonogram-wnioskow/1.harmonogram-naborow-nr-02_26.pdf",
-     "sha": "8ba8efa42701605be3edaf61df312317d766b05ad1245c33d577b11b3b3388d0"
-    },
-    {
-     "url": "https://www.funduszeue.lodzkie.pl/sites/default/files/2026/320-harmonogram-naborow/1.harmonogram-nr-01_26-kopia.pdf",
-     "sha": "be4eb3fc8458524ae52ed56ea3f1797903bc318871384f0a3c9bfa3a059bac4b"
+     "url": "https://www.funduszeue.lodzkie.pl/sites/default/files/2026/320-harmonogram-naborow/3.harmonogram-uproszczony-nabory-konkurencyjne.pdf",
+     "sha": "22dc2dab654346206ca7b7fe572b4631ad8885812b1d320493ceddf138679469"
     }
    ]
   },
   "śląskie": {
    "sha": "bd6bf3b1e25e9ea34edb351004aabbd5d208b60f09cbdc426bda97a7bacf7e08",
-   "pliki": []
+   "pliki": [
+    {
+     "url": "https://funduszeue.slaskie.pl/documents/20117/1331649/Harmonogram+naborow+wnioskow+o+dofinansowanie+FESL+v.+17.2.xlsm/9e3da803-d211-aa92-f6aa-4025c6d58983?t=1790585510221/",
+     "sha": "e92902a42955a8dd679e20ca6f55f13f1c0f7e27399fcbc6f47314b2ca1b5c7d"
+    }
+   ]
   },
   "świętokrzyskie": {
    "sha": null,

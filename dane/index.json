@@ -1,6 +1,6 @@
 {
- "wygenerowano": "2026-10-14T19:34:50+00:00",
- "okno_od": "2026-09-07",
+ "wygenerowano": "2026-10-14T20:09:40+00:00",
+ "okno_od": "2026-10-12",
  "okno_do": "2026-10-14",
  "kadencja_sejmu": 10,
  "pliki": {
@@ -9,9 +9,9 @@
   "procesy": "procesy.json"
  },
  "liczby": {
-  "akty": 176,
-  "druki": 165,
-  "procesy": 76
+  "akty": 4,
+  "druki": 13,
+  "procesy": 13
  },
  "regiony": {
   "dolnośląskie": {
@@ -20,7 +20,7 @@
     "https://funduszeuedolnoslaskie.pl/harmonogram"
    ],
    "status": "ok",
-   "zmiana": true,
+   "zmiana": false,
    "strony": [
     {
      "url": "https://funduszeuedolnoslaskie.pl/nabory",
@@ -35,10 +35,18 @@
     {
      "url": "https://funduszeuedolnoslaskie.pl/sites/default/files/2026/09/3679/Harmonogram%20naborow%20FEDS_ZWD-przyjety%2015%20wrzesnia%202026.xlsx",
      "opis": "Harmonogram naborów FEDS_ZWD-przyjęty 15 września 2026",
+     "data_wg_strony": null,
      "status": "ok",
      "tekst": "regiony/dolnoslaskie/plik1.csv",
      "sha": "cb737b84ef532f237c0ecbe2701db3e5699db8fa29a9b175913351ea73841e2b",
-     "zmiana": true
+     "zmiana": false
+    }
+   ],
+   "pliki_kandydaci": [
+    {
+     "url": "https://funduszeuedolnoslaskie.pl/sites/default/files/2026/09/3679/Harmonogram%20naborow%20FEDS_ZWD-przyjety%2015%20wrzesnia%202026.xlsx",
+     "opis": "Harmonogram naborów FEDS_ZWD-przyjęty 15 września 2026",
+     "data": null
     }
    ]
   },
@@ -47,7 +55,7 @@
     "https://funduszeue.kujawsko-pomorskie.pl/harmonogram-naborow/"
    ],
    "status": "ok",
-   "zmiana": true,
+   "zmiana": false,
    "strony": [
     {
      "url": "https://funduszeue.kujawsko-pomorskie.pl/harmonogram-naborow/",
@@ -56,28 +64,45 @@
    ],
    "pliki": [
     {
-     "url": "https://funduszeue.kujawsko-pomorskie.pl/wp-content/uploads/2026/09/Harmonogram-FEdKP-2021-2027-16.09.2026r.xlsx",
+     "url": "https://funduszeue.kujawsko-pomorskie.pl/wp-content/uploads/2026/09/Harmonogram-FEdKP-2021-2027-09.09.2026-r.xlsx",
      "opis": "Pobierz . xlsx",
+     "data_wg_strony": "2027-09-09",
      "status": "ok",
      "tekst": "regiony/kujawsko-pomorskie/plik1.csv",
-     "sha": "9583594063aa5405f99de6b882de680d2b98d309e6e98e4918cef3abbc7c9c31",
-     "zmiana": true
-    },
+     "sha": "5b05d4795a10134a6d858677485ec6c84ff4d6fedf90d10fe2404822503adb63",
+     "zmiana": false
+    }
+   ],
+   "pliki_kandydaci": [
     {
      "url": "https://funduszeue.kujawsko-pomorskie.pl/wp-content/uploads/2026/09/Harmonogram-FEdKP-2021-2027-09.09.2026-r.xlsx",
      "opis": "Pobierz . xlsx",
-     "status": "ok",
-     "tekst": "regiony/kujawsko-pomorskie/plik2.csv",
-     "sha": "5b05d4795a10134a6d858677485ec6c84ff4d6fedf90d10fe2404822503adb63",
-     "zmiana": true
+     "data": "2027-09-09"
     },
     {
-     "url": "https://funduszeue.kujawsko-pomorskie.pl/wp-content/uploads/2026/06/Harmonogram-29.07.2026r.xlsx",
+     "url": "https://funduszeue.kujawsko-pomorskie.pl/wp-content/uploads/2026/09/Wykaz-zmian-30.09.2026-r.docx",
+     "opis": "",
+     "data": "2026-09-30"
+    },
+    {
+     "url": "https://funduszeue.kujawsko-pomorskie.pl/wp-content/uploads/2026/09/Harmonogram-FEdKP-2021-2027-30.09.2026-r.xlsx",
+     "opis": "pobierz dokument: xlsx",
+     "data": "2026-09-30"
+    },
+    {
+     "url": "https://funduszeue.kujawsko-pomorskie.pl/wp-content/uploads/2026/09/Harmonogram-FEdKP-2021-2027-16.09.2026r.xlsx",
      "opis": "Pobierz . xlsx",
-     "status": "ok",
-     "tekst": "regiony/kujawsko-pomorskie/plik3.csv",
-     "sha": "b8f8afc0ee151a26e68cb5e36ec50a42f7c4c1b0a53565ee99dfacc1108ec377",
-     "zmiana": true
+     "data": "2026-09-16"
+    },
+    {
+     "url": "https://funduszeue.kujawsko-pomorskie.pl/wp-content/uploads/2026/09/Wykaz-zmian-16.09.2026-r.docx",
+     "opis": "Pobierz . docx",
+     "data": "2026-09-16"
+    },
+    {
+     "url": "https://funduszeue.kujawsko-pomorskie.pl/wp-content/uploads/2026/07/Wykaz-zmian-09.09.2026r.docx",
+     "opis": "Pobierz . docx",
+     "data": "2026-09-09"
     }
    ]
   },
@@ -86,7 +111,7 @@
     "https://funduszeue.lubelskie.pl/nabory/harmonogram-naborow"
    ],
    "status": "ok",
-   "zmiana": true,
+   "zmiana": false,
    "strony": [
     {
      "url": "https://funduszeue.lubelskie.pl/nabory/harmonogram-naborow",
@@ -95,28 +120,45 @@
    ],
    "pliki": [
     {
-     "url": "https://funduszeue.lubelskie.pl/assets/files/1019/cc/cc1bf8b608cbb169058a35dd8f578227b2e67022.harmonogram_fel_17_08_2026.xlsm",
-     "opis": "Pobierz do pliku Pobierz",
+     "url": "https://funduszeue.lubelskie.pl/assets/files/6999/harmonogram_fel_16_09_2026.xlsm",
+     "opis": "Pobierz harmonogram: XLSM",
+     "data_wg_strony": "2026-09-16",
      "status": "ok",
      "tekst": "regiony/lubelskie/plik1.csv",
-     "sha": "d16404b788c84b3890ee956572148d056199c93a632b5e29167cf29549fd36a4",
+     "sha": "05a6e2e4f6ab4ce94c0cfdddfbac87021d2e7ecc38b8c38e3a14c71d24e6f6a2",
      "zmiana": true
+    }
+   ],
+   "pliki_kandydaci": [
+    {
+     "url": "https://funduszeue.lubelskie.pl/assets/files/6999/harmonogram_fel_16_09_2026.xlsm",
+     "opis": "Pobierz harmonogram: XLSM",
+     "data": "2026-09-16"
+    },
+    {
+     "url": "https://funduszeue.lubelskie.pl/assets/files/1019/cc/cc1bf8b608cbb169058a35dd8f578227b2e67022.harmonogram_fel_17_08_2026.xlsm",
+     "opis": "Pobierz do pliku Pobierz",
+     "data": "2026-08-17"
     },
     {
      "url": "https://funduszeue.lubelskie.pl/assets/files/1019/6c/6c3fd4515c9aef5e8dbf2fda9e5bc8f1350719b5.harmonogram_fel_30_06_2026.xlsm",
      "opis": "Pobierz do pliku Pobierz",
-     "status": "ok",
-     "tekst": "regiony/lubelskie/plik2.csv",
-     "sha": "7325125c297e7092d309bc29329f4ee2ff59ce373c7be4ad6a97fc582b0b9b5f",
-     "zmiana": true
+     "data": "2026-06-30"
     },
     {
      "url": "https://funduszeue.lubelskie.pl/assets/files/1019/91/9111772f8f7f130e5dbec33395ff589f970f26e0.harmonogram_naborow_fel_19_05_2026.xlsm",
      "opis": "Pobierz do pliku Pobierz",
-     "status": "ok",
-     "tekst": "regiony/lubelskie/plik3.csv",
-     "sha": "64f6db47d49d60f7258d73653807a706f9be802a87f6fbebea8465463551a6cc",
-     "zmiana": true
+     "data": "2026-05-19"
+    },
+    {
+     "url": "https://funduszeue.lubelskie.pl/assets/files/1019/b7/b79fea0951d91410143c9dd7d20c869dc67c39fa.harmonogram_naborow_fel_17_04_2026.xlsm",
+     "opis": "Pobierz do pliku Pobierz",
+     "data": "2026-04-17"
+    },
+    {
+     "url": "https://funduszeue.lubelskie.pl/assets/files/1019/cd/cdaf8c258b4d5a2ee3d3e0d49827a07c2d53f668.harmonogram_naborow_fel_17_03_2026.xlsm",
+     "opis": "Pobierz do pliku Pobierz",
+     "data": "2026-03-17"
     }
    ]
   },
@@ -132,14 +174,15 @@
      "tekst": "regiony/lubuskie/strona1.txt"
     }
    ],
-   "pliki": []
+   "pliki": [],
+   "pliki_kandydaci": []
   },
   "mazowieckie": {
    "url": [
     "https://funduszeuedlamazowsza.eu/dokumenty-list/harmonogram-naborow-wnioskow-o-dofinansowanie-w-trybie-konkurencyjnym-i-niekonkurencyjnym-dla-programu-fundusze-europejskie-dla-mazowsza-2021-2027-2/"
    ],
    "status": "ok",
-   "zmiana": true,
+   "zmiana": false,
    "strony": [
     {
      "url": "https://funduszeuedlamazowsza.eu/dokumenty-list/harmonogram-naborow-wnioskow-o-dofinansowanie-w-trybie-konkurencyjnym-i-niekonkurencyjnym-dla-programu-fundusze-europejskie-dla-mazowsza-2021-2027-2/",
@@ -148,22 +191,45 @@
    ],
    "pliki": [
     {
-     "url": "https://funduszeuedlamazowsza.eu/wp-content/uploads/2024/04/Karta-zmian-do-Harmonogramu-Naboru-Wnioskow-FEM-6.docx",
-     "opis": "Pobierz do pliku opis zmian",
-     "status": "format .docx bez konwersji"
+     "url": "https://funduszeuedlamazowsza.eu/wp-content/uploads/2024/04/Harmonogram-Naboru-Wnioskow-FEM-2021-2027-7.04.2026-.xlsm",
+     "opis": "Pobierz do pliku Pobierz",
+     "data_wg_strony": "2027-07-04",
+     "status": "ok",
+     "tekst": "regiony/mazowieckie/plik1.csv",
+     "sha": "88494bef560a53e86697b7336bf33877693a1f723a4ce39858489ed4a2881b2d",
+     "zmiana": true
+    }
+   ],
+   "pliki_kandydaci": [
+    {
+     "url": "https://funduszeuedlamazowsza.eu/wp-content/uploads/2024/04/Harmonogram-Naboru-Wnioskow-FEM-2021-2027-7.04.2026-.xlsm",
+     "opis": "Pobierz do pliku Pobierz",
+     "data": "2027-07-04"
+    },
+    {
+     "url": "https://funduszeuedlamazowsza.eu/wp-content/uploads/2024/04/Harmonogram-Naboru-Wnioskow-FEM-2021-2027-WERSJA-NA-ZWM-27.05.2025.xlsm",
+     "opis": "Pobierz do pliku Pobierz",
+     "data": "2025-05-27"
+    },
+    {
+     "url": "https://funduszeuedlamazowsza.eu/wp-content/uploads/2023/05/Harmonogram-FEM-2021-2027-Na-ZWM-28.11.2023.xlsx",
+     "opis": "Pobierz do pliku Pobierz",
+     "data": "2023-11-28"
+    },
+    {
+     "url": "https://funduszeuedlamazowsza.eu/wp-content/uploads/2023/05/harmonogram-naboru-wnioksow-fem2.xlsx",
+     "opis": "Pobierz do pliku Pobierz",
+     "data": "2023-06-26"
+    },
+    {
+     "url": "https://funduszeuedlamazowsza.eu/wp-content/uploads/2023/05/final-harmonogram-naborow-fem-21-27-wersja-na-zwm-na-27.02.2023-1.xlsx",
+     "opis": "Pobierz do pliku Pobierz",
+     "data": "2023-02-27"
     },
     {
      "url": "https://funduszeuedlamazowsza.eu/wp-content/uploads/2024/04/Harmonogram-Naboru-Wnioskow-FEM-2021-2027-7.xlsm",
      "opis": "Pobierz do pliku Pobierz",
-     "status": "ok",
-     "tekst": "regiony/mazowieckie/plik2.csv",
-     "sha": "1c7f4fce1a65403cf176901e0160d567ba631bcd5c1348f4ba76762f879ec9e2",
-     "zmiana": true
-    },
-    {
-     "url": "https://funduszeuedlamazowsza.eu/wp-content/uploads/2024/04/Karta-zmian-do-Harmonogramu-Naboru-Wnioskow-FEM-5.docx",
-     "opis": "Pobierz do pliku opis zmian",
-     "status": "format .docx bez konwersji"
+     "data": null
     }
    ]
   },
@@ -172,7 +238,7 @@
     "https://www.fundusze.malopolska.pl/harmonogram"
    ],
    "status": "ok",
-   "zmiana": true,
+   "zmiana": false,
    "strony": [
     {
      "url": "https://www.fundusze.malopolska.pl/harmonogram",
@@ -181,20 +247,25 @@
    ],
    "pliki": [
     {
-     "url": "https://www.fundusze.malopolska.pl/sites/default/files/2026/09/1862/Wykaz%20zmian%20w%20Harmonogramie_29.09.2026.pdf",
-     "opis": "Pobierz opis zmian",
+     "url": "https://www.fundusze.malopolska.pl/sites/default/files/2026/09/1862/zal.%20do%20uchwaly%20nr%202168_26%20HN%20FEM%2021-27.pdf",
+     "opis": "Harmonogram naboru wniosków",
+     "data_wg_strony": null,
      "status": "ok",
      "tekst": "regiony/malopolskie/plik1.txt",
-     "sha": "27dd6fb309a6bc198f1cfe5cddbbe547a027618aad08056a3ee1d92256e6e3e4",
-     "zmiana": true
-    },
+     "sha": "7c09b80ba3bddee4b434b6765373fb26b9c78d34b1d2941ffa1b6d7ae4d73787",
+     "zmiana": false
+    }
+   ],
+   "pliki_kandydaci": [
     {
      "url": "https://www.fundusze.malopolska.pl/sites/default/files/2026/09/1862/zal.%20do%20uchwaly%20nr%202168_26%20HN%20FEM%2021-27.pdf",
      "opis": "Harmonogram naboru wniosków",
-     "status": "ok",
-     "tekst": "regiony/malopolskie/plik2.txt",
-     "sha": "7c09b80ba3bddee4b434b6765373fb26b9c78d34b1d2941ffa1b6d7ae4d73787",
-     "zmiana": true
+     "data": null
+    },
+    {
+     "url": "https://www.fundusze.malopolska.pl/sites/default/files/2026/09/1862/zal.%20do%20uchwaly%20nr%202168_26%20HN%20FEM%2021-27.xlsx",
+     "opis": "xlsx 695.22 KB",
+     "data": null
     }
    ]
   },
@@ -202,17 +273,61 @@
    "url": [
     "https://funduszeue.opolskie.pl/harmonogram-naborow"
    ],
-   "status": "https://funduszeue.opolskie.pl/harmonogram-naborow: błąd pobierania: https://funduszeue.opolskie.pl/harmonogram-naborow -> URLError: <urlopen error timed out>",
-   "zmiana": null,
-   "strony": [],
-   "pliki": []
+   "status": "ok",
+   "zmiana": true,
+   "strony": [
+    {
+     "url": "https://funduszeue.opolskie.pl/harmonogram-naborow",
+     "tekst": "regiony/opolskie/strona1.txt"
+    }
+   ],
+   "pliki": [
+    {
+     "url": "https://funduszeue.opolskie.pl/sites/default/files/2026-10/aktualizacja-opisu-zmian_28.09.2026.docx",
+     "opis": "Aktualizacja opisu zmian_28.09.2026",
+     "data_wg_strony": "2026-09-28",
+     "status": "format .docx bez konwersji"
+    }
+   ],
+   "pliki_kandydaci": [
+    {
+     "url": "https://funduszeue.opolskie.pl/sites/default/files/2026-10/aktualizacja-opisu-zmian_28.09.2026.docx",
+     "opis": "Aktualizacja opisu zmian_28.09.2026",
+     "data": "2026-09-28"
+    },
+    {
+     "url": "https://funduszeue.opolskie.pl/sites/default/files/2026-09/harmonogram-naborow-wnioskow-zwo-28.09.2026.xlsx",
+     "opis": "Pobierz dokument: Harmonogram naborów wniosków o dofinansowanie w ramach programu Fundusze Europejskie dla Opolskiego 2021-2027 - 28.09.2026",
+     "data": "2026-09-28"
+    },
+    {
+     "url": "https://funduszeue.opolskie.pl/sites/default/files/2025-08/harmonogram-naborow-wnioskow-24-czerwca-2025_2.xlsx",
+     "opis": "xlsx | 144.04 KB",
+     "data": "2026-09-28"
+    },
+    {
+     "url": "https://funduszeue.opolskie.pl/sites/default/files/2026-09/harmonogram-naborow-wnioskow-zwo-30.06.2026.xlsx",
+     "opis": "Harmonogram naborów wniosków o dofinansowanie w ramach programu Fundusze Europejskie dla Opolskiego 2021-2027 - 30.06.2026",
+     "data": "2026-06-30"
+    },
+    {
+     "url": "https://funduszeue.opolskie.pl/sites/default/files/2026-07/harmonogram-naborow-wnioskow-zwo-23-marca-2026_na-zwo.xlsx",
+     "opis": "harmonogram-naborow-wnioskow-zwo-23-marca-2026_na-zwo.xlsx",
+     "data": "2026-06-30"
+    },
+    {
+     "url": "https://funduszeue.opolskie.pl/sites/default/files/2026-03/harmonogram-naborow-wnioskow-zwo-15-grudnia-2025.xlsx",
+     "opis": "Harmonogram naborów wniosków_15.12.2025",
+     "data": "2025-12-15"
+    }
+   ]
   },
   "podkarpackie": {
    "url": [
     "https://funduszeue.podkarpackie.pl/harmonogram"
    ],
    "status": "ok",
-   "zmiana": true,
+   "zmiana": false,
    "strony": [
     {
      "url": "https://funduszeue.podkarpackie.pl/harmonogram",
@@ -223,26 +338,43 @@
     {
      "url": "https://funduszeue.podkarpackie.pl/images/Dokumenty_2026/harmonogram/Harmonogram_naborow_FEP_29092026.xlsm",
      "opis": "Harmonogram naborów wniosków o dofinansowanie dla programu regionalnego Fundusze Europejskie dla Podkarpacia 2021-2027 z 29.09.2026 r. XLSM 130.94 KB",
+     "data_wg_strony": "2026-09-29",
      "status": "ok",
      "tekst": "regiony/podkarpackie/plik1.csv",
      "sha": "0dde1413314367a203e2d3097d42c19adb138d7b6f09682ce8625c69e56edb78",
-     "zmiana": true
+     "zmiana": false
+    }
+   ],
+   "pliki_kandydaci": [
+    {
+     "url": "https://funduszeue.podkarpackie.pl/images/Dokumenty_2026/harmonogram/Harmonogram_naborow_FEP_29092026.xlsm",
+     "opis": "Harmonogram naborów wniosków o dofinansowanie dla programu regionalnego Fundusze Europejskie dla Podkarpacia 2021-2027 z 29.09.2026 r. XLSM 130.94 KB",
+     "data": "2026-09-29"
     },
     {
      "url": "https://funduszeue.podkarpackie.pl/images/Dokumenty_2026/harmonogram/Harmonogram%20naborow%20wnioskow%20o%20dofinansowanie%20dla%20programu%20regionalnego%20Fundusze%20Europejskie%20dla%20Podkarpacia.xlsm",
      "opis": "",
-     "status": "ok",
-     "tekst": "regiony/podkarpackie/plik2.csv",
-     "sha": "e479fe3470f3dd7f6da3c4bb4c43cb098392c7526b3b80fa63ae2886820d0ed5",
-     "zmiana": true
+     "data": "2026-09-29"
     },
     {
      "url": "https://funduszeue.podkarpackie.pl/images/Dokumenty_2026/Pliki/Harmonogram%20naborow%20wnioskow%20o%20dofinansowanie%20dla%20programu%20regionalnego%20Fundusze%20Europejskie%20dla%20Podkarpacia%202021-2027%20z%2030.06.2.xlsm",
      "opis": "Harmonogram naborów wniosków o dofinansowanie dla programu regionalnego Fundusze Europejskie dla Podkarpacia 2021-2027 z 30.06.2026 r. XLSM 131.95 KB",
-     "status": "ok",
-     "tekst": "regiony/podkarpackie/plik3.csv",
-     "sha": "007553f81bd704fd53b80d5945f907925944bdccd63cafe6a2bd5660bbc826ca",
-     "zmiana": true
+     "data": "2026-06-30"
+    },
+    {
+     "url": "https://funduszeue.podkarpackie.pl/images/Dokumenty_2026/harmonogram/Harmonogram_naborow_FEP_11032026.xlsm",
+     "opis": "Harmonogram naborów wniosków o dofinansowanie dla programu regionalnego Fundusze Europejskie dla Podkarpacia 2021-2027 z 11.03.2026 r. XLSM 123.8 KB",
+     "data": "2026-03-11"
+    },
+    {
+     "url": "https://funduszeue.podkarpackie.pl/images/Dokumenty_2025/pliki/2025/Harmonogram_nabor%C3%B3w_wniosk%C3%B3w_o_dofinansowanie_FEP_2021-2027_z_23.12.2025_r.xlsx",
+     "opis": "Harmonogram naborów wniosków o dofinansowanie dla programu regionalnego Fundusze Europejskie dla Podkarpacia 2021-2027 z 23.12.2025 r. XLSM 126,25 KB",
+     "data": "2025-12-23"
+    },
+    {
+     "url": "https://funduszeue.podkarpackie.pl/images/Dokumenty_2025/pliki/HarmonogramWojewodztwoPodkarpackie.xlsm",
+     "opis": "Harmonogram naborów wniosków o dofinansowanie dla programu regionalnego Fundusze Europejskie dla Podkarpacia 2021-2027 z 29.09.2025 r. XLSM 129,33 KB",
+     "data": "2025-09-29"
     }
    ]
   },
@@ -251,14 +383,15 @@
     "https://funduszeuepodlaskie.pl/nabory/"
    ],
    "status": "ok",
-   "zmiana": true,
+   "zmiana": false,
    "strony": [
     {
      "url": "https://funduszeuepodlaskie.pl/nabory/",
      "tekst": "regiony/podlaskie/strona1.txt"
     }
    ],
-   "pliki": []
+   "pliki": [],
+   "pliki_kandydaci": []
   },
   "pomorskie": {
    "url": [
@@ -266,7 +399,7 @@
     "https://funduszeuepomorskie.pl/dokumenty/5122-harmonogram-naborow-wnioskow-o-dofinansowanie-w-ramach-programu-regionalnego"
    ],
    "status": "ok",
-   "zmiana": true,
+   "zmiana": false,
    "strony": [
     {
      "url": "https://funduszeuepomorskie.pl/nabory",
@@ -281,10 +414,18 @@
     {
      "url": "https://funduszeuepomorskie.pl/sites/default/files/2026/10/5530/Harmonogram%20naborow%20FEP%202021-2027%20z%2029%20wrzesnia%202026%20r._2.xlsm",
      "opis": "Harmonogram naborów FEP 2021-2027 z 29 września 2026 r. (wersja obowiązująca)",
+     "data_wg_strony": null,
      "status": "ok",
      "tekst": "regiony/pomorskie/plik1.csv",
      "sha": "710a9800b9b146b4227305acc1d9056fe970435724eb12ba7a7ff9170befa477",
-     "zmiana": true
+     "zmiana": false
+    }
+   ],
+   "pliki_kandydaci": [
+    {
+     "url": "https://funduszeuepomorskie.pl/sites/default/files/2026/10/5530/Harmonogram%20naborow%20FEP%202021-2027%20z%2029%20wrzesnia%202026%20r._2.xlsm",
+     "opis": "Harmonogram naborów FEP 2021-2027 z 29 września 2026 r. (wersja obowiązująca)",
+     "data": null
     }
    ]
   },
@@ -293,21 +434,22 @@
     "https://funduszeeuropejskie.warmia.mazury.pl/artykul/1183/aktualizacja-harmonogramu-naborow-wnioskow"
    ],
    "status": "ok",
-   "zmiana": true,
+   "zmiana": false,
    "strony": [
     {
      "url": "https://funduszeeuropejskie.warmia.mazury.pl/artykul/1183/aktualizacja-harmonogramu-naborow-wnioskow",
      "tekst": "regiony/warminsko-mazurskie/strona1.txt"
     }
    ],
-   "pliki": []
+   "pliki": [],
+   "pliki_kandydaci": []
   },
   "wielkopolskie": {
    "url": [
     "https://funduszeue.wielkopolskie.pl/nabory/harmonogram-naborow"
    ],
    "status": "ok",
-   "zmiana": true,
+   "zmiana": false,
    "strony": [
     {
      "url": "https://funduszeue.wielkopolskie.pl/nabory/harmonogram-naborow",
@@ -318,15 +460,23 @@
     {
      "url": "https://funduszeue.wielkopolskie.pl/sites/default/files/Dokumenty%2C%20Harmonogram%20nabor%C3%B3w/2026-09-07/Harmonogram_nabor%C3%B3w_wniosk%C3%B3w_2021-2027.pdf",
      "opis": "Pobierz harmonogram: pdf",
+     "data_wg_strony": "2026-09-07",
      "status": "ok",
      "tekst": "regiony/wielkopolskie/plik1.txt",
      "sha": "de81e803abb4557b66304830c3c7082f9a16e6a0c84c9d33e9ac33029d4bd808",
-     "zmiana": true
+     "zmiana": false
+    }
+   ],
+   "pliki_kandydaci": [
+    {
+     "url": "https://funduszeue.wielkopolskie.pl/sites/default/files/Dokumenty%2C%20Harmonogram%20nabor%C3%B3w/2026-09-07/Harmonogram_nabor%C3%B3w_wniosk%C3%B3w_2021-2027.pdf",
+     "opis": "Pobierz harmonogram: pdf",
+     "data": "2026-09-07"
     },
     {
      "url": "https://funduszeue.wielkopolskie.pl/sites/default/files/Dokumenty%2C%20Harmonogram%20nabor%C3%B3w/2026-09-07/Harmonogram_nabor%C3%B3w_wniosk%C3%B3w_2021-2027.docx",
      "opis": "docx | 103 KB",
-     "status": "format .docx bez konwersji"
+     "data": "2026-09-07"
     }
    ]
   },
@@ -335,7 +485,7 @@
     "https://funduszeue.wzp.pl/dokumenty-list/harmonogram-naboru-wnioskow-programu-fundusze-europejskie-dla-pomorza-zachodniego-2021-2027/"
    ],
    "status": "ok",
-   "zmiana": true,
+   "zmiana": false,
    "strony": [
     {
      "url": "https://funduszeue.wzp.pl/dokumenty-list/harmonogram-naboru-wnioskow-programu-fundusze-europejskie-dla-pomorza-zachodniego-2021-2027/",
@@ -344,22 +494,45 @@
    ],
    "pliki": [
     {
-     "url": "https://funduszeue.wzp.pl/wp-content/uploads/2026/03/Harmonogram-naborow-wnioskow-FEPZ-24-06-2026.docx",
-     "opis": "Pobierz do pliku opis zmian",
-     "status": "format .docx bez konwersji"
+     "url": "https://funduszeue.wzp.pl/wp-content/uploads/2026/06/Harmonogram-naborow-wnioskow-FEPZ-24092026-na-strone.xlsm",
+     "opis": "pobierz dokument: xlsm",
+     "data_wg_strony": "2026-09-24",
+     "status": "ok",
+     "tekst": "regiony/zachodniopomorskie/plik1.csv",
+     "sha": "7145fdce2c71e9afeefd3d50eae977cf0636bc3deff956b6e8520435a63bcb25",
+     "zmiana": true
+    }
+   ],
+   "pliki_kandydaci": [
+    {
+     "url": "https://funduszeue.wzp.pl/wp-content/uploads/2026/06/Harmonogram-naborow-wnioskow-FEPZ-24092026-na-strone.xlsm",
+     "opis": "pobierz dokument: xlsm",
+     "data": "2026-09-24"
     },
     {
      "url": "https://funduszeue.wzp.pl/wp-content/uploads/2026/06/Harmonogram-naborow-wnioskow-FEPZ-24-06-2026.xlsx",
      "opis": "Pobierz do pliku Pobierz",
-     "status": "ok",
-     "tekst": "regiony/zachodniopomorskie/plik2.csv",
-     "sha": "30688ab6c48af028d95f937fdd4f7cf1232861d1e623f274e2f93fbb6a19f6b7",
-     "zmiana": true
+     "data": "2026-06-24"
     },
     {
-     "url": "https://funduszeue.wzp.pl/wp-content/uploads/2025/12/FEPZ-Harmonogram-naborow-wnioskow-20260324-opis-zmian.docx",
-     "opis": "Pobierz do pliku opis zmian",
-     "status": "format .docx bez konwersji"
+     "url": "https://funduszeue.wzp.pl/wp-content/uploads/2025/04/Harmonogram-naborow-wnioskow-FEPZ-25062025.xlsm",
+     "opis": "Pobierz do pliku Pobierz",
+     "data": "2025-06-25"
+    },
+    {
+     "url": "https://funduszeue.wzp.pl/wp-content/uploads/2025/03/Harmonogram-naborow-wnioskow-FEPZ-22042025.xlsx",
+     "opis": "Pobierz do pliku Pobierz",
+     "data": "2025-04-22"
+    },
+    {
+     "url": "https://funduszeue.wzp.pl/wp-content/uploads/2025/03/Harmonogram-naborow-wnioskow-FEPZ-31032025.xlsx",
+     "opis": "Pobierz do pliku Pobierz",
+     "data": "2025-03-31"
+    },
+    {
+     "url": "https://funduszeue.wzp.pl/wp-content/uploads/2024/08/Harmonogram-naborow-wnioskow-FEPZ-27082024.xlsx",
+     "opis": "Pobierz do pliku Pobierz",
+     "data": "2024-08-27"
     }
    ]
   },
@@ -368,7 +541,7 @@
     "https://www.funduszeue.lodzkie.pl/dokumenty/harmonogram-naborow-wnioskow-dla-programu-fundusze-europejskie-dla-lodzkiego-2021-2027"
    ],
    "status": "ok",
-   "zmiana": true,
+   "zmiana": false,
    "strony": [
     {
      "url": "https://www.funduszeue.lodzkie.pl/dokumenty/harmonogram-naborow-wnioskow-dla-programu-fundusze-europejskie-dla-lodzkiego-2021-2027",
@@ -377,28 +550,45 @@
    ],
    "pliki": [
     {
-     "url": "https://www.funduszeue.lodzkie.pl/sites/default/files/2026/812-harmonogram-naborow/1.harmonogram-naborow-nr-3_26.pdf",
-     "opis": "Harmonogram naborów wniosków o dofinansowanie dla programu regionalnego Fundusze Europejskie dla Łódzkiego 2021-2027",
+     "url": "https://www.funduszeue.lodzkie.pl/sites/default/files/2026/320-harmonogram-naborow/3.harmonogram-uproszczony-nabory-konkurencyjne.pdf",
+     "opis": "Harmonogram uproszczony naborów trwających i planowanych do ogłoszenia w trybie konkurencyjnym",
+     "data_wg_strony": "2026-09-20",
      "status": "ok",
      "tekst": "regiony/lodzkie/plik1.txt",
-     "sha": "5d02bd0b9fd80ed2eddd9859ecb8b7adb789383f8f9be7fd21e01d89bd61e0de",
+     "sha": "22dc2dab654346206ca7b7fe572b4631ad8885812b1d320493ceddf138679469",
      "zmiana": true
+    }
+   ],
+   "pliki_kandydaci": [
+    {
+     "url": "https://www.funduszeue.lodzkie.pl/sites/default/files/2026/320-harmonogram-naborow/3.harmonogram-uproszczony-nabory-konkurencyjne.pdf",
+     "opis": "Harmonogram uproszczony naborów trwających i planowanych do ogłoszenia w trybie konkurencyjnym",
+     "data": "2026-09-20"
     },
     {
-     "url": "https://www.funduszeue.lodzkie.pl/sites/default/files/2026/610-harmonogram-wnioskow/1.harmonogram-naborow-nr-02_26.pdf",
-     "opis": "Harmonogram naborów wniosków o dofinansowanie dla programu regionalnego Fundusze Europejskie dla Łódzkiego 2021-2027",
-     "status": "ok",
-     "tekst": "regiony/lodzkie/plik2.txt",
-     "sha": "8ba8efa42701605be3edaf61df312317d766b05ad1245c33d577b11b3b3388d0",
-     "zmiana": true
+     "url": "https://www.funduszeue.lodzkie.pl/sites/default/files/2026/320-harmonogram-naborow/4.harmonogram-uproszczony-nabory-niekonkurencyjne.pdf",
+     "opis": "Harmonogram uproszczony naborów trwających i planowanych do ogłoszenia w trybie niekonkurencyjnym",
+     "data": "2026-09-20"
     },
     {
-     "url": "https://www.funduszeue.lodzkie.pl/sites/default/files/2026/320-harmonogram-naborow/1.harmonogram-nr-01_26-kopia.pdf",
+     "url": "https://www.funduszeue.lodzkie.pl/sites/default/files/2025/138-harmonogram/2025-03-18-harmonogram-uproszczony.xlsx",
+     "opis": "Harmonogram uproszczony naborów trwających i planowanych do harmonogramu stanowiącego załącznik do Uchwały nr 328/25 ZWŁ",
+     "data": "2025-03-18"
+    },
+    {
+     "url": "https://www.funduszeue.lodzkie.pl/sites/default/files/2024/292-zmiana-harmonogramu/Harmonogram-naborow-wersja-11.pdf",
      "opis": "Harmonogram naborów wniosków o dofinansowanie dla programu regionalnego Fundusze Europejskie dla Łódzkiego 2021-2027",
-     "status": "ok",
-     "tekst": "regiony/lodzkie/plik3.txt",
-     "sha": "be4eb3fc8458524ae52ed56ea3f1797903bc318871384f0a3c9bfa3a059bac4b",
-     "zmiana": true
+     "data": "2024-10-21"
+    },
+    {
+     "url": "https://www.funduszeue.lodzkie.pl/sites/default/files/2024/153-zmiana-harmonogramu/Harmonogram-9-12032024.pdf",
+     "opis": "Harmonogram naborów wniosków o dofinansowanie dla programu regionalnego Fundusze Europejskie dla Łódzkiego 2021-2027",
+     "data": "2024-03-12"
+    },
+    {
+     "url": "https://www.funduszeue.lodzkie.pl/sites/default/files/2023/295-zmiana-harmonogramu/harmonogram-naborow-18092023.pdf",
+     "opis": "Harmonogram naborów wniosków o dofinansowanie dla programu regionalnego Fundusze Europejskie dla Łódzkiego 2021-2027",
+     "data": "2023-09-18"
     }
    ]
   },
@@ -407,14 +597,41 @@
     "https://funduszeue.slaskie.pl/harmonogram-naborow"
    ],
    "status": "ok",
-   "zmiana": true,
+   "zmiana": false,
    "strony": [
     {
      "url": "https://funduszeue.slaskie.pl/harmonogram-naborow",
      "tekst": "regiony/slaskie/strona1.txt"
     }
    ],
-   "pliki": []
+   "pliki": [
+    {
+     "url": "https://funduszeue.slaskie.pl/documents/20117/1331649/Harmonogram+naborow+wnioskow+o+dofinansowanie+FESL+v.+17.2.xlsm/9e3da803-d211-aa92-f6aa-4025c6d58983?t=1790585510221/",
+     "opis": "Pobierz dokument: xlsm",
+     "data_wg_strony": null,
+     "status": "ok",
+     "tekst": "regiony/slaskie/plik1.csv",
+     "sha": "e92902a42955a8dd679e20ca6f55f13f1c0f7e27399fcbc6f47314b2ca1b5c7d",
+     "zmiana": true
+    }
+   ],
+   "pliki_kandydaci": [
+    {
+     "url": "https://funduszeue.slaskie.pl/documents/20117/1331649/Harmonogram+naborow+wnioskow+o+dofinansowanie+FESL+v.+17.2.xlsm/9e3da803-d211-aa92-f6aa-4025c6d58983?t=1790585510221/",
+     "opis": "Pobierz dokument: xlsm",
+     "data": null
+    },
+    {
+     "url": "https://funduszeue.slaskie.pl/documents/20117/1331649/Harmonogram+naborow+wnioskow+o+dofinansowanie+FESL+v.17.2.pdf/9e03962b-05ce-9fae-7192-4de2caf81c5a?t=1790586236946",
+     "opis": "PDF 345,9 KB",
+     "data": null
+    },
+    {
+     "url": "https://funduszeue.slaskie.pl/documents/20117/1331649/Harmonogram+naborow+wnioskow+o+dofinansowanie+FESL+v.+17.2.xlsm/9e3da803-d211-aa92-f6aa-4025c6d58983?t=1790585510221",
+     "opis": "Pobierz dokument: xlsm",
+     "data": null
+    }
+   ]
   },
   "świętokrzyskie": {
    "url": [
@@ -426,96 +643,6 @@
    "pliki": []
   }
  },
- "bledy": [
-  "Proces 1661-A: https://api.sejm.gov.pl/sejm/term10/processes/1661-A -> HTTP 404",
-  "Proces 2792-A: https://api.sejm.gov.pl/sejm/term10/processes/2792-A -> HTTP 404",
-  "Proces 2856-A: https://api.sejm.gov.pl/sejm/term10/processes/2856-A -> HTTP 404",
-  "Proces 2881-A: https://api.sejm.gov.pl/sejm/term10/processes/2881-A -> HTTP 404",
-  "Proces 3019: https://api.sejm.gov.pl/sejm/term10/processes/3019 -> HTTP 404",
-  "Proces 3020-A: https://api.sejm.gov.pl/sejm/term10/processes/3020-A -> HTTP 404",
-  "Proces 3047: https://api.sejm.gov.pl/sejm/term10/processes/3047 -> HTTP 404",
-  "Proces 3053: https://api.sejm.gov.pl/sejm/term10/processes/3053 -> HTTP 404",
-  "Proces 3054: https://api.sejm.gov.pl/sejm/term10/processes/3054 -> HTTP 404",
-  "Proces 3055-A: https://api.sejm.gov.pl/sejm/term10/processes/3055-A -> HTTP 404",
-  "Proces 3057: https://api.sejm.gov.pl/sejm/term10/processes/3057 -> HTTP 404",
-  "Proces 3058: https://api.sejm.gov.pl/sejm/term10/processes/3058 -> HTTP 404",
-  "Proces 3059: https://api.sejm.gov.pl/sejm/term10/processes/3059 -> HTTP 404",
-  "Proces 3065: https://api.sejm.gov.pl/sejm/term10/processes/3065 -> HTTP 404",
-  "Proces 3075: https://api.sejm.gov.pl/sejm/term10/processes/3075 -> HTTP 404",
-  "Proces 3076: https://api.sejm.gov.pl/sejm/term10/processes/3076 -> HTTP 404",
-  "Proces 3076-A: https://api.sejm.gov.pl/sejm/term10/processes/3076-A -> HTTP 404",
-  "Proces 3079: https://api.sejm.gov.pl/sejm/term10/processes/3079 -> HTTP 404",
-  "Proces 3080: https://api.sejm.gov.pl/sejm/term10/processes/3080 -> HTTP 404",
-  "Proces 3080-A: https://api.sejm.gov.pl/sejm/term10/processes/3080-A -> HTTP 404",
-  "Proces 3081: https://api.sejm.gov.pl/sejm/term10/processes/3081 -> HTTP 404",
-  "Proces 3082: https://api.sejm.gov.pl/sejm/term10/processes/3082 -> HTTP 404",
-  "Proces 3083: https://api.sejm.gov.pl/sejm/term10/processes/3083 -> HTTP 404",
-  "Proces 3084: https://api.sejm.gov.pl/sejm/term10/processes/3084 -> HTTP 404",
-  "Proces 3095: https://api.sejm.gov.pl/sejm/term10/processes/3095 -> HTTP 404",
-  "Proces 3096: https://api.sejm.gov.pl/sejm/term10/processes/3096 -> HTTP 404",
-  "Proces 3097: https://api.sejm.gov.pl/sejm/term10/processes/3097 -> HTTP 404",
-  "Proces 3098: https://api.sejm.gov.pl/sejm/term10/processes/3098 -> HTTP 404",
-  "Proces 3103: https://api.sejm.gov.pl/sejm/term10/processes/3103 -> HTTP 404",
-  "Proces 3104: https://api.sejm.gov.pl/sejm/term10/processes/3104 -> HTTP 404",
-  "Proces 3104-A: https://api.sejm.gov.pl/sejm/term10/processes/3104-A -> HTTP 404",
-  "Proces 3105: https://api.sejm.gov.pl/sejm/term10/processes/3105 -> HTTP 404",
-  "Proces 3107: https://api.sejm.gov.pl/sejm/term10/processes/3107 -> HTTP 404",
-  "Proces 3108: https://api.sejm.gov.pl/sejm/term10/processes/3108 -> HTTP 404",
-  "Proces 3109: https://api.sejm.gov.pl/sejm/term10/processes/3109 -> HTTP 404",
-  "Proces 3110: https://api.sejm.gov.pl/sejm/term10/processes/3110 -> HTTP 404",
-  "Proces 3111: https://api.sejm.gov.pl/sejm/term10/processes/3111 -> HTTP 404",
-  "Proces 3112: https://api.sejm.gov.pl/sejm/term10/processes/3112 -> HTTP 404",
-  "Proces 3113: https://api.sejm.gov.pl/sejm/term10/processes/3113 -> HTTP 404",
-  "Proces 3113-A: https://api.sejm.gov.pl/sejm/term10/processes/3113-A -> HTTP 404",
-  "Proces 3114: https://api.sejm.gov.pl/sejm/term10/processes/3114 -> HTTP 404",
-  "Proces 3115: https://api.sejm.gov.pl/sejm/term10/processes/3115 -> HTTP 404",
-  "Proces 3115-A: https://api.sejm.gov.pl/sejm/term10/processes/3115-A -> HTTP 404",
-  "Proces 3116: https://api.sejm.gov.pl/sejm/term10/processes/3116 -> HTTP 404",
-  "Proces 3117: https://api.sejm.gov.pl/sejm/term10/processes/3117 -> HTTP 404",
-  "Proces 3118: https://api.sejm.gov.pl/sejm/term10/processes/3118 -> HTTP 404",
-  "Proces 3119: https://api.sejm.gov.pl/sejm/term10/processes/3119 -> HTTP 404",
-  "Proces 3119-A: https://api.sejm.gov.pl/sejm/term10/processes/3119-A -> HTTP 404",
-  "Proces 3130: https://api.sejm.gov.pl/sejm/term10/processes/3130 -> HTTP 404",
-  "Proces 3131: https://api.sejm.gov.pl/sejm/term10/processes/3131 -> HTTP 404",
-  "Proces 3132: https://api.sejm.gov.pl/sejm/term10/processes/3132 -> HTTP 404",
-  "Proces 3133: https://api.sejm.gov.pl/sejm/term10/processes/3133 -> HTTP 404",
-  "Proces 3151: https://api.sejm.gov.pl/sejm/term10/processes/3151 -> HTTP 404",
-  "Proces 3151-A: https://api.sejm.gov.pl/sejm/term10/processes/3151-A -> HTTP 404",
-  "Proces 3152: https://api.sejm.gov.pl/sejm/term10/processes/3152 -> HTTP 404",
-  "Proces 3164: https://api.sejm.gov.pl/sejm/term10/processes/3164 -> HTTP 404",
-  "Proces 3165: https://api.sejm.gov.pl/sejm/term10/processes/3165 -> HTTP 404",
-  "Proces 3166: https://api.sejm.gov.pl/sejm/term10/processes/3166 -> HTTP 404",
-  "Proces 3167: https://api.sejm.gov.pl/sejm/term10/processes/3167 -> HTTP 404",
-  "Proces 3168: https://api.sejm.gov.pl/sejm/term10/processes/3168 -> HTTP 404",
-  "Proces 3169: https://api.sejm.gov.pl/sejm/term10/processes/3169 -> HTTP 404",
-  "Proces 3170: https://api.sejm.gov.pl/sejm/term10/processes/3170 -> HTTP 404",
-  "Proces 3171: https://api.sejm.gov.pl/sejm/term10/processes/3171 -> HTTP 404",
-  "Proces 3181: https://api.sejm.gov.pl/sejm/term10/processes/3181 -> HTTP 404",
-  "Proces 3183: https://api.sejm.gov.pl/sejm/term10/processes/3183 -> HTTP 404",
-  "Proces 3185: https://api.sejm.gov.pl/sejm/term10/processes/3185 -> HTTP 404",
-  "Proces 3187: https://api.sejm.gov.pl/sejm/term10/processes/3187 -> HTTP 404",
-  "Proces 3188: https://api.sejm.gov.pl/sejm/term10/processes/3188 -> HTTP 404",
-  "Proces 3189: https://api.sejm.gov.pl/sejm/term10/processes/3189 -> HTTP 404",
-  "Proces 3191: https://api.sejm.gov.pl/sejm/term10/processes/3191 -> HTTP 404",
-  "Proces 3192: https://api.sejm.gov.pl/sejm/term10/processes/3192 -> HTTP 404",
-  "Proces 3193: https://api.sejm.gov.pl/sejm/term10/processes/3193 -> HTTP 404",
-  "Proces 3194: https://api.sejm.gov.pl/sejm/term10/processes/3194 -> HTTP 404",
-  "Proces 3195: https://api.sejm.gov.pl/sejm/term10/processes/3195 -> HTTP 404",
-  "Proces 3196: https://api.sejm.gov.pl/sejm/term10/processes/3196 -> HTTP 404",
-  "Proces 3198: https://api.sejm.gov.pl/sejm/term10/processes/3198 -> HTTP 404",
-  "Proces 3199: https://api.sejm.gov.pl/sejm/term10/processes/3199 -> HTTP 404",
-  "Proces 3200: https://api.sejm.gov.pl/sejm/term10/processes/3200 -> HTTP 404",
-  "Proces 3201: https://api.sejm.gov.pl/sejm/term10/processes/3201 -> HTTP 404",
-  "Proces 3202: https://api.sejm.gov.pl/sejm/term10/processes/3202 -> HTTP 404",
-  "Proces 3203: https://api.sejm.gov.pl/sejm/term10/processes/3203 -> HTTP 404",
-  "Proces 3208: https://api.sejm.gov.pl/sejm/term10/processes/3208 -> HTTP 404",
-  "Proces 3209: https://api.sejm.gov.pl/sejm/term10/processes/3209 -> HTTP 404",
-  "Proces 3210: https://api.sejm.gov.pl/sejm/term10/processes/3210 -> HTTP 404",
-  "Proces 3211: https://api.sejm.gov.pl/sejm/term10/processes/3211 -> HTTP 404",
-  "Proces 3212: https://api.sejm.gov.pl/sejm/term10/processes/3212 -> HTTP 404",
-  "Proces 3213: https://api.sejm.gov.pl/sejm/term10/processes/3213 -> HTTP 404",
-  "Proces 3214: https://api.sejm.gov.pl/sejm/term10/processes/3214 -> HTTP 404",
-  "Proces 3215: https://api.sejm.gov.pl/sejm/term10/processes/3215 -> HTTP 404"
- ],
+ "bledy": [],
  "uwaga": "Dane z oficjalnego API Sejmu (ELI) i stron programów regionalnych. Strony blokujące roboty (robots.txt) są pomijane."
 }

@@ -291,6 +291,26 @@ def rank_key(c):
     return (c["data"] or dt.date(1900, 1, 1), EXT_PRIORITY.get(c["ext"], 0), -c["kolejnosc"])
 
 
+CONTENT_DATE_RE = re.compile(
+    r"(?i)(z\s+dnia|stan\s+na(?:\s+dzień)?|aktualizacj\w*(?:\s+z)?|obowiązuj\w*\s+od|wersja\s+z)\s*[:\-–]?\s*(.{0,30})"
+)
+
+
+def content_date(text):
+    """Data dokumentu z jego nagłówka (np. „Załącznik do uchwały … z dnia 7 kwietnia 2026 r.”)."""
+    found = []
+    for m in CONTENT_DATE_RE.finditer((text or "")[:3000]):
+        found.extend(dates_in(m.group(2)))
+    return max(found) if found else None
+
+
+def choose_downloads(links, limit_dated=2, limit_undated=2):
+    """Dwa najnowsze pliki z datą oraz do dwóch plików bez daty (data ustalana potem z treści)."""
+    dated = [c for c in links if c["data"]][:limit_dated]
+    undated = sorted([c for c in links if not c["data"]], key=lambda c: c["kolejnosc"])[:limit_undated]
+    return dated + undated
+
+
 def find_schedule_files(raw, base):
     """Zwraca kandydatów na plik harmonogramu, od najnowszego (wg dat w nazwie, opisie i kontekście)."""
     page_is_schedule = "harmonogram" in (base + " " + raw[:5000]).lower()
@@ -381,25 +401,43 @@ def collect_regions(prev):
             {"url": c["url"], "opis": c["opis"], "data": c["data"].isoformat() if c["data"] else None}
             for c in file_links[:6]
         ]
-        for i, c in enumerate(file_links[:2], 1):
+        # Dedup po adresie (kilka stron regionu może linkować ten sam plik).
+        seen, links = set(), []
+        for c in file_links:
+            k = c["url"].rstrip("/")
+            if k not in seen:
+                seen.add(k)
+                links.append(c)
+        fetched = []
+        for c in choose_downloads(links):
             furl, label, ext = c["url"], c["opis"], c["ext"]
             item = {"url": furl, "opis": label, "data_wg_strony": c["data"].isoformat() if c["data"] else None}
-            entry["pliki"].append(item)
+            txt = out_ext = None
             if not allowed(furl):
                 item["status"] = "zablokowane przez robots.txt"
-                continue
-            try:
-                data, _ = http_get(furl, accept="*/*", timeout=90)
-                txt, out_ext = file_to_text(data, ext)
-                if txt is None:
-                    item["status"] = f"format {ext} bez konwersji"
-                    continue
+            else:
+                try:
+                    data, _ = http_get(furl, accept="*/*", timeout=90)
+                    txt, out_ext = file_to_text(data, ext)
+                    if txt is None:
+                        item["status"] = f"format {ext} bez konwersji"
+                    else:
+                        item.update(status="ok", sha=hashlib.sha256(data).hexdigest())
+                        item["zmiana"] = old.get(furl) != item["sha"]
+                        cd = content_date(txt)
+                        item["data_wg_tresci"] = cd.isoformat() if cd else None
+                except Exception as e:  # noqa: BLE001
+                    item["status"] = f"błąd: {str(e)[:150]}"
+            eff = item.get("data_wg_tresci") or item["data_wg_strony"] or ""
+            fetched.append((eff, c["kolejnosc"], item, txt, out_ext))
+        # Najnowszy wg treści (a gdy jej brak – wg strony) jako plik1.
+        fetched.sort(key=lambda f: (f[0], -f[1]), reverse=True)
+        for i, (_, _, item, txt, out_ext) in enumerate(fetched, 1):
+            if txt is not None:
                 name = f"plik{i}{out_ext}"
                 (d / name).write_text(txt[:MAX_FILE_TEXT], encoding="utf-8")
-                item.update(status="ok", tekst=f"regiony/{slug}/{name}", sha=hashlib.sha256(data).hexdigest())
-                item["zmiana"] = old.get(furl) != item["sha"]
-            except Exception as e:  # noqa: BLE001
-                item["status"] = f"błąd: {str(e)[:150]}"
+                item["tekst"] = f"regiony/{slug}/{name}"
+            entry["pliki"].append(item)
     return result
 
 

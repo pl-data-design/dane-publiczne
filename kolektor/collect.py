@@ -27,7 +27,7 @@ ROOT = Path(__file__).resolve().parent.parent
 CONFIG = json.loads(Path(os.environ.get("KOLEKTOR_CONFIG", ROOT / "kolektor" / "zrodla.json")).read_text(encoding="utf-8"))
 OUT = Path(os.environ.get("KOLEKTOR_OUT", ROOT / "dane"))
 SEJM = os.environ.get("SEJM_API", "https://api.sejm.gov.pl")
-UA = "Python-urllib/%d.%d" % sys.version_info[:2]  # standardowy identyfikator biblioteki Pythona
+UA = "Mozilla/5.0 (compatible; DataBot/1.0)"  # ogólny identyfikator automatu (część serwerów blokuje domyślny „Python-urllib”)
 TZ_PL = dt.timezone(dt.timedelta(hours=1))  # przybliżenie; dzień liczony z zapasem
 MAX_FILE_TEXT = 300_000
 MAX_PROCESSES = 400
@@ -314,8 +314,9 @@ def find_schedule_files(raw, base):
         cands.append({"url": full, "opis": (label or after)[:200], "ext": ext, "data": best, "kolejnosc": idx})
     uniq = {}
     for c in cands:
-        if c["url"] not in uniq:
-            uniq[c["url"]] = c
+        key = c["url"].rstrip("/")
+        if key not in uniq:
+            uniq[key] = c
     ranked = sorted(uniq.values(), key=rank_key, reverse=True)
     return ranked
 

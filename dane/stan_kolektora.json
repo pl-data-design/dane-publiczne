@@ -164,8 +164,17 @@
    "pliki": []
   },
   "mazowieckie": {
-   "sha": null,
-   "pliki": []
+   "sha": "34ea90dd1fe0d398345ed5a70780286a703d48070b95f1ed243511a65df14962",
+   "pliki": [
+    {
+     "url": "https://funduszeuedlamazowsza.eu/wp-content/uploads/2024/04/Harmonogram-Naboru-Wnioskow-FEM-2021-2027-7.04.2026-.xlsm",
+     "sha": "88494bef560a53e86697b7336bf33877693a1f723a4ce39858489ed4a2881b2d"
+    },
+    {
+     "url": "https://funduszeuedlamazowsza.eu/wp-content/uploads/2024/04/Harmonogram-Naboru-Wnioskow-FEM-2021-2027-WERSJA-NA-ZWM-27.05.2025.xlsm",
+     "sha": "9118c4e7d0a19ce97551c50aa0514af103b2b872a3e8e94010b32375d782912b"
+    }
+   ]
   },
   "małopolskie": {
    "sha": "3c8acb903d01dda2e7df7727e22323c42354d15f1d31ea22c190ea717839d7fe",
@@ -181,7 +190,7 @@
    ]
   },
   "opolskie": {
-   "sha": "6343d53b926de1d73698b551fa842ad4757066668ffc3440f7595ab23653a69e",
+   "sha": "1851a1104b34e221e263cc1e38afd0164d0adf1460dc50033471a9be364ab283",
    "pliki": [
     {
      "url": "https://funduszeue.opolskie.pl/sites/default/files/2026-09/harmonogram-naborow-wnioskow-zwo-28.09.2026.xlsx",
@@ -194,8 +203,17 @@
    ]
   },
   "podkarpackie": {
-   "sha": null,
-   "pliki": []
+   "sha": "59e1be0d6700cafccc5429c45a4e1816904e268cff60b6e706d77ed2cd721db3",
+   "pliki": [
+    {
+     "url": "https://funduszeue.podkarpackie.pl/images/Dokumenty_2026/harmonogram/Harmonogram_naborow_FEP_29092026.xlsm",
+     "sha": "0dde1413314367a203e2d3097d42c19adb138d7b6f09682ce8625c69e56edb78"
+    },
+    {
+     "url": "https://funduszeue.podkarpackie.pl/images/Dokumenty_2026/harmonogram/Harmonogram%20naborow%20wnioskow%20o%20dofinansowanie%20dla%20programu%20regionalnego%20Fundusze%20Europejskie%20dla%20Podkarpacia.xlsm",
+     "sha": "e479fe3470f3dd7f6da3c4bb4c43cb098392c7526b3b80fa63ae2886820d0ed5"
+    }
+   ]
   },
   "podlaskie": {
    "sha": "fb6218735b6ea6b2266b1cf8924a5134d438d548f8646622527277830c71f1e5",
@@ -257,8 +275,8 @@
      "sha": "e92902a42955a8dd679e20ca6f55f13f1c0f7e27399fcbc6f47314b2ca1b5c7d"
     },
     {
-     "url": "https://funduszeue.slaskie.pl/documents/20117/1331649/Harmonogram+naborow+wnioskow+o+dofinansowanie+FESL+v.+17.2.xlsm/9e3da803-d211-aa92-f6aa-4025c6d58983?t=1790585510221",
-     "sha": "e92902a42955a8dd679e20ca6f55f13f1c0f7e27399fcbc6f47314b2ca1b5c7d"
+     "url": "https://funduszeue.slaskie.pl/documents/20117/1331649/Harmonogram+naborow+wnioskow+o+dofinansowanie+FESL+v.17.2.pdf/9e03962b-05ce-9fae-7192-4de2caf81c5a?t=1790586236946",
+     "sha": "b0749473832e649d6e4dc7d01c3b7e27f124c7d48eb371792e5118093c7fb8a3"
     }
    ]
   },

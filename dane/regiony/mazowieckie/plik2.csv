@@ -1,126 +1,370 @@
 # arkusz: Harmonogram - do wypełnienia
-,,,,,,,,,,,,,,,,,,,,,"Załącznik do Uchwały nr 1136/187/26
-Zarządu Województwa Mazowieckiego z dnia 24 czerwca 2026 r.",
+,,,,,,,,,,,,,,,,,,,,"Załącznik do Uchwały nr 1052/87/25     
+Zarządu Województwa Mzowieckiego z dnia 27 maja 2025 r.",
 ,Program,Działanie - kod i nazwa,Realizacja instrumentów terytorialnych,Tytuł naboru,"Typy projektów, które mogą otrzymać dofinansowanie",Sposób wyboru projektów,Wnioskodawcy - ogólni,Wnioskodawcy - szczegółowi,Dotyczy JST,Dotyczy MŚP,"Przewidywana data rozpoczęcia naboru
 (sekcja techniczna)",,,"Przewidywana data rozpoczęcia naboru
-(funkcja)",Data zakończenia naboru,Całkowity budżet naboru (PLN),Obszar geograficzny,"Instytucja, która przeprowadzi nabór",Cel szczegółowy - kod i nazwa,Fundusz,Informacje dodatkowe,
-,1,2,3,4,5,6,7,8,9,10,11,15,16,12,13,14,15,16,17,18,19,
-,pole jednokrotnego wyboru - wypełnić jako pierwszą,pole jednokrotnego wyboru,pole jednokrotnego wyboru,pole należy wypełnić ręcznie,pole należy wypełnić ręcznie,pole jednokrotnego wyboru,pole należy wypełnić ręcznie - zgodnie ze słownikiem,pole należy wypełnić ręcznie - dodatkowe informacje wg potrzeb IZPR,pole jednokrotnego wyboru,pole jednokrotnego wyboru,rok,miesiąc,dzień,pole wypełni się automatycznie (uwaga: funkcja),rrrr-mm-dd lub rrrr-mm,pole należy wypełnić ręcznie,pole należy wypełnić ręcznie,pole należy wypełnić ręcznie,pole jednokrotnego wyboru,pole jednokrotnego wyboru,pole należy wypełnić ręcznie (jeśli dotyczy),
-1,FEMA,FEMA.02.05 Gospodarka wodno-ściekowa,Nie dotyczy,"Zarządzanie efektywnymi, inteligentnymi sieciami wodociągowymi","Zarządzanie efektywnymi, inteligentnymi sieciami wodociągowymi",konkurencyjny,"Administracja publiczna, 
-Służby publiczne, 
-Przedsiębiorstwa realizujące cele publiczne","Jednostki Samorządu Terytorialnego, 
-Jednostki organizacyjne działające w imieniu jednostek samorządu terytorialnego, 
-Podmioty świadczące usługi publiczne w ramach realizacji obowiązków własnych jednostek samorządu terytorialnego, 
-Przedsiębiorstwa wodociągowo-kanalizacyjne",Tak,Tak,,,,2026-07-15,2026-08-12,55035500,województwo mazowieckie,MJWPU,EFRR/FS.CP2.V Wspieranie dostępu do wody oraz zrównoważonej gospodarki wodnej,EFRR,"Termin ogłoszenia naboru: 1 lipca 2026 r.
-Termin rozpoczęcia naboru: 15 lipca 2026 r. 
-Termin zakończenia naboru: 12 sierpnia 2026 r. 
+(funkcja)",Data zakończenia naboru,Całkowity budżet naboru (PLN),Obszar geograficzny,"Instytucja, która przeprowadzi nabór",Cel szczegółowy - kod i nazwa,Fundusz,Informacje dodatkowe
+,1,2,3,4,5,6,7,8,9,10,11,15,16,12,13,14,15,16,17,18,19
+,pole jednokrotnego wyboru - wypełnić jako pierwszą,pole jednokrotnego wyboru,pole jednokrotnego wyboru,pole należy wypełnić ręcznie,pole należy wypełnić ręcznie,pole jednokrotnego wyboru,pole należy wypełnić ręcznie - zgodnie ze słownikiem,pole należy wypełnić ręcznie - dodatkowe informacje wg potrzeb IZPR,pole jednokrotnego wyboru,pole jednokrotnego wyboru,rok,miesiąc,dzień,pole wypełni się automatycznie (uwaga: funkcja),rrrr-mm-dd lub rrrr-mm,pole należy wypełnić ręcznie,pole należy wypełnić ręcznie,pole należy wypełnić ręcznie,pole jednokrotnego wyboru,pole jednokrotnego wyboru,pole należy wypełnić ręcznie (jeśli dotyczy)
+1,FEMA,"FEMA.01.01 Badania, rozwój i innowacje przedsiębiorstw",Nie dotyczy,Infrastruktura badawczo-rozwojowa jednostek naukowych,Infrastruktura badawczo-rozwojowa jednostek naukowych,konkurencyjny,instytucje nauki i edukacji,Jednostki naukowe,Nie,Nie,2025,05,19,2025-05-19,2025-06-30,100244217.6,województwo mazowieckie,MJWPU,EFRR.CP1.I Rozwijanie i wzmacnianie zdolności badawczych i innowacyjnych oraz wykorzystywanie zaawansowanych technologii,EFRR,"Termin ogłoszenia naboru: 5 maja 2025 r. 
+Termin rozpoczęcia naboru: 19 maja 2025 r.
+Termin zakończenia naboru: 30 czerwca 2025 r."
+2,FEMA,FEMA.01.02 E-usługi,Nie dotyczy,E-zdrowie dla Mazowsza 3,E-zdrowie,niekonkurencyjny,Administracja publiczna,jednostki samorządu terytorialnego (JST),Tak,Nie,2025,07,01,2025-07-01,2025-08-04,143579776,województwo mazowieckie,MJWPU,"EFRR.CP1.II Czerpanie korzyści z cyfryzacji dla obywateli, przedsiębiorstw, organizacji badawczych i instytucji publicznych",EFRR,"Warunek niezbędny do uruchomienia naboru:
+- Przyjęcie Planu Działań przez Komitet Sterujący ds. koordynacji wsparcia w sektorze zdrowia.
 
-Podział planowanej alokacji UE wg obszarów:
-RWS = 11 000 000 EUR
-RMR = 2 000 000 EUR
+   
+Termin ogłoszenia naboru: nie dotyczy
+Termin rozpoczęcia naboru: 1 lipca 2025 r.
+Termin zakończenia naboru: 4 sierpnia 2025 r."
+3,FEMA,FEMA.02.02 Efektywność energetyczna w ZIT,ZIT,Poprawa efektywności energetycznej budynków publicznych i mieszkalnych zlokalizowanych na obszarze ZIT.,Poprawa efektywności energetycznej budynków publicznych i mieszkalnych zlokalizowanych na obszarze ZIT.,konkurencyjny,Administracja publiczna,Zintegrowane Inwestycje Terytorialne (ZIT),Tak,Nie,2025,09,01,2025-09-01,2025-11-28,29895600,region warszawski stołeczny,MJWPU,EFRR/FS.CP2.I Wspieranie efektywności energetycznej i redukcji emisji gazów cieplarnianych,EFRR,"Termin ogłoszenia naboru: 18 sierpnia 2025 r.
+Termin rozpoczęcia naboru: 1 września 2025 r.
+Termin zakończenia naboru: 28 listopada 2025 r.  
 
-W przypadku dostępności srodków z budżetu Państa będzie istniała możliwość dofinasowania projektów ze środków BP dla gmin Regionu Warszawskiego Stołecznego.",
-2,FEMA,FEMA.02.06 Gospodarka o obiegu zamkniętym,Nie dotyczy,Gospodarka odpadami zgodnie z hierarchią postępowania z odpadami,Gospodarka odpadami zgodnie z hierarchią postępowania z odpadami,konkurencyjny,"Administracja publiczna, 
-Służby publiczne, 
+ZWM przewidział dof. ze środków BP (decyzja z dnia 3 grudnia 2024 r.)"
+4,FEMA,FEMA.02.05 Gospodarka wodno-ściekowa,Nie dotyczy,Porządkowanie gospodarki wodno - kanalizacyjnej,Porządkowanie gospodarki wodno - kanalizacyjnej,konkurencyjny,"Administracja publiczna
+Służby publiczne
+Przedsiębiorstwa realizujące cele publiczne","Jednostki Samorządu Terytorialnego, Jednostki organizacyjne działające w imieniu jednostek samorządu terytorialnego, Przedsiębiorstwa wodociągowo-kanalizacyjne, Instytucje odpowiedzialne za gospodarkę wodną",Tak,Tak,2025,06,26,2025-06-26,2025-07-31,26478960,województwo mazowieckie,MJWPU,EFRR/FS.CP2.V Wspieranie dostępu do wody oraz zrównoważonej gospodarki wodnej,EFRR,"Termin ogłoszenia naboru: 12 czerwca 2025 r.
+Termin rozpoczęcia naboru: 26 czerwca 2025 r.
+Termin zakończenia naboru: 31 lipca 2025 r.
+
+ZWM przewidział dof. ze środków BP (decyzja z dnia 3 grudnia 2024 r.)
+Planowane jest zwiększenie alokacji na projekty z regionu Warszawskiego Stołecznego"
+5,FEMA,FEMA.02.06 Gospodarka o obiegu zamkniętym,Nie dotyczy,Gospodarka odpadami zgodnie z hierarchią postepowania z odpadami,Gospodarka odpadami zgodnie z hierarchią postępowania z odpadami,konkurencyjny,"Administracja publiczna
+Służby publiczne
 Przedsiębiorstwa realizujące cele publiczne
-Przedsiebiorstwa","Jednostki Samorządu Terytorialnego 
-Jednostki organizacyjne działające w imieniu jednostek samorządu terytorialnego 
-Podmioty świadczące usługi publiczne w ramach realizacji obowiązków własnych jednostek samorządu terytorialnego
-Przedsiębiorstwa gospodarujące odpadami Przedsiębiorstwa",Tak,Tak,,,,IV kwartał,IV kwartał,52918750,województwo mazowieckie,MJWPU,EFRR/FS.CP2.VI Wspieranie transformacji w kierunku gospodarki o obiegu zamkniętym i gospodarki zasobooszczędnej,EFRR,"Termin ogłoszenia naboru: IV kwartał 2026 r.
-Termin rozpoczęcia naboru: IV kwartał 2026 r. 
-Termin zakończenia naboru: IV kwartał 2026 r. 
+Przedsiębiorstwa","Jednostki Samorządu Terytorialnego, Jednostki organizacyjne działające w imieniu jednostek samorządu terytorialnego, Przedsiębiorstwa gospodarujące odpadami , Podmioty świadczące usługi publiczne w ramach realizacji obowiązków własnych jednostek samorządu terytorialnego,",Tak,Tak,2025,05,12,2025-05-12,2025-06-12,40399632.6,województwo mazowieckie,MJWPU,EFRR/FS.CP2.VI Wspieranie transformacji w kierunku gospodarki o obiegu zamkniętym i gospodarki zasobooszczędnej,EFRR,"Termin ogłoszenia naboru: 28 kwietnie 2025 r.
+Termin rozpoczęcia naboru: 12 maja 2025 r.
+Termin zakończenia naboru: 12 czerwca 2025 r.
 
-Podział planowanej alokacji UE wg obszarów:
-RWS =   5 000 000 EUR
-RMR = 7 500 000 EUR
+ZWM przewidział dof. ze środków BP (decyzja z dnia 3 grudnia 2024 r.)"
+6,FEMA,FEMA.02.06 Gospodarka o obiegu zamkniętym,Nie dotyczy,Instalacja termicznego przetwarzania odpadów medycznych w Mazowieckim Szpitalu Specjalistycznym Sp. z o. o. w Radomiu,Zagospodarowanie odpadów niebezpiecznych,niekonkurencyjny,Instytucje ochrony zdrowia,Publiczne zakłady opieki zdrowotnej,Tak,Nie,2025,06,30,2025-06-30,2025-08-08,9395760,region mazowiecki regionalny,MJWPU,EFRR/FS.CP2.VI Wspieranie transformacji w kierunku gospodarki o obiegu zamkniętym i gospodarki zasobooszczędnej,EFRR,"Termin ogłoszenia naboru: nie dotyczy 
+Termin rozpoczęcia naboru: 30 czerwca 2025 
+Termin zakończenia naboru: 8 sierpnia 2025"
+7,FEMA,FEMA.02.07 Bioróżnorodność,Nie dotyczy,Ochrona różnorodności biologicznej i rodzimych gatunków roślinnych i zwierzęcych na terenach miejskich,Ochrona różnorodności biologicznej i rodzimych gatunków roślinnych i zwierzęcych na terenach miejskich,konkurencyjny,"Administracja publiczna
+Instytucje nauki i edukacji
+Organizacje społeczne i związki wyznaniowe
+Służby publiczne","Jednostki Samorządu Terytorialnego, Jednostki organizacyjne działające w imieniu jednostek samorządu terytorialnego, Jednostki samorządowe ochrony środowiska, Wspólnoty, spółdzielnie mieszkaniowe
+Kościoły i związki wyznaniowe, Podmioty świadczące usługi publiczne w ramach realizacji obowiązków własnych jednostek samorządu terytorialnego, Organizacje pozarządowe, Lasy Państwowe, Parki krajobrazowe, Jednostki naukowe, Uczelnie, Organizacje badawcze",Tak,Nie,2025,06,25,2025-06-25,2025-07-30,46295472,województwo mazowieckie,MJWPU,"EFRR/FS.CP2.VII Wzmacnianie ochrony i zachowania przyrody, różnorodności biologicznej oraz zielonej infrastruktury, w tym na obszarach miejskich, oraz ograniczanie wszelkich rodzajów zanieczyszczenia",EFRR,"Termin ogłoszenia naboru: 11 czerwca 2025
+Termin rozpoczęcia naboru 25 czerwca 2025
+Termin zakończenia naboru: 30 lipca 2025
 
-W przypadku dostępności srodków z budżetu Państa będzie istniała możliwość dofinasowania projektów ze środków BP dla gmin Regionu Warszawskiego Stołecznego.",
-3,FEMA,FEMA.02.07 Bioróżnorodność,Nie dotyczy,Ochrona różnorodności biologicznej poprzez realizację planów ochrony parków krajobrazowych,Ochrona różnorodności biologicznej poprzez realizację planów ochrony parków krajobrazowych,konkurencyjny,"Administracja publiczna, 
-Służby publiczne, 
-Przedsiębiorstwa realizujące cele publiczne","Jednostki Samorządu Terytorialnego (JST) 
-Jednostki organizacyjne działające w imieniu jednostek samorządu terytorialnego 
-Jednostki rządowe i samorządowe ochrony środowiska 
-Podmioty świadczące usługi publiczne w ramach realizacji obowiązków własnych JST",Tak,Nie,,,,IV kwartał,IV kwartał,10816592.5,województwo mazowieckie,MJWPU,"EFRR/FS.CP2.VII Wzmacnianie ochrony i zachowania przyrody, różnorodności biologicznej oraz zielonej infrastruktury, w tym na obszarach miejskich, oraz ograniczanie wszelkich rodzajów zanieczyszczenia",EFRR,"Termin ogłoszenia naboru: IV kwartał 2026 r.
-Termin rozpoczęcia naboru: IV kwartał 2026 r. 
-Termin zakończenia naboru: IV kwartał 2026 r. 
+ZWM przewidział dof. ze środków BP (decyzja z dnia 3 grudnia 2024 r.)
+Planowane jest zwiększenie alokacji na projekty z regionu Warszawskiego stołecznego"
+8,FEMA,FEMA.03.01 Mobilność miejska,IIT,nie dotyczy,Przygotowanie i aktualizacja planów zrównoważonej mobilności miejskiej (SUMP),konkurencyjny,Administracja publiczna,jednostki samorządu terytorialnego (JST),Tak,Nie,2025,07,21,2025-07-21,2025-08-25,1708320.0000000002,region  mazowiecki regionalny,MJWPU,EFRR/FS.CP2.VIII Wspieranie zrównoważonej multimodalnej mobilności miejskiej jako elementu transformacji w kierunku gospodarki zeroemisyjnej,EFRR,"Termin ogłoszenia naboru: 9 lipca 2025 r.
+Termin rozpoczęcia naboru: 21 lipca 2025 r.
+Termin zakończenia naboru: 25 sierpnia 2025 r."
+9,FEMA,FEMA.03.02 Mobilność miejska w ZIT,ZIT,Infrastruktura rowerowa i piesza,Infrastruktura rowerowa i piesza,konkurencyjny,Administracja publiczna,jednostki samorządu terytorialnego (JST),Tak,Nie,2025,11,03,2025-11-03,2025-12-17,52530840,region warszawski stołeczny,MJWPU,EFRR/FS.CP2.VIII Wspieranie zrównoważonej multimodalnej mobilności miejskiej jako elementu transformacji w kierunku gospodarki zeroemisyjnej,EFRR,"Warunkiem  ogłoszenia naboru są przyjęte strategie terytorialne/strategie rozwoju ponadlokalnego i plany zrównoważonej mobilności miejskiej.                                                       
 
-Podział planowanej alokacji UE wg obszarów:
-RWS =   800 000 EUR
-RMR = 1 755 000 EUR
+Termin ogłoszenia naboru: 20 października 2025 r. 
+Termin rozpoczęcia naboru: 3 listopada 2025 r. 
+Termin zakończenia naboru: 17 grudnia 2025 r."
+10,FEMA,FEMA.03.02 Mobilność miejska w ZIT,ZIT,Budowa i przebudowa infrastruktury transportu publicznego,Budowa i przebudowa infrastruktury transportu publicznego,konkurencyjny,Administracja publiczna,jednostki samorządu terytorialnego (JST),Tak,Nie,2025,12,01,2025-12-01,2026-01-14,70895280,region warszawski stołeczny,MJWPU,EFRR/FS.CP2.VIII Wspieranie zrównoważonej multimodalnej mobilności miejskiej jako elementu transformacji w kierunku gospodarki zeroemisyjnej,EFRR,"Warunkiem  ogłoszenia naboru są przyjęte strategie terytorialne/strategie rozwoju ponadlokalnego i plany zrównoważonej mobilności miejskiej.                                                      
 
-W przypadku dostępności srodków z budżetu Państa będzie istniała możliwość dofinasowania projektów ze środków BP dla gmin Regionu Warszwskiego Stołecznego.",
-4,FEMA,FEMA.05.07 Kultura i turystyka,IIT,Nabór dla projektów wynikających  ze strategii rozwoju ponadlokalnego w ramach instrumentu MSIT,"Turystyczne szlaki tematyczne i produkty turystyczne (odwołujące się do walorów historycznych, kulturowych, przyrodniczych i kulinarnych)",konkurencyjny,"Administracja publiczna, Organizacje społeczne i związki wyznaniowe, służby publiczne","Jednostki Samorządu Terytorialnego
-Instytucje kultury
-Instytucje sportu
-Jednostki organizacyjne działające w imieniu jednostek samorządu terytorialnego   
-Kościoły i związki wyznaniowe
-Niepubliczne instytucje kultury i sportu
-Organizacje pozarządowe
-Pozarządowe organizacje turystyczne
-Lokalne Grupy Działania",Tak,Nie,2026,04,08,2026-04-08,2026-07-01,84246650,region Mazowiecki regionalny,MJWPU,"EFRR.CP4.VI Wzmacnianie roli kultury i zrównoważonej turystyki w rozwoju gospodarczym, włączeniu społecznym i innowacjach społecznych",EFRR,"Termin ogłoszenia naboru:  25 marca 2026 r.
-Termin rozpoczęcia naboru:  8 kwietnia 2026 r.
-Termin zakończenia naboru: 1 lipca 2026 r.
+Termin ogłoszenia naboru: 17 listopada 2025 r.
+Termin rozpoczęcia naboru: 1 grudnia 2025 r.
+Termin zakończenia naboru: 14 stycznia 2026 r. 
 
-projekty wynikające ze strategii rozwoju ponadlokalnego w ramach instrumentu MSIT",
-5,FEMA,"FEMA.06.03 Nowoczesne, regionalne służby zatrudnienia",Nie dotyczy,nie dotyczy,Wsparcie PSZ w świadczeniu usług w ramach sieci EURES,niekonkurencyjny,"Instytucje wspierające biznes, Organizacje społeczne i związki wyznaniowe, Partnerzy społeczni, Służby publiczne","Instytucje rynku pracy, Organizacje pozarządowe, Organizacje zrzeszające pracodawców, Związki zawodowe",Tak,Nie,2026,08,31,2026-08-31,2026-09-14,1568300.08,województwo mazowieckie (RMR),WUP w Warszawie,EFS+.CP4.B - Modernizacja instytucji i służb rynków pracy celem oceny i przewidywania zapotrzebowania na umiejętności oraz zapewnienia terminowej i odpowiednio dopasowanej pomocy i wsparcia na rzecz dostosowania umiejętności i kwalifikacji zawodowych do potrzeb rynku pracy oraz na rzecz przepływów i mobilności na rynku pracy,EFS+,"Termin ogłoszenia naboru: 17 sierpnia 2026 r.
-Termin rozpoczęcia naboru: 31 sierpnia 2026 r.
-Termin zakończenia naboru: 14 września 2026 r.",
-6,FEMA,"FEMA.06.03 Nowoczesne, regionalne służby zatrudnienia",Nie dotyczy,nie dotyczy,Wsparcie PSZ w świadczeniu usług w ramach sieci EURES,niekonkurencyjny,"Instytucje wspierające biznes, Organizacje społeczne i związki wyznaniowe, Partnerzy społeczni, Służby publiczne","Instytucje rynku pracy, Organizacje pozarządowe, Organizacje zrzeszające pracodawców, Związki zawodowe",Tak,Nie,2026,08,31,2026-08-31,2026-09-14,1089834.14,województwo mazowieckie (RWS),WUP w Warszawie,EFS+.CP4.B - Modernizacja instytucji i służb rynków pracy celem oceny i przewidywania zapotrzebowania na umiejętności oraz zapewnienia terminowej i odpowiednio dopasowanej pomocy i wsparcia na rzecz dostosowania umiejętności i kwalifikacji zawodowych do potrzeb rynku pracy oraz na rzecz przepływów i mobilności na rynku pracy,EFS+,"Termin ogłoszenia naboru: 17 sierpnia 2026 r.
-Termin rozpoczęcia naboru:  31 sierpnia 2026 r.
-Termin zakończenia naboru: 14 września 2026 r.",
-7,FEMA,FEMA.07.04 Edukacja osób dorosłych,Nie dotyczy,Nie dotyczy,"Wsparcie poprzez usługi rozwojowe, w tym w zakresie kompetencji cyfrowych, w ramach PSF dla osób dorosłych",konkurencyjny,"Administracja publiczna, instytucje nauki i edukacji, organizacje społeczne i związki wyznaniowe, przedsiębiorstwa","Jednostki samorządu terytorialnego, MŚP, duże przedsiębiorstwa, kościoły i związki wyznaniowe, organizacje pozarządowe",Tak,Tak,2026,05,27,2026-05-27,2026-06-30,68212642.29,województwo mazowieckie,WUP,"EFS+.CP4.G Wspieranie uczenia się przez całe życie, w szczególności elastycznych możliwości podnoszenia i zmiany kwalifikacji dla wszystkich, z uwzględnieniem umiejętności w zakresie przedsiębiorczości i kompetencji cyfrowych, lepsze przewidywanie zmian i zapotrzebowania na nowe umiejętności na podstawie potrzeb rynku pracy, ułatwianie zmian ścieżki kariery zawodowej i wspieranie mobilności zawodowej",EFS+,"Termin ogłoszenia naboru: 12 maja 2026 r.
-Termin rozpoczęcia naboru: 27 maja 2026 r.
-Termin zakończenia naboru: 30 czerwca 2026 r.
+ZWM przewidział dof. ze środków BP (decyzja z dnia    3 grudnia 2024 r.)"
+11,FEMA,FEMA.04.01 Transport regionalny i lokalny,Nie dotyczy,Rozbudowa drogi wojewódzkiej nr 634 na odcinku od km 22+055 do km 26+831,"Budowa i przebudowa dróg wojewódzkich, poprawiających dostępność do sieci TEN-T, obwodnic odciążających miasta od ruchu samochodowego, w szczególności tranzytowego, w tym inwestycje na rzecz poprawy bezpieczeństwa na tych drogach",niekonkurencyjny,Administracja publiczna,Jednostki Samorządu Terytorialnego / Województwo Mazowieckie,Tak,Nie,2025,05,19,2025-05-19,2025-06-27,49569600,region warszawski stołeczny,MJWPU,"EFRR/FS.CP3.II Rozwój i udoskonalanie zrównoważonej, odpornej na zmiany klimatu, inteligentnej i intermodalnej mobilności na poziomie krajowym, regionalnym i lokalnym, w tym poprawę dostępu do TEN-T oraz mobilności transgranicznej",EFRR,"Termin ogłoszenia naboru: 5 maja 2025 r.
+Termin rozpoczęcia naboru:19 maja 2025 r.
+Termin zakończenia naboru: 27 czerwca 2025 r. 
 
-Podział planowanej alokacji UE wg obszarów:
-RWS = 3 160 000 EUR
-RMR =  9 610 000 EUR",
-8,FEMA,FEMA.07.05 Edukacja osób dorosłych poza PSF,Nie dotyczy,Nie dotyczy,"Wsparcie dla osób o niskich umiejętnościach lub kompetencjach (w tym cyfrowych) realizowane poza systemem BUR i PSF, umożliwiające wdrażanie Upskilling pathways",konkurencyjny,"Instytucje nauki i edukacji, organizacje społeczne i związki wyznaniowe, przedsiębiorstwa","MŚP, duże przedsiębiorstwa, kościoły i związki wyznaniowe, organizacje pozarządowe",Nie,Tak,2026,07,13,2026-07-13,2026-08-17,29208659.71,województwo mazowieckie,MJWPU,"EFS+.CP4.G Wspieranie uczenia się przez całe życie, w szczególności elastycznych możliwości podnoszenia i zmiany kwalifikacji dla wszystkich, z uwzględnieniem umiejętności w zakresie przedsiębiorczości i kompetencji cyfrowych, lepsze przewidywanie zmian i zapotrzebowania na nowe umiejętności na podstawie potrzeb rynku pracy, ułatwianie zmian ścieżki kariery zawodowej i wspieranie mobilności zawodowej",EFS+,"Termin ogłoszenia naboru: 26 czerwca 2026 r.
-Termin rozpoczęcia naboru: 13 lipca 2026 r.
-Termin zakończenia naboru: 17 siepnia 2026 r.
+Nabór wprowadzony na podstawie decyzji ZWM z 6 marca 2025 r., terminy uzgodnione z MZDW."
+12,FEMA,FEMA.04.01 Transport regionalny i lokalny,Nie dotyczy,Budowa drogi wojewódzkiej nr 627 na odcinku Kosów Lacki – Sokołów Podlaski,"Budowa i przebudowa dróg wojewódzkich, poprawiających dostępność do sieci TEN-T, obwodnic odciążających miasta od ruchu samochodowego, w szczególności tranzytowego, w tym inwestycje na rzecz poprawy bezpieczeństwa na tych drogach",niekonkurencyjny,Administracja publiczna,Jednostki Samorządu Terytorialnego / Województwo Mazowieckie,Tak,Nie,2025,05,19,2025-05-19,2025-06-27,56178880,region mazowiecki regionalny,MJWPU,"EFRR/FS.CP3.II Rozwój i udoskonalanie zrównoważonej, odpornej na zmiany klimatu, inteligentnej i intermodalnej mobilności na poziomie krajowym, regionalnym i lokalnym, w tym poprawę dostępu do TEN-T oraz mobilności transgranicznej",EFRR,"Termin ogłoszenia naboru: 5 maja 2025 r.
+Termin rozpoczęcia naboru:19 maja 2025 r.
+Termin zakończenia naboru: 27 czerwca 2025 r. 
 
-Podział planowanej alokacji UE wg obszarów:
-RWS = 1 100 000 EUR
-RMR = 4 500 000 EUR",
-9,FEMA,FEMA.08.01 Aktywizacja społeczna i zawodowa,Nie dotyczy,Nie dotyczy,Aktywizacja społeczna i zawodowa osób biernych zawodowo oraz zagrożonych ubóstwem lub wykluczeniem społecznym przy zastosowaniu usług aktywnej integracji,konkurencyjny,"Administracja publiczna, Instytucje nauki i edukacji, Instytucje wspierające biznes, Organizacje społeczne i związki wyznaniowe, Partnerstwa, Partnerzy społeczni, Przedsiębiorstwa, Służby publiczne","Administracja publiczna, Instytucje nauki i edukacji, Instytucje wspierające biznes, Organizacje społeczne i związki wyznaniowe, Partnerstwa, Partnerzy społeczni, Przedsiębiorstwa, Służby publiczne",Tak,Tak,,,,I kw. 2027,I kw. 2027,33594067.65,województwo mazowieckie,MJWPU,"EFS+.CP4.H Wspieranie aktywnego włączenia społecznego w celu promowania równości szans, niedyskryminacji i aktywnego uczestnictwa, oraz zwiększanie zdolności do zatrudnienia, w szczególności grup w niekorzystnej sytuacji",EFS+,"Termin ogłoszenia naboru: IV kw. 2026 r.
-Termin rozpoczęcia naboru: I kw. 2027 r.
-Termin zakończenia naboru: I kw. 2027 r.
+Nabór wprowadzony na podstawie decyzji ZWM z 6 marca 2025 r., terminy uzgodnione z MZDW."
+13,FEMA,FEMA.05.06 Ochrona zdrowia,Nie dotyczy,Rehabilitacja w formach zdeinstytucjonalizowanych,Inwestycje w infrastrukturę zdrowotną,konkurencyjny,"Administracja publiczna
+Instytucje ochrony zdrowia","Jednostki Samorządu Terytorialnego
+Publiczne zakłady opieki zdrowotnej
+Niepubliczne zakłady opieki zdrowotnej",Tak,Tak,2025,05,08,2025-05-08,2025-06-16,24565722.7452,województwo mazowieckie,MJWPU,"EFRR.CP4.V Zapewnianie równego dostępu do opieki zdrowotnej i wspieranie odporności systemów opieki zdrowotnej, w tym podstawowej opieki zdrowotnej, oraz wspieranie przechodzenia od opieki instytucjonalnej do opieki rodzinnej i środowiskowej",EFRR,"Termin ogłoszenia naboru: 24 kwietnia 2025 r.
+Termin rozpoczęcia naboru: 8 maja 2025 r.
+Termin zakończenia naboru: 16 czerwca 2025 r.
+
+UWAGA:  Zgodnie z zasadą ogólną przyjętą uchwałą KS, kryterium dostępowym będzie wymóg załączenia do wniosku o dofinansowanie, pozytywnej opinii o celowości inwestycji (OCI), o której mowa w  ustawie o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych."
+14,FEMA,FEMA.05.06 Ochrona zdrowia,Nie dotyczy,Podstawowa Opieka Zdrowotna – wdrażanie Standardu dostępności,Inwestycje w infrastrukturę zdrowotną,konkurencyjny,"Administracja publiczna
+Instytucje ochrony zdrowia","Jednostki Samorządu Terytorialnego
+Publiczne zakłady opieki zdrowotnej
+Niepubliczne zakłady opieki zdrowotnej",Tak,Tak,2025,05,09,2025-05-09,2025-06-17,14739433.518996002,województwo mazowieckie,MJWPU,"EFRR.CP4.V Zapewnianie równego dostępu do opieki zdrowotnej i wspieranie odporności systemów opieki zdrowotnej, w tym podstawowej opieki zdrowotnej, oraz wspieranie przechodzenia od opieki instytucjonalnej do opieki rodzinnej i środowiskowej",EFRR,"Termin ogłoszenia naboru: 25 kwietnia 2025 r.
+Termin rozpoczęcia naboru: 9 maja 2025 r.
+Termin zakończenia naboru:17 czerwca 2025 r.
+
+UWAGA:  Zgodnie z zasadą ogólną przyjętą uchwałą KS, kryterium dostępowym będzie wymóg załączenia do wniosku o dofinansowanie, pozytywnej opinii o celowości inwestycji (OCI), o której mowa w  ustawie o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych."
+15,FEMA,FEMA.05.06 Ochrona zdrowia,Nie dotyczy,"Opieka długoterminowa,  geriatryczna, hospicyjna i paliatywna w formach zdeinstytucjonalizowanych",Inwestycje w infrastrukturę zdrowotną,konkurencyjny,"Administracja publiczna
+Instytucje ochrony zdrowia","Jednostki Samorządu Terytorialnego
+Publiczne zakłady opieki zdrowotnej
+Niepubliczne zakłady opieki zdrowotnej",Tak,Tak,2025,10,,2025-10,2025-11,27022295.4468,województwo mazowieckie,MJWPU,"EFRR.CP4.V Zapewnianie równego dostępu do opieki zdrowotnej i wspieranie odporności systemów opieki zdrowotnej, w tym podstawowej opieki zdrowotnej, oraz wspieranie przechodzenia od opieki instytucjonalnej do opieki rodzinnej i środowiskowej",EFRR,"Termin ogłoszenia naboru: wrzesień 2025 r.
+Termin rozpoczęcia naboru: październik 2025 r.
+Termin zakończenia naboru: listopad 2025 r.
+
+Warunek niezbędny do uruchomienia naboru:
+
+- Przyjęcie Planu Działań przez Komitet Sterujący ds. koordynacji wsparcia w sektorze zdrowia.
+
+UWAGA:  Zgodnie z zasadą ogólną przyjętą uchwałą KS, kryterium dostępowym będzie wymóg załączenia do wniosku o dofinansowanie, pozytywnej opinii o celowości inwestycji (OCI), o której mowa w  ustawie o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych."
+16,FEMA,FEMA.06.04 Aktywizacja zawodowa biernych zawodowo kobiet,Nie dotyczy,Nie dotyczy,Aktywizacja zawodowa biernych zawodowo kobiet w wieku produkcyjnym w RMR,konkurencyjny,"partnerzy społeczni, służby publiczne, instytycje wspierające biznes, organizacje społeczne i związki wyznaniowe","instytucje rynku pracy, organizacje pozarządowe, organizacje zrzeszające pracodawców, związki zawodowe",Tak,Tak,2025,10,13,2025-10-13,2025-11-07,16754412,województwo mazowieckie (RMR),WUP w Warszawie,"EFS+.CP4.C Wspieranie zrównoważonego pod względem płci uczestnictwa w rynku pracy, równych warunków pracy oraz lepszej równowagi między życiem zawodowym a prywatnym, w tym poprzez dostęp do przystępnej cenowo opieki nad dziećmi i osobami wymagającymi wsparcia w codziennym funkcjonowaniu",EFS+,"Termin ogłoszenia naboru: 29 września 2025 r.
+Termin rozpoczęcia naboru: 13 października 2025 r.
+Termin zakończenia naboru: 7 listopada 2025 r."
+17,FEMA,FEMA.06.05 Wsparcie dla pracodawców i pracowników,Nie dotyczy,Nie dotyczy,Wsparcie pracodawców z sektora prywatnego we wprowadzaniu pracy zdalnej,konkurencyjny,"instytucje wspierające biznes, organizacje społeczne i związki wyznaniowe, partnerzy społeczni, służby publiczne, przedsiębiorstwa","instytucje otoczenia biznesu, instytucje rynku pracy, organizacje pozarządowe, organizacje zrzeszające pracodawców",Tak,Tak,2025,07,21,2025-07-21,2025-08-22,14524991,województwo mazowieckie (RWS),WUP w Warszawie,"EFS+.CP4.D Wspieranie dostosowania pracowników, przedsiębiorstw i przedsiębiorców do zmian, wspieranie aktywnego i zdrowego starzenia się oraz zdrowego i dobrze dostosowanego środowiska pracy, które uwzględnia zagrożenia dla zdrowia",EFS+,"Termin ogłoszenia naboru: 7 lipca 2025 r.
+Termin rozpoczęcia naboru: 21 lipca 2025 r.
+Termin zakończenia naboru: 22 sierpnia 2025 r."
+18,FEMA,FEMA.06.05 Wsparcie dla pracodawców i pracowników,Nie dotyczy,Nie dotyczy,Wsparcie pracodawców z sektora prywatnego we wprowadzaniu pracy zdalnej,konkurencyjny,"instytucje wspierające biznes, organizacje społeczne i związki wyznaniowe, partnerzy społeczni, służby publiczne, przedsiębiorstwa","instytucje otoczenia biznesu, instytucje rynku pracy, organizacje pozarządowe, organizacje zrzeszające pracodawców",Tak,Tak,2025,07,21,2025-07-21,2025-08-22,17057861,województwo mazowieckie (RMR),WUP w Warszawie,"EFS+.CP4.D Wspieranie dostosowania pracowników, przedsiębiorstw i przedsiębiorców do zmian, wspieranie aktywnego i zdrowego starzenia się oraz zdrowego i dobrze dostosowanego środowiska pracy, które uwzględnia zagrożenia dla zdrowia",EFS+,"Termin ogłoszenia naboru: 7 lipca 2025 r.
+Termin rozpoczęcia naboru: 21 lipca 2025 r.
+Termin zakończenia naboru: 22 sierpnia 2025 r."
+19,FEMA,FEMA.06.06 Zdrowie pracowników,Nie dotyczy,Profilaktyka wypalenia zawodowego,Wdrażanie programów służących przeciwdziałaniu dezaktywacji zawodowej oraz aktywnemu i zdrowemu starzeniu się,konkurencyjny,"administracja publiczna, instytucje nauki i edukacji, instytucje ochrony zdrowia, organizacje społeczne i związki wyznaniowe, przedsiębiorstwa, partnerzy społeczni, osoby fizyczne",nie dotyczy,Tak,Tak,2025,07,08,2025-07-08,2025-08-08,3843720,województwo mazowieckie (RWS),MJWPU,"EFS+.CP4.D Wspieranie dostosowania pracowników, przedsiębiorstw i przedsiębiorców do zmian, wspieranie aktywnego i zdrowego starzenia się oraz zdrowego i dobrze dostosowanego środowiska pracy, które uwzględnia zagrożenia dla zdrowia",EFS+,"Termin ogłoszenia naboru: 27 czerwca 2025 r.
+Termin rozpoczęcia naboru: 8 lipca 2025 r.
+Termin zakończenia naboru: 8 sierpnia 2025 r."
+20,FEMA,FEMA.06.06 Zdrowie pracowników,Nie dotyczy,Profilaktyka wypalenia zawodowego,Wdrażanie programów służących przeciwdziałaniu dezaktywacji zawodowej oraz aktywnemu i zdrowemu starzeniu się,konkurencyjny,"administracja publiczna, instytucje nauki i edukacji, instytucje ochrony zdrowia, organizacje społeczne i związki wyznaniowe, przedsiębiorstwa, partnerzy społeczni, osoby fizyczne",nie dotyczy,Tak,Tak,2025,07,08,2025-07-08,2025-08-08,2261013,województwo mazowieckie (RMR),MJWPU,"EFS+.CP4.D Wspieranie dostosowania pracowników, przedsiębiorstw i przedsiębiorców do zmian, wspieranie aktywnego i zdrowego starzenia się oraz zdrowego i dobrze dostosowanego środowiska pracy, które uwzględnia zagrożenia dla zdrowia",EFS+,"Termin ogłoszenia naboru: 27 czerwca 2025 r.
+Termin rozpoczęcia naboru: 8 lipca 2025 r.
+Termin zakończenia naboru: 8 sierpnia 2025 r."
+21,FEMA,FEMA.06.06 Zdrowie pracowników,Nie dotyczy,Rehabilitacja dla osób pracujących i powracających do pracy,Wdrażanie programów służących przeciwdziałaniu dezaktywacji zawodowej oraz aktywnemu i zdrowemu starzeniu się,konkurencyjny,instytucje ochrony zdrowia,nie dotyczy,Nie,Tak,2025,10,13,2025-10-13,2025-11-07,7687440,województwo mazowieckie (RWS),MJWPU,"EFS+.CP4.D Wspieranie dostosowania pracowników, przedsiębiorstw i przedsiębiorców do zmian, wspieranie aktywnego i zdrowego starzenia się oraz zdrowego i dobrze dostosowanego środowiska pracy, które uwzględnia zagrożenia dla zdrowia",EFS+,"Termin ogłoszenia naboru: 29 września 2025 r.
+Termin rozpoczęcia naboru: 13 października 2025 r.
+Termin zakończenia naboru: 7 listopada 2025 r.  
+
+Warunki niezbędne do uruchomienia naboru:
+- Przyjęcie Planu Działań przez Komitet Sterujący ds. koordynacji wsparcia w sektorze zdrowia.
+- W przypadku konkursów wymagających Regionalnych Programów Zdrowotnych (RPZ), opracowanie RPZ przez ZD oraz zatwierdzenie przez AOTMiT."
+22,FEMA,FEMA.06.06 Zdrowie pracowników,Nie dotyczy,Rehabilitacja dla osób pracujących i powracających do pracy,Wdrażanie programów służących przeciwdziałaniu dezaktywacji zawodowej oraz aktywnemu i zdrowemu starzeniu się,konkurencyjny,instytucje ochrony zdrowia,nie dotyczy,Nie,Tak,2025,10,13,2025-10-13,2025-11-07,4522026,województwo mazowieckie (RMR),MJWPU,"EFS+.CP4.D Wspieranie dostosowania pracowników, przedsiębiorstw i przedsiębiorców do zmian, wspieranie aktywnego i zdrowego starzenia się oraz zdrowego i dobrze dostosowanego środowiska pracy, które uwzględnia zagrożenia dla zdrowia",EFS+,"Termin ogłoszenia naboru: 29 września 2025 r.
+Termin rozpoczęcia naboru: 13 października 2025 r.
+Termin zakończenia naboru: 7 listopada 2025 r.  
+
+Warunki niezbędne do uruchomienia naboru:
+- Przyjęcie Planu Działań przez Komitet Sterujący ds. koordynacji wsparcia w sektorze zdrowia.
+- W przypadku konkursów wymagających Regionalnych Programów Zdrowotnych (RPZ), opracowanie RPZ przez ZD oraz zatwierdzenie przez AOTMiT."
+23,FEMA,FEMA.07.01 Edukacja przedszkolna,Nie dotyczy,Nie dotyczy,Podniesienie jakości edukacji przedszkolnej,konkurencyjny,"Instytucje nauki i edukacji, administracja publiczna, organizacje społeczne i związki wyznaniowe, przedsiębiorstwa","Administracja rządowa, Jednostki Samorządu Terytorialnego,  MŚP, Duże przedsiębiorstwa, Kościoły i związki wyznaniowe, Organizacje pozarządowe, Podmioty ekonomii społecznej, Przedszkola i inne formy wychowania przedszkolnego",Tak,Tak,2025,12,19,2025-12-19,2026-02-21,43949043,województwo mazowieckie,MJWPU,"EFS+.CP4.F Wspieranie równego dostępu do dobrej jakości, włączającego kształcenia i szkolenia oraz możliwości ich ukończenia, w szczególności w odniesieniu do grup w niekorzystnej sytuacji, od wczesnej edukacji i opieki nad dzieckiem przez ogólne i zawodowe kształcenie i szkolenie, po szkolnictwo wyższe, a także kształcenie i uczenie się dorosłych, w tym ułatwianie mobilności edukacyjnej dla wszystkich i dostępności dla osób z niepełnosprawnościami",EFS+,"Termin ogłoszenia naboru: 5 grudnia 2025 r.
+Termin rozpoczęcia naboru: 19 grudnia 2025 r.
+Termin zakończenia naboru: 21 luty 2026 r.
+
+Podział planowanej alokacji UE:
+RWS = 1 400 000 EUR
+RMR = 8 000 000 EUR"
+24,FEMA,FEMA.07.03 Wzmocnienie kompetencji uczniów w ZIT,ZIT,Nie dotyczy,Rozwój kompetencji kluczowych i umiejętności niezbędnych na rynku pracy uczniów szkół podstawowych i ponadpodstawowych ogólnokształcących,konkurencyjny,"Instytucje nauki i edukacji, administracja publiczna, organizacje społeczne i związki wyznaniowe, przedsiębiorstwa","Administracja rządowa, Jednostki Samorządu Terytorialnego,  MŚP, Duże przedsiębiorstwa, Kościoły i związki wyznaniowe, Organizacje pozarządowe, Podmioty ekonomii społecznej, Szkoły i inne placówki systemu oświaty",Tak,Tak,2025,03,28,2025-03-28,2025-06-04,16656120,województwo mazowieckie (RWS),MJWPU,"EFS+.CP4.F Wspieranie równego dostępu do dobrej jakości, włączającego kształcenia i szkolenia oraz możliwości ich ukończenia, w szczególności w odniesieniu do grup w niekorzystnej sytuacji, od wczesnej edukacji i opieki nad dzieckiem przez ogólne i zawodowe kształcenie i szkolenie, po szkolnictwo wyższe, a także kształcenie i uczenie się dorosłych, w tym ułatwianie mobilności edukacyjnej dla wszystkich i dostępności dla osób z niepełnosprawnościami",EFS+,"Termin ogłoszenia naboru: 14 marca 2025 r.
+Termin rozpoczęcia naboru: 28 marca 2025 r.
+Termin zakończenia naboru: 4 czerwca 2025 r."
+25,FEMA,FEMA.07.05 Edukacja osób dorosłych poza PSF,Nie dotyczy,Nie dotyczy,Wsparcie lokalnych inicjatyw na rzecz kształcenia osób dorosłych (na przykładzie LOWE),konkurencyjny,"Instytucje nauki i edukacji, administracja publiczna, organizacje społeczne i związki wyznaniowe, przedsiębiorstwa","Administracja rządowa, Jednostki Samorządu Terytorialnego,  MŚP, Duże przedsiębiorstwa, Kościoły i związki wyznaniowe, Organizacje pozarządowe, Podmioty ekonomii społecznej, Szkoły i inne placówki systemu oświaty, Uczelnie, Ośrodki kształcenia dorosłych,",Tak,Tak,2025,05,12,2025-05-12,2025-06-13,26599888,województwo mazowieckie,MJWPU,"EFS+.CP4.G Wspieranie uczenia się przez całe życie, w szczególności elastycznych możliwości podnoszenia i zmiany kwalifikacji dla wszystkich, z uwzględnieniem umiejętności w zakresie przedsiębiorczości i kompetencji cyfrowych, lepsze przewidywanie zmian i zapotrzebowania na nowe umiejętności na podstawie potrzeb rynku pracy, ułatwianie zmian ścieżki kariery zawodowej i wspieranie mobilności zawodowej",EFS+,"Termin ogłoszenia naboru: 28 kwietnia 2025 r.
+Termin rozpoczęcia naboru: 12 maja 2025 r. 
+Termin zakończenia naboru: 13 czerwca 2025 r.
+
+Podział planowanej alokacji UE:
+RWS = 1 400 000 EUR
+RMR = 3 443 229 EUR 
+w tym dla projektów wynikających z lokalnych strategii rozwoju (LSR):
+RWS = 500 000 EUR 
+RMR = 1 443 229 EUR"
+26,FEMA,FEMA.08.05 Usługi społeczne i zdrowotne,Nie dotyczy,Domy Opieki Medycznej skierowane do osób chorujących na zespoły otępienne,Wsparcie procesu deinstytucjonalizacji w ochronie zdrowia,konkurencyjny,Instytucje ochrony zdrowia,"Publiczne zakłady opieki zdrowotnej
+Niepubliczne zakłady opieki zdrowotnej",Tak,Nie,2025,05,09,2025-05-09,2025-06-17,81622526,województwo mazowieckie,MJWPU,"EFS+.CP4.K Zwiększanie równego i szybkiego dostępu do dobrej jakości, trwałych i przystępnych cenowo usług, w tym usług, które wspierają dostęp do mieszkań oraz opieki skoncentrowanej na osobie, w tym opieki zdrowotnej; modernizacja systemów ochrony socjalnej, w tym wspieranie dostępu do ochrony socjalnej, ze szczególnym uwzględnieniem dzieci i grup w niekorzystnej sytuacji; poprawa dostępności, w tym dla osób z niepełnosprawnościami, skuteczności i odporności systemów ochrony zdrowia i usług opieki długoterminowej",EFS+,"Termin ogłoszenia naboru: 25 kwietnia 2025 r.
+Termin rozpoczęcia naboru: 9 maja 2025 r. 
+Termin zakończenia naboru: 17 czerwca 2025 r.
 
 Podział planowanej alokacji UE wg obszarów:
 RWS = 3 000 000 EUR
-RMR = 2 000 000 EUR",
-10,FEMA,FEMA.08.02 Ekonomia społeczna,Nie dotyczy,Nie dotyczy,Wsparcie przedsiębiorstw społecznych i podmiotów ekonomii społecznej,konkurencyjny,"Administracja publiczna, Instytucje nauki i edukacji, Instytucje wspierające biznes, Organizacje społeczne i związki wyznaniowe, Partnerstwa, Partnerzy społeczni, Przedsiębiorstwa, Służby publiczne",OWES,Tak,Nie,2026,07,13,2026-08-12 00:00:00,2026-09-30,83051188.27,województwo mazowieckie,MJWPU,"EFS+.CP4.H Wspieranie aktywnego włączenia społecznego w celu promowania równości szans, niedyskryminacji i aktywnego uczestnictwa, oraz zwiększanie zdolności do zatrudnienia, w szczególności grup w niekorzystnej sytuacji",EFS+,"Termin ogłoszenia naboru: 29 lipca 2026 r.
-Termin rozpoczęcia naboru: 12 sierpnia 2026 r.
-Termin zakończenia naboru: 30 września 2026 r.
+RMR = 12 000 000 EUR"
+27,FEMA,FEMA.08.05 Usługi społeczne i zdrowotne,Nie dotyczy,Rozszerzenia dostępności nowoczesnych instrumentalnych metod diagnostyki i rehabilitacji dzieci z mózgowym porażeniem dziecięcym na terenie województwa mazowieckiego,Wsparcie procesu deinstytucjonalizacji w ochronie zdrowia,konkurencyjny,Instytucje ochrony zdrowia,"Publiczne zakłady opieki zdrowotnej
+Niepubliczne zakłady opieki zdrowotnej",Tak,Nie,2025,07,18,2025-07-18,2025-08-22,27207507,województwo mazowieckie,MJWPU,"EFS+.CP4.K Zwiększanie równego i szybkiego dostępu do dobrej jakości, trwałych i przystępnych cenowo usług, w tym usług, które wspierają dostęp do mieszkań oraz opieki skoncentrowanej na osobie, w tym opieki zdrowotnej; modernizacja systemów ochrony socjalnej, w tym wspieranie dostępu do ochrony socjalnej, ze szczególnym uwzględnieniem dzieci i grup w niekorzystnej sytuacji; poprawa dostępności, w tym dla osób z niepełnosprawnościami, skuteczności i odporności systemów ochrony zdrowia i usług opieki długoterminowej",EFS+,"Termin ogłoszenia naboru: 4 lipca 2025 r.
+Termin rozpoczęcia naboru: 18 lipca 2025 r.
+Termin zakończenia naboru: 22 sierpnia 2025 r.
 
 Podział planowanej alokacji UE wg obszarów:
-RWS = 6 890 643 EUR
-RMR = 5 838 513 EUR",
-11,FEMA,FEMA.08.06 Usługi społeczne na rzecz rodzin,Nie dotyczy,Nie dotyczy,Zwiększenie dostępności i skuteczności ochrony oraz wsparcia osób dotkniętych przemocą domową,konkurencyjny,"Administracja publiczna, Instytucje nauki i edukacji, Instytucje wspierające biznes, Organizacje społeczne i związki wyznaniowe, Partnerstwa, Partnerzy społeczni, Przedsiębiorstwa, Służby publiczne","Administracja publiczna, Instytucje nauki i edukacji, Instytucje wspierające biznes, Organizacje społeczne i związki wyznaniowe, Partnerstwa, Partnerzy społeczni, Przedsiębiorstwa, Służby publiczne",Tak,Tak,2026,07,08,2026-07-08,2026-08-04,16300220.15,województwo mazowieckie,MJWPU,"EFS+.CP4.L Wspieranie integracji społecznej osób zagrożonych ubóstwem lub wykluczeniem społecznym, w tym osób najbardziej potrzebujących i dzieci",EFS+,"Termin ogłoszenia naboru: 23 czerwca 2026 r.
-Termin rozpoczęcia naboru: 8 lipca 2026 r.
-Termin zakończenia naboru: 4 sierpnia 2026 r.
+RWS = 1 000 000 EUR
+RMR = 4 000 000 EUR
+
+Warunki niezbędne do uruchomienia naboru:
+
+- Przyjęcie Planu Działań przez Komitet Sterujący ds. koordynacji wsparcia w sektorze zdrowia.
+- W przypadku konkursów wymagających Regionalnych Programów Zdrowotnych (RPZ), opracowanie RPZ przez ZD oraz zatwierdzenie przez AOTMiT."
+28,FEMA,FEMA.08.05 Usługi społeczne i zdrowotne,Nie dotyczy,Rozwój dziennej opieki nad osobami chorymi na mukowiscydozę,Wsparcie procesu deinstytucjonalizacji w ochronie zdrowia,konkurencyjny,Instytucje ochrony zdrowia,"Publiczne zakłady opieki zdrowotnej
+Niepubliczne zakłady opieki zdrowotnej",Tak,Nie,2025,12,12,2025-12-12,2026-01-30,35369762,województwo mazowieckie,MJWPU,"EFS+.CP4.K Zwiększanie równego i szybkiego dostępu do dobrej jakości, trwałych i przystępnych cenowo usług, w tym usług, które wspierają dostęp do mieszkań oraz opieki skoncentrowanej na osobie, w tym opieki zdrowotnej; modernizacja systemów ochrony socjalnej, w tym wspieranie dostępu do ochrony socjalnej, ze szczególnym uwzględnieniem dzieci i grup w niekorzystnej sytuacji; poprawa dostępności, w tym dla osób z niepełnosprawnościami, skuteczności i odporności systemów ochrony zdrowia i usług opieki długoterminowej",EFS+,"Termin ogłoszenia naboru: 27 listopada 2025 r.
+Termin rozpoczęcia naboru: 12 grudnia 2025 r.
+Termin zakonczenia naboru: 30 stycznia 2026 r.
 
 Podział planowanej alokacji UE wg obszarów:
-RWS =     850 000 EUR
-RMR = 2 000 000 EUR",
-12,FEMA,FEMA.09.03 Mazowieckie Centrum Wsparcia Doradczego,IIT,Nie dotyczy,Mazowieckie Centrum Wsparcia Doradczego (MCWD),konkurencyjny,"Organizacje społeczne i związki wyznaniowe, Partnerstwa, Przedsiębiorstwa","Organizacje pozarządowe, Partnerstwa instytucji pozarządowych",Tak,Nie,,,,2026-05-28,2026-07-07,4233500,region Mazowiecki regionalny,MJWPU,"EFRR.CP5.I Wspieranie zintegrowanego i sprzyjającego włączeniu społecznemu rozwoju społecznego, gospodarczego i środowiskowego, kultury, dziedzictwa naturalnego, zrównoważonej turystyki i bezpieczeństwa na obszarach miejskich",EFRR,"Termin ogłoszenia naboru: 14 maja 2026 r.
-Termin rozpoczęcia naboru: 28 maja 2026 r.
-Termin zakończenia naboru: 7 lipca 2026 r.",
-13,FEMA,"FEMA.12.01
-STEP dla rozwoju biotechnologii",Nie dotyczy,Nie dotyczy,Rozwój terapii genowych,konkurencyjny,"Instytucje nauki i edukacji, Instytucje ochrony zdrowia, Partnerstwa",Organizacje badawcze,Nie,Nie,,,,2026-07-13,2026-08-19,46991850,województwo mazowieckie,MJWPU,"EFRR.CP1.VI - Wspieranie inwestycji przyczyniających się do realizacji celów Platformy na rzecz Technologii Strategicznych dla Europy (STEP), o których mowa w art. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/795",EFRR,"Termin ogłoszenia naboru:  29 czerwca 2026 r.
-Termin rozpoczęcia naboru: 13 lipca 2026 r.
-Termin zakończenia naboru: 19 sierpnia 2026 r.",
-14,FEMA,FEMA.13.01 Gotowość cywilna mieszkańców,Nie dotyczy,Gotowość cywilna Mazowsza,Rozwój umiejętności i wzrost bezpieczeństwa mieszkańców Mazowsza,niekonkurencyjny,"Administracja publiczna, Instytucje nauki i edukacji, Przedsiębiorstwa",Administracja publiczna,Tak,Tak,,,,2026-07-20,2026-08-04,113862544.88,województwo mazowieckie,MJWPU,"EFS+.CP4.G Wspieranie uczenia się przez całe życie, w szczególności elastycznych możliwości podnoszenia i zmiany kwalifikacji dla wszystkich, z uwzględnieniem umiejętności w zakresie przedsiębiorczości i kompetencji cyfrowych, lepsze przewidywanie zmian i zapotrzebowania na nowe umiejętności na podstawie potrzeb rynku pracy, ułatwianie zmian ścieżki kariery zawodowej i wspieranie mobilności zawodowej",EFS+,"Termin ogłoszenia naboru:  3 lipca 2026 r.
-Termin rozpoczęcia naboru: 20 lipca 2026 r.
-Termin zakończenia naboru: 4 sierpnia 2026 r.
+RWS = 1 300 000 EUR
+RMR = 5 200 000 EUR
+
+Warunki niezbędne do uruchomienia naboru:
+
+- Przyjęcie Planu Działań przez Komitet Sterujący ds. koordynacji wsparcia w sektorze zdrowia.
+- W przypadku konkursów wymagających Regionalnych Programów Zdrowotnych (RPZ), opracowanie RPZ przez ZD oraz zatwierdzenie przez AOTMiT."
+29,FEMA,FEMA.08.05 Usługi społeczne i zdrowotne,Nie dotyczy,Utworzenie Centrum Usług Społecznych,Rozwój usług społecznych świadczonych w społeczności lokalnej,konkurencyjny,JST,nie dotyczy,Tak,Nie,2025,10,10,2025-10-10,2025-11-28,31980754,województwo mazowieckie,MJWPU,"EFS+.CP4.K Zwiększanie równego i szybkiego dostępu do dobrej jakości, trwałych i przystępnych cenowo usług, w tym usług, które wspierają dostęp do mieszkań oraz opieki skoncentrowanej na osobie, w tym opieki zdrowotnej; modernizacja systemów ochrony socjalnej, w tym wspieranie dostępu do ochrony socjalnej, ze szczególnym uwzględnieniem dzieci i grup w niekorzystnej sytuacji; poprawa dostępności, w tym dla osób z niepełnosprawnościami, skuteczności i odporności systemów ochrony zdrowia i usług opieki długoterminowej",EFS+,"Termin ogłoszenia naboru: 26 września 2025 r.
+Termin rozpoczęcia naboru:  10 października 2025 r.
+Termin zakończenia naboru: 28 listopada 2025 r.
 
 Podział planowanej alokacji UE wg obszarów:
-RWS =   6 678 000 EUR
-RMR = 15 506 000 EUR
+RWS = 1 000  000 EUR
+RMR = 5 000  000 EUR"
+30,FEMA,FEMA.08.06 Usługi społeczne na rzecz rodzin,Nie dotyczy,Nie dotyczy,"Rozwój usług społecznych na rzecz dzieci i młodzieży, w tym w ramach usług wsparcia systemu pieczy zastępczej",konkurencyjny,"przedsiębiorstwa, 
+administracja publiczna, 
+instytucje wspierające biznes, 
+partnerstwa, 
+organizacje społeczne i związki wyznaniowe, 
+instytucje nauki i edukacji, 
+partnerzy społeczni",nie dotyczy,Tak,Tak,2025,12,10,2025-12-10,2026-01-28,54415014,województwo mazowieckie,MJWPU,"EFS+.CP4.L Wspieranie integracji społecznej osób zagrożonych ubóstwem lub wykluczeniem społecznym, w tym osób najbardziej potrzebujących i dzieci",EFS+,"Termin ogłoszenia naboru: 25 listopada 2025 r.
+Termin rozpoczęcia naboru: 10 grudnia 2025 r.
+Termin zakończenia naboru: 28 stycznia 2026 r.
 
-Podział BP wg obszarów:
-RWS = 35 % wydatków kwalifikowalnych
-RMR =    5 % wydatków kwalifikowalnych",
+Podział planowanej alokacji UE wg obszarów:
+RWS = 2 000 000 EUR
+RMR = 8 000 000 EUR"
+31,FEMA,FEMA.08.07 Integracja społeczna osób w kryzysie bezdomności i zagrożonych bezdomnością,Nie dotyczy,Nie dotyczy,Integracja społeczna osób w kryzysie bezdomności i zagrożonych bezdomnością,konkurencyjny,"przedsiębiorstwa, 
+administracja publiczna, 
+instytucje wspierające biznes, 
+partnerstwa, 
+organizacje społeczne i związki wyznaniowe, 
+instytucje nauki i edukacji, 
+partnerzy społeczni",nie dotyczy,Tak,Tak,2025,05,12,2025-05-12,2025-06-16,15016637,województwo mazowieckie,MJWPU,"EFS+.CP4.L Wspieranie integracji społecznej osób zagrożonych ubóstwem lub wykluczeniem społecznym, w tym osób najbardziej potrzebujących i dzieci",EFS+,"Termin ogłoszenia naboru: 23 kwietnia 2025 r.
+Termin rozpoczęcia naboru: 12 maja 2025 r.
+Termin zakończenia naboru: 16 czerwca 2025 r.
+
+Podział planowanej alokacji UE wg obszarów:
+RWS = 1 480 000 EUR
+RMR = 630 000 EUR"
+32,FEMA,FEMA.08.08 Integracja społeczna Romów,Nie dotyczy,Nie dotyczy,"Integracja społeczna osób należących do społeczności marginalizowanych, w tym Romów",konkurencyjny,"przedsiębiorstwa, 
+administracja publiczna, 
+instytucje wspierające biznes, 
+partnerstwa, 
+organizacje społeczne i związki wyznaniowe, 
+instytucje nauki i edukacji, 
+partnerzy społeczni,                                             służby publiczne","Administracja rządowa, Jednostki Samorządu, Terytorialnego,  MŚP, Duże przedsiębiorstwa, Kościoły i związki wyznaniowe, Organizacje pozarządowe, Podmioty ekonomii społecznej, Szkoły i inne placówki systemu oświaty, Uczelnie, Ośrodki kształcenia dorosłych, Instytucje integracji i pomocy społecznej, Instytucje kultury i sportu, Instytucje rynku pracy, Jednostki organizacyjne działające w imieniu jednostek samorządu terytorialnego",Tak,Nie,2025,10,10,2025-10-10,2025-11-14,16069483,województwo mazowieckie,MJWPU,"EFS+.CP4.L Wspieranie integracji społecznej osób zagrożonych ubóstwem lub wykluczeniem społecznym, w tym osób najbardziej potrzebujących i dzieci",EFS+,"Termin ogłoszenia naboru: 25 września 2025 r.
+Termin rozpoczęcia naboru: 10 października 2025 r.
+Termin zakończenia naboru: 14 listopada 2025 r.
+
+Podział planowanej alokacji UE wg obszarów:
+RWS = 826 134 EUR
+RMR = 1 962 145 EUR"
+33,FEMA,FEMA.09.01 Rewitalizacja miast,IIT,Rewitalizacja obszarów zdegradowanych,Rewitalizacja obszarów zdegradowanych,konkurencyjny,"Administracja publiczna
+Instytucje ochrony zdrowia
+Instytucje wspierające biznes
+Organizacje społeczne i związki wyznaniowe
+Partnerstwa
+Przedsiębiorstwa realizujące cele publiczne
+Służby publiczne","Jednostki Samorządu Terytorialnego, Jednostki organizacyjne działające w imieniu jednostek samorządu terytorialnego, Podmioty świadczące usługi publiczne w ramach realizacji obowiązków własnych JST, Uczelnie wyższe i jednostki naukowe, Instytucje kultury,
+Instytucje rynku pracy, Wspólnoty i spółdzielnie mieszkaniowe, TBS, Organizacje pozarządowe, Partnerstwa instytucji pozarządowych, Kościoły i związki wyznaniowe, Lokalne Grupy Działania, Niepubliczne podmioty integracji i pomocy społecznej, Instytucje integracji i pomocy społecznej, Podmioty ekonomii społecznej, Publiczne zakłady opieki zdrowotnej Niepubliczne zakłady opieki zdrowotnej",Tak,Nie,2025,10,,2025-10,2025-11,72603600,województwo mazowieckie,MJWPU,"EFRR.CP5.I Wspieranie zintegrowanego i sprzyjającego włączeniu społecznemu rozwoju społecznego, gospodarczego i środowiskowego, kultury, dziedzictwa naturalnego, zrównoważonej turystyki i bezpieczeństwa na obszarach miejskich",EFRR,"Termin ogłoszenia naboru: wrzesień 2025 r.
+Termin rozpoczęcia naboru: październik 2025 r.
+Termin zakończenia naboru: listopad 2025 r."
+34,FEMA,FEMA.09.01 Rewitalizacja miast,IIT,"Ochrona, rozwój i promowanie dziedzictwa kulturowego","Ochrona, rozwój i promowanie dziedzictwa kulturowego",konkurencyjny,"Administracja publiczna
+Instytucje ochrony zdrowia
+Instytucje wspierające biznes
+Organizacje społeczne i związki wyznaniowe
+Partnerstwa
+Przedsiębiorstwa realizujące cele publiczne
+Służby publiczne","Jednostki Samorządu Terytorialnego, Jednostki organizacyjne działające w imieniu jednostek samorządu terytorialnego, Podmioty świadczące usługi publiczne w ramach realizacji obowiązków własnych JST, Uczelnie wyższe i jednostki naukowe, Instytucje kultury,
+Instytucje rynku pracy, Wspólnoty i spółdzielnie mieszkaniowe, TBS, Organizacje pozarządowe, Partnerstwa instytucji pozarządowych, Kościoły i związki wyznaniowe, Lokalne Grupy Działania, Niepubliczne podmioty integracji i pomocy społecznej, Instytucje integracji i pomocy społecznej, Podmioty ekonomii społecznej. Publiczne zakłady opieki zdrowotnej Niepubliczne zakłady opieki zdrowotnej",Tak,Nie,2025,12,,2025-12,2026-01,76447320,województwo mazowieckie,MJWPU,"EFRR.CP5.I Wspieranie zintegrowanego i sprzyjającego włączeniu społecznemu rozwoju społecznego, gospodarczego i środowiskowego, kultury, dziedzictwa naturalnego, zrównoważonej turystyki i bezpieczeństwa na obszarach miejskich",EFRR,"Termin ogłoszenia naboru: listopad 2025 r.
+Termin rozpoczęcia naboru: grudzień 2025 r.
+Termin zakończenia naboru: styczeń 2026 r."
+35,FEMA,FEMA.09.02 Rewitalizacja obszarów innych niż miejskie,IIT,Rewitalizacja obszarów zdegradowanych,Rewitalizacja obszarów zdegradowanych,konkurencyjny,"Administracja publiczna
+Instytucje ochrony zdrowia
+Instytucje wspierające biznes
+Organizacje społeczne i związki wyznaniowe
+Partnerstwa
+Przedsiębiorstwa realizujące cele publiczne
+Służby publiczne","Jednostki Samorządu Terytorialnego, Jednostki organizacyjne działające w imieniu jednostek samorządu terytorialnego, Podmioty świadczące usługi publiczne w ramach realizacji obowiązków własnych JST, Uczelnie wyższe i jednostki naukowe, Instytucje kultury,
+Instytucje rynku pracy, Wspólnoty i spółdzielnie mieszkaniowe, TBS, Organizacje pozarządowe, Partnerstwa instytucji pozarządowych, Kościoły i związki wyznaniowe, Lokalne Grupy Działania, Niepubliczne podmioty integracji i pomocy społecznej, Instytucje integracji i pomocy społecznej, Podmioty ekonomii społecznej, Publiczne zakłady opieki zdrowotnej, Niepubliczne zakłady opieki zdrowotnej",Tak,Nie,2025,10,,2025-10,2025-11,132394800.00000001,województwo mazowieckie,MJWPU,"EFRR.CP5.I Wspieranie zintegrowanego i sprzyjającego włączeniu społecznemu rozwoju społecznego, gospodarczego i środowiskowego, kultury, dziedzictwa naturalnego, zrównoważonej turystyki i bezpieczeństwa na obszarach miejskich",EFRR,"Termin ogłoszenia naboru: wrzesień 2025 r.
+Termin rozpoczęcia naboru: październik 2025 r.
+Termin zakończenia naboru: listopad 2025 r."
+36,FEMA,FEMA.09.02 Rewitalizacja obszarów innych niż miejskie,IIT,"Ochrona, rozwój i promowanie dziedzictwa kulturowego","Ochrona, rozwój i promowanie dziedzictwa kulturowego",konkurencyjny,"Administracja publiczna
+Instytucje ochrony zdrowia
+Instytucje wspierające biznes
+Organizacje społeczne i związki wyznaniowe
+Partnerstwa
+Przedsiębiorstwa realizujące cele publiczne
+Służby publiczne","Jednostki Samorządu Terytorialnego, Jednostki organizacyjne działające w imieniu jednostek samorządu terytorialnego, Podmioty świadczące usługi publiczne w ramach realizacji obowiązków własnych JST, Uczelnie wyższe i jednostki naukowe, Instytucje kultury,
+Instytucje rynku pracy, Wspólnoty i spółdzielnie mieszkaniowe, TBS, Organizacje pozarządowe, Partnerstwa instytucji pozarządowych, Kościoły i związki wyznaniowe, Lokalne Grupy Działania, Niepubliczne podmioty integracji i pomocy społecznej, Instytucje integracji i pomocy społecznej, Podmioty ekonomii społecznej, Publiczne zakłady opieki zdrowotnej, Niepubliczne zakłady opieki zdrowotnej",Tak,Nie,2025,12,,2025-12,2026-01,92249280.00000001,województwo mazowieckie,MJWPU,"EFRR.CP5.I Wspieranie zintegrowanego i sprzyjającego włączeniu społecznemu rozwoju społecznego, gospodarczego i środowiskowego, kultury, dziedzictwa naturalnego, zrównoważonej turystyki i bezpieczeństwa na obszarach miejskich",EFRR,"Termin ogłoszenia naboru: listopad 2025 r.
+Termin rozpoczęcia naboru: grudzień 2025 r.
+Termin zakończenia naboru: styczeń 2026 r."
+37,FEMA,FEMA.12.01 STEP dla rozwoju biotechnologii,Nie dotyczy,Nowatorskie terapie genowe w leczeniu choroby Parkinsona oraz innych zaburzeń neurodegeneracyjnych,,niekonkurencyjny,Instytucje ochrony zdrowia,Publiczne zakłady opieki zdrowotnej,Nie,Nie,2025,05,28,2025-05-28,2025-06-11,103270000,województwo mazowieckie,MJWPU,"EFRR.CP1.VI - wspieranie inwestycji przyczyniających się do realizacji celów Platformy na rzecz Technologii Strategicznych dla Europy (STEP), o których mowa w art. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/795",EFRR,"Termin ogłoszenia naboru: 28 maja 2025 r.
+Termin rozpoczęcia naboru: 28 maja 2025 r.
+Termin zakończenia naboru: 11 czerwca 2025 r."
+# arkusz: Dostępna tabela-wskazówki
+Wskazówki - jak utworzyć dostępny harmonogram
+"1) Kolumna N Przewidywana data rozpoczęcia naboru wypełni się automatycznie danymi po wpisaniu odpowiednich danych w kolumnach K,L,M. Proszę nie usuwać wartości i funkcji z tej kolumny. W przypadku usunięcia tych formuł, wystarczy przeciągnać formułę z poprzedniego wiersza."
+2) Unikaj scalania komórek.
+"3) Unikaj tworzenia pustych komórek.W takim przypadku warto wpisać np.. ""nie dotyczy""."
+4) Używaj prostego języka.
+5) Używaj czcionek bezszeryfowych (czcionki o kroju pozbawionym ozdobników w postaci kresek przy literach) o wielkości 12 pkt (minimum).
+"6) Proszę nie zmieniaj kolejności kolumn, nie usuwaj ich. Ułatwi to późniejszą analizę."
+"7) Zmień nazwę Pliku z domyślnej na taką, która w jasny sposób opisuje zawartość (np. Harmonogram_woj_Mazowieckie)."
+8) Przed publikacją ukryj kolumny techniczne i nieobowiązkowe (oznaczone kolorem pomarańczowym/żółtym) - ułatwi to wnioskodawcom analizę harmonogramu.
+# arkusz: słownik wnioskodawców
+Wnioskodawcy - szczegółowi,Wnioskodawcy - ogólni
+MŚP,Przedsiębiorstwa
+Administracja rządowa,Osoby fizyczne
+Bank Gospodarstwa Krajowego,Administracja publiczna
+Centra aktywności lokalnej,Przedsiębiorstwa realizujące cele publiczne
+Duże przedsiębiorstwa,Instytucje wspierające biznes
+Europejskie ugrupowanie współpracy terytorialnej,Partnerstwa
+Grupy Producentów,Służby publiczne
+Inne instytucje systemu ochrony zdrowia,Instytucje ochrony zdrowia
+Inne podmioty systemu szkolnictwa wyższego i nauki,Organizacje społeczne i związki wyznaniowe
+Instytucje finansowe,Instytucje nauki i edukacji
+Instytucje integracji i pomocy społecznej,Partnerzy społeczni
+Instytucje kultury,Zintegrowane Inwestycje Terytorialne (ZIT)
+Instytucje odpowiedzialne za gospodarkę wodną,Rozwój lokalny kierowany przez społeczność (RLKS)
+Instytucje otoczenia biznesu,
+Instytucje rynku pracy,
+Instytucje sportu,
+Izby gospodarcze,
+Izby Rolnicze,
+Jednostki doradztwa rolniczego,
+Jednostki naukowe,
+Jednostki organizacyjne działające w imieniu jednostek samorządu terytorialnego,
+Jednostki rządowe i samorządowe ochrony środowiska,
+Jednostki Samorządu Terytorialnego,
+Klastry,
+"Kluby sportowe, centra sportu",
+Konsorcja naukowo-przemysłowe,
+Kościoły i związki wyznaniowe,
+Lasy Państwowe,
+Parki narodowe i krajobrazowe,
+Lokalne Grupy Działania,
+Niepubliczne instytucje kultury,
+Niepubliczne instytucje sportu,
+Niepubliczne podmioty integracji i pomocy społecznej,
+Niepubliczne zakłady opieki zdrowotnej,
+Organizacje badawcze,
+Organizacje pozarządowe,
+Organizacje zrzeszające pracodawców,
+Organizatorzy i operatorzy publicznego transportu zbiorowego,
+Osoby fizyczne,
+Ośrodki innowacji,
+Ośrodki kształcenia dorosłych,
+Ośrodki Wsparcia Ekonomii Społecznej,
+Partnerstwa instytucji pozarządowych,
+Partnerstwa Publiczno-Prywatne,
+Partnerzy gospodarczy,
+Podmioty ekonomii społecznej,
+Podmioty świadczące usługi publiczne w ramach realizacji obowiązków własnych jednostek samorządu terytorialnego,
+Podmioty zarządzające terenami inwestycyjnymi,
+"Policja, straż pożarna i służby ratownicze",
+Porty lotnicze,
+Pozarządowe organizacje turystyczne,
+Prokuratura,
+Przedsiębiorstwa działające w zakresie transportu intermodalnego,
+Przedsiębiorstwa energetyczne,
+Przedsiębiorstwa gospodarujące odpadami,
+Przedsiębiorstwa kolejowych przewozów pasażerskich,
+Przedsiębiorstwa kolejowych przewozów towarowych,
+Przedsiębiorstwa świadczące kompleksowe usługi sanatoryjne/uzdrowiskowe/zakłady lecznictwa uzdrowiskowego,
+Przedsiębiorstwa wodociągowo-kanalizacyjne,
+Przedszkola i inne formy wychowania przedszkolnego,
+Publiczne zakłady opieki zdrowotnej,
+Rozwój lokalny kierowany przez społeczność (RLKS),
+Rządowe organizacje turystyczne,
+Samorządy zawodowe,
+Spółki wodne,
+Szkoły i inne placówki systemu oświaty,
+Uczelnie,
+Urzędy Morskie,
+Uzdrowiska,
+"Wspólnoty energetyczne, w tym klastry energii i spółdzielnie energetyczne",
+"Wspólnoty, spółdzielnie mieszkaniowe i TBS",
+Wymiar sprawiedliwości,
+Zarządcy dróg publicznych,
+Zarządcy infrastruktury dworcowej,
+Zarządcy infrastruktury kolejowej,
+Zarządzający portami morskimi i wodnymi śródlądowymi,
+Zintegrowane Inwestycje Terytorialne (ZIT),
+Związki zawodowe,
 # arkusz: listy rozwijane - do ukrycia
 Program,Program,Działanie - kod i nazwa,Sposób wyboru,Cel szczegółowy - kod i nazwa,Fundusz - kod,Realizacja instrumentów terytorialnych,Dzień,Miesiąc,Rok,Wybór
 FEDS,FEDS,FEDS.01.01 Rozwój jednostek naukowych,konkurencyjny,EFRR.CP1.I Rozwijanie i wzmacnianie zdolności badawczych i innowacyjnych oraz wykorzystywanie zaawansowanych technologii,EFRR,IIT,01,01,2023,Tak
@@ -531,7 +775,6 @@ Wspieranie uczenia się przez całe życie, w szczególności elastycznych możl
 ,FEMA,FEMA.06.04 Aktywizacja zawodowa biernych zawodowo kobiet,,,,,,,,
 ,FEMA,FEMA.06.05 Wsparcie dla pracodawców i pracowników,,,,,,,,
 ,FEMA,FEMA.06.06 Zdrowie pracowników,,,,,,,,
-,FEMA,FEMA.06.07 Kompleksowe wsparcie dla osób młodych,,,,,,,,
 ,FEMA,FEMA.07.01 Edukacja przedszkolna,,,,,,,,
 ,FEMA,FEMA.07.02 Wzmocnienie kompetencji uczniów,,,,,,,,
 ,FEMA,FEMA.07.03 Wzmocnienie kompetencji uczniów w ZIT,,,,,,,,
@@ -1265,93 +1508,3 @@ Wspieranie uczenia się przez całe życie, w szczególności elastycznych możl
 ,FEWP,"FEWP.11.01 Wsparcie instytucji, beneficjentów i partnerów oraz informacja i komunikacja o Programie",,,,,,,,
 ,FEWP,FEWP.12.01 Zatrudnienie,,,,,,,,
 ,FEWP,"FEWP.13.01 Wsparcie instytucji, beneficjentów i partnerów oraz informacja i komunikacja o Programie",,,,,,,,
-# arkusz: słownik wnioskodawców
-Wnioskodawcy - szczegółowi,Wnioskodawcy - ogólni
-MŚP,Przedsiębiorstwa
-Administracja rządowa,Osoby fizyczne
-Bank Gospodarstwa Krajowego,Administracja publiczna
-Centra aktywności lokalnej,Przedsiębiorstwa realizujące cele publiczne
-Duże przedsiębiorstwa,Instytucje wspierające biznes
-Europejskie ugrupowanie współpracy terytorialnej,Partnerstwa
-Grupy Producentów,Służby publiczne
-Inne instytucje systemu ochrony zdrowia,Instytucje ochrony zdrowia
-Inne podmioty systemu szkolnictwa wyższego i nauki,Organizacje społeczne i związki wyznaniowe
-Instytucje finansowe,Instytucje nauki i edukacji
-Instytucje integracji i pomocy społecznej,Partnerzy społeczni
-Instytucje kultury,Zintegrowane Inwestycje Terytorialne (ZIT)
-Instytucje odpowiedzialne za gospodarkę wodną,Rozwój lokalny kierowany przez społeczność (RLKS)
-Instytucje otoczenia biznesu,
-Instytucje rynku pracy,
-Instytucje sportu,
-Izby gospodarcze,
-Izby Rolnicze,
-Jednostki doradztwa rolniczego,
-Jednostki naukowe,
-Jednostki organizacyjne działające w imieniu jednostek samorządu terytorialnego,
-Jednostki rządowe i samorządowe ochrony środowiska,
-Jednostki Samorządu Terytorialnego,
-Klastry,
-"Kluby sportowe, centra sportu",
-Konsorcja naukowo-przemysłowe,
-Kościoły i związki wyznaniowe,
-Lasy Państwowe,
-Parki narodowe i krajobrazowe,
-Lokalne Grupy Działania,
-Niepubliczne instytucje kultury,
-Niepubliczne instytucje sportu,
-Niepubliczne podmioty integracji i pomocy społecznej,
-Niepubliczne zakłady opieki zdrowotnej,
-Organizacje badawcze,
-Organizacje pozarządowe,
-Organizacje zrzeszające pracodawców,
-Organizatorzy i operatorzy publicznego transportu zbiorowego,
-Osoby fizyczne,
-Ośrodki innowacji,
-Ośrodki kształcenia dorosłych,
-Ośrodki Wsparcia Ekonomii Społecznej,
-Partnerstwa instytucji pozarządowych,
-Partnerstwa Publiczno-Prywatne,
-Partnerzy gospodarczy,
-Podmioty ekonomii społecznej,
-Podmioty świadczące usługi publiczne w ramach realizacji obowiązków własnych jednostek samorządu terytorialnego,
-Podmioty zarządzające terenami inwestycyjnymi,
-"Policja, straż pożarna i służby ratownicze",
-Porty lotnicze,
-Pozarządowe organizacje turystyczne,
-Prokuratura,
-Przedsiębiorstwa działające w zakresie transportu intermodalnego,
-Przedsiębiorstwa energetyczne,
-Przedsiębiorstwa gospodarujące odpadami,
-Przedsiębiorstwa kolejowych przewozów pasażerskich,
-Przedsiębiorstwa kolejowych przewozów towarowych,
-Przedsiębiorstwa świadczące kompleksowe usługi sanatoryjne/uzdrowiskowe/zakłady lecznictwa uzdrowiskowego,
-Przedsiębiorstwa wodociągowo-kanalizacyjne,
-Przedszkola i inne formy wychowania przedszkolnego,
-Publiczne zakłady opieki zdrowotnej,
-Rozwój lokalny kierowany przez społeczność (RLKS),
-Rządowe organizacje turystyczne,
-Samorządy zawodowe,
-Spółki wodne,
-Szkoły i inne placówki systemu oświaty,
-Uczelnie,
-Urzędy Morskie,
-Uzdrowiska,
-"Wspólnoty energetyczne, w tym klastry energii i spółdzielnie energetyczne",
-"Wspólnoty, spółdzielnie mieszkaniowe i TBS",
-Wymiar sprawiedliwości,
-Zarządcy dróg publicznych,
-Zarządcy infrastruktury dworcowej,
-Zarządcy infrastruktury kolejowej,
-Zarządzający portami morskimi i wodnymi śródlądowymi,
-Zintegrowane Inwestycje Terytorialne (ZIT),
-Związki zawodowe,
-# arkusz: Dostępna tabela-wskazówki
-Wskazówki - jak utworzyć dostępny harmonogram
-"1) Kolumna N Przewidywana data rozpoczęcia naboru wypełni się automatycznie danymi po wpisaniu odpowiednich danych w kolumnach K,L,M. Proszę nie usuwać wartości i funkcji z tej kolumny. W przypadku usunięcia tych formuł, wystarczy przeciągnać formułę z poprzedniego wiersza."
-2) Unikaj scalania komórek.
-"3) Unikaj tworzenia pustych komórek.W takim przypadku warto wpisać np.. ""nie dotyczy""."
-4) Używaj prostego języka.
-5) Używaj czcionek bezszeryfowych (czcionki o kroju pozbawionym ozdobników w postaci kresek przy literach) o wielkości 12 pkt (minimum).
-"6) Proszę nie zmieniaj kolejności kolumn, nie usuwaj ich. Ułatwi to późniejszą analizę."
-"7) Zmień nazwę Pliku z domyślnej na taką, która w jasny sposób opisuje zawartość (np. Harmonogram_woj_Mazowieckie)."
-8) Przed publikacją ukryj kolumny techniczne i nieobowiązkowe (oznaczone kolorem pomarańczowym/żółtym) - ułatwi to wnioskodawcom analizę harmonogramu.

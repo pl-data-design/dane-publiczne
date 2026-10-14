@@ -1,42 +1,64 @@
 # arkusz: Harmonogram - do wypełnienia
-,,,,,,,,,,,,,,,,,,,,,"Załącznik do Uchwały nr 590/166/26
-Zarządu Województwa Mazowieckiego z dnia 7 kwietnia 2026 r.",
+,,,,,,,,,,,,,,,,,,,,,"Załącznik do Uchwały nr 977/179/26
+Zarządu Województwa Mazowieckiego z dnia 26 maja 2026 r.",
 ,Program,Działanie - kod i nazwa,Realizacja instrumentów terytorialnych,Tytuł naboru,"Typy projektów, które mogą otrzymać dofinansowanie",Sposób wyboru projektów,Wnioskodawcy - ogólni,Wnioskodawcy - szczegółowi,Dotyczy JST,Dotyczy MŚP,"Przewidywana data rozpoczęcia naboru
 (sekcja techniczna)",,,"Przewidywana data rozpoczęcia naboru
 (funkcja)",Data zakończenia naboru,Całkowity budżet naboru (PLN),Obszar geograficzny,"Instytucja, która przeprowadzi nabór",Cel szczegółowy - kod i nazwa,Fundusz,Informacje dodatkowe,
 ,1,2,3,4,5,6,7,8,9,10,11,15,16,12,13,14,15,16,17,18,19,
 ,pole jednokrotnego wyboru - wypełnić jako pierwszą,pole jednokrotnego wyboru,pole jednokrotnego wyboru,pole należy wypełnić ręcznie,pole należy wypełnić ręcznie,pole jednokrotnego wyboru,pole należy wypełnić ręcznie - zgodnie ze słownikiem,pole należy wypełnić ręcznie - dodatkowe informacje wg potrzeb IZPR,pole jednokrotnego wyboru,pole jednokrotnego wyboru,rok,miesiąc,dzień,pole wypełni się automatycznie (uwaga: funkcja),rrrr-mm-dd lub rrrr-mm,pole należy wypełnić ręcznie,pole należy wypełnić ręcznie,pole należy wypełnić ręcznie,pole jednokrotnego wyboru,pole jednokrotnego wyboru,pole należy wypełnić ręcznie (jeśli dotyczy),
-1,FEMA,FEMA.02.05 Gospodarka wodno-ściekowa,Nie dotyczy,Przebudowa i rozbudowa istniejącej oczyszczalni ścieków w Nadarzynie,Porządkowanie gospodarki wodno - kanalizacyjnej,niekonkurencyjny,"Administracja publiczna
-Przedsiębiorstwa realizujące cele publiczne",Jednostki Samorządu Terytorialnego (JST) Przedsiębiorstwa wodociągowo-kanalizacyjne,Tak,Nie,,,,2026-05-13,2026-06-02,9000000.025890999,region warszawski stołeczny,MJWPU,EFRR/FS.CP2.V Wspieranie dostępu do wody oraz zrównoważonej gospodarki wodnej,EFRR,"Termin rozpoczęcia naboru: 13 maja 2026 r.
+1,FEMA,FEMA.02.05 Gospodarka wodno-ściekowa,Nie dotyczy,Przebudowa i rozbudowa istniejącej oczyszczalni ścieków w Nadarzynie,Porządkowanie gospodarki wodno - kanalizacyjnej,niekonkurencyjny,Przedsiębiorstwa realizujące cele publiczne,"Przedsiebirstwo wodociągowo-kanalizacyjne
+(Przedsiębiorstwo Komunalne Nadarzyn Sp. z o. o.)",Nie,Tak,,,,2026-05-13,2026-06-02,9056247.96,region warszawski stołeczny,MJWPU,EFRR/FS.CP2.V Wspieranie dostępu do wody oraz zrównoważonej gospodarki wodnej,EFRR,"Termin rozpoczęcia naboru: 13 maja 2026 r.
 Termin zakończenia naboru: 2 czerwca 2026 r.",
-2,FEMA,FEMA.04.01 Transport regionalny i lokalny,Nie dotyczy,Budowa odcinka linii kolejowej od stacji Modlin do Mazowieckiego Portu Lotniczego (MPL) Warszawa/Modlin oraz budowa stacji kolejowej Mazowiecki Port Lotniczy (MPL) Warszawa/Modlin,"Budowa, przebudowa, modernizacja linii kolejowych",niekonkurencyjny,Przedsiębiorstwa realizujące cele publiczne,Zarządcy infrastruktury kolejowej,Nie,Nie,2026,06,01,2026-06-01 00:00:00,2026-06-30,42882999.99999999,województwo mazowieckie (RWS),MJPWU,"EFRR/FS.CP3.II Rozwój i udoskonalanie zrównoważonej, odpornej na zmiany klimatu, inteligentnej i intermodalnej mobilności na poziomie krajowym, regionalnym i lokalnym, w tym poprawę dostępu do TEN-T oraz mobilności transgranicznej",EFRR,"Termin rozpoczęcia naboru: 1 czerwca 2026 r.
-Termin zakończenia naboru: 30 czerwca 2026 r. 
+2,FEMA,FEMA.02.05 Gospodarka wodno-ściekowa,Nie dotyczy,"Zarządzanie efektywnymi, inteligentnymi sieciami wodociągowymi","Zarządzanie efektywnymi, inteligentnymi sieciami wodociągowymi",konkurencyjny,"Administracja publiczna, 
+Służby publiczne, 
+Przedsiębiorstwa realizujące cele publiczne","Jednostki Samorządu Terytorialnego, 
+Jednostki organizacyjne działające w imieniu jednostek samorządu terytorialnego, 
+Podmioty świadczące usługi publiczne w ramach realizacji obowiązków własnych jednostek samorządu terytorialnego, 
+Przedsiębiorstwa wodociągowo-kanalizacyjne",Tak,Tak,,,,2026-07-15,2026-08-12,55273400,województwo mazowieckie,MJWPU,EFRR/FS.CP2.V Wspieranie dostępu do wody oraz zrównoważonej gospodarki wodnej,EFRR,"Termin ogłoszenia naboru: 1 lipca 2026 r.
+Termin rozpoczęcia naboru: 15 lipca 2026 r. 
+Termin zakończenia naboru: 12 sierpnia 2026 r. 
 
-Alokacja z RWS 10 000 000 EUR
-W przypadku dostepności środków możliwe zwiększenie alokacji. 
-Rozważane jest dofinansowanie z dwóch kategorii regionu (projekt mieszany).",
-3,FEMA,FEMA.05.05 Infrastruktura społeczna,Nie dotyczy,Tworzenie infrastruktury społecznej w ramach deinstytucjonalizacji usług i reintegracji społecznej,Tworzenie infrastruktury społecznej w ramach deinstytucjonalizacji usług i reintegracji społecznej,konkurencyjny,Administracja publiczna,"Jednostki Samorządu Terytorialnego
-Jednostki organizacyjne działające w imieniu jednostek samorządu terytorialnego",Tak,Nie,2026,04,01,2026-04-01,2026-05-13 00:00:00,50387524.99999999,województwo mazowieckie,MJWPU,"EFRR.CP4.III Wspieranie włączenia społeczno-gospodarczego społeczności marginalizowanych, gospodarstw domowych o niskich dochodach oraz grup w niekorzystnej sytuacji, w tym osób o szczególnych potrzebach, dzięki zintegrowanym działaniom obejmującym usługi mieszkaniowe i usługi społeczne",EFRR,"Termin ogłoszenia naboru:  18 marca 2026 r.
+Podział planowanej alokacji UE wg obszarów:
+RWS = 11 000 000 EUR
+RMR = 2 000 000 EUR
+
+W przypadku dostępności srodków z budżetu Państa będzie istniała możliwość dofinasowania projektów ze środków BP dla gmin Regionu Warszawskiego Stołecznego.",
+3,FEMA,FEMA.02.06 Gospodarka o obiegu zamkniętym,Nie dotyczy,Gospodarka odpadami zgodnie z hierarchią postępowania z odpadami,Gospodarka odpadami zgodnie z hierarchią postępowania z odpadami,konkurencyjny,"Administracja publiczna, 
+Służby publiczne, 
+Przedsiębiorstwa realizujące cele publiczne
+Przedsiebiorstwa","Jednostki Samorządu Terytorialnego 
+Jednostki organizacyjne działające w imieniu jednostek samorządu terytorialnego 
+Podmioty świadczące usługi publiczne w ramach realizacji obowiązków własnych jednostek samorządu terytorialnego
+Przedsiębiorstwa gospodarujące odpadami Przedsiębiorstwa",Tak,Tak,,,,IV kwartał,IV kwartał,53147500,województwo mazowieckie,MJWPU,EFRR/FS.CP2.VI Wspieranie transformacji w kierunku gospodarki o obiegu zamkniętym i gospodarki zasobooszczędnej,EFRR,"Termin ogłoszenia naboru: IV kwartał 2026 r.
+Termin rozpoczęcia naboru: IV kwartał 2026 r. 
+Termin zakończenia naboru: IV kwartał 2026 r. 
+
+Podział planowanej alokacji UE wg obszarów:
+RWS =   5 000 000 EUR
+RMR = 7 500 000 EUR
+
+W przypadku dostępności srodków z budżetu Państa będzie istniała możliwość dofinasowania projektów ze środków BP dla gmin Regionu Warszawskiego Stołecznego.",
+4,FEMA,FEMA.02.07 Bioróżnorodność,Nie dotyczy,Ochrona różnorodności biologicznej poprzez realizację planów ochrony parków krajobrazowych,Ochrona różnorodności biologicznej poprzez realizację planów ochrony parków krajobrazowych,konkurencyjny,"Administracja publiczna, 
+Służby publiczne, 
+Przedsiębiorstwa realizujące cele publiczne","Jednostki Samorządu Terytorialnego (JST) 
+Jednostki organizacyjne działające w imieniu jednostek samorządu terytorialnego 
+Jednostki rządowe i samorządowe ochrony środowiska 
+Podmioty świadczące usługi publiczne w ramach realizacji obowiązków własnych JST",Tak,Nie,,,,IV kwartał,IV kwartał,10863349,województwo mazowieckie,MJWPU,"EFRR/FS.CP2.VII Wzmacnianie ochrony i zachowania przyrody, różnorodności biologicznej oraz zielonej infrastruktury, w tym na obszarach miejskich, oraz ograniczanie wszelkich rodzajów zanieczyszczenia",EFRR,"Termin ogłoszenia naboru: IV kwartał 2026 r.
+Termin rozpoczęcia naboru: IV kwartał 2026 r. 
+Termin zakończenia naboru: IV kwartał 2026 r. 
+
+Podział planowanej alokacji UE wg obszarów:
+RWS =   800 000 EUR
+RMR = 1 755 000 EUR
+
+W przypadku dostępności srodków z budżetu Państa będzie istniała możliwość dofinasowania projektów ze środków BP dla gmin Regionu Warszwskiego Stołecznego.",
+5,FEMA,FEMA.05.05 Infrastruktura społeczna,Nie dotyczy,Tworzenie infrastruktury społecznej w ramach deinstytucjonalizacji usług i reintegracji społecznej,Tworzenie infrastruktury społecznej w ramach deinstytucjonalizacji usług i reintegracji społecznej,konkurencyjny,Administracja publiczna,"Jednostki Samorządu Terytorialnego
+Jednostki organizacyjne działające w imieniu jednostek samorządu terytorialnego",Tak,Nie,2026,04,01,2026-04-01,2026-06-10 00:00:00,49958650,województwo mazowieckie,MJWPU,"EFRR.CP4.III Wspieranie włączenia społeczno-gospodarczego społeczności marginalizowanych, gospodarstw domowych o niskich dochodach oraz grup w niekorzystnej sytuacji, w tym osób o szczególnych potrzebach, dzięki zintegrowanym działaniom obejmującym usługi mieszkaniowe i usługi społeczne",EFRR,"Termin ogłoszenia naboru:  18 marca 2026 r.
 Termin rozpoczęcia naboru:  1 kwietnia 2026 r.
-Termin zakończenia naboru: 13 maja 2026 r.
+Termin zakończenia naboru: 10 czerwca 2026 r.
 
 Planowane jest zwiększenie alokacji po zmianie SZOP FEM.",
-4,FEMA,FEMA.05.06 Ochrona zdrowia,Nie dotyczy,Ambulatoryjna Opieka Specjalistyczna (AOS) i leczenie jednego dnia,Inwestycje w infrastrukturę zdrowotną,konkurencyjny,"Administracja publiczna
-Instytucje ochrony zdrowia","Jednostki Samorządu Terytorialnego
-Publiczne zakłady opieki zdrowotnej
-Niepubliczne zakłady opieki zdrowotnej",Tak,Tak,2026,02,12,2026-02-12,2026-04-24 00:00:00,34306400,województwo mazowieckie,MJWPU,"EFRR.CP4.V Zapewnianie równego dostępu do opieki zdrowotnej i wspieranie odporności systemów opieki zdrowotnej, w tym podstawowej opieki zdrowotnej, oraz wspieranie przechodzenia od opieki instytucjonalnej do opieki rodzinnej i środowiskowej",EFRR,"Termin ogłoszenia naboru:  29 stycznia 2026 r.
-Termin rozpoczęcia naboru: 12 luty 2026 r.
-Termin zakończenia naboru: 24 kwietnia 2026 r.
-
-Warunek niezbędny do uruchomienia naboru:
-
-- Przyjęcie Planu Działań przez Komitet Sterujący ds. koordynacji wsparcia w sektorze zdrowia.
-
-UWAGA: 
- Zgodnie z zasadą ogólną przyjętą uchwałą KS, kryterium dostępowym będzie wymóg załączenia do wniosku o dofinansowanie, pozytywnej opinii o celowości inwestycji (OCI), o której mowa w  ustawie o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
-
-ZWM przewidział dof. ze środków BP",
-5,FEMA,FEMA.05.07 Kultura i turystyka,IIT,Nabór dla projektów wynikających  ze strategii rozwoju ponadlokalnego w ramach instrumentu MSIT,Rozwój infrastruktury do prowadzenia działalności kulturalnej ważnej dla edukacji i aktywności kulturalnej,konkurencyjny,"Administracja publiczna, Organizacje społeczne i związki wyznaniowe,
+6,FEMA,FEMA.05.07 Kultura i turystyka,IIT,Nabór dla projektów wynikających  ze strategii rozwoju ponadlokalnego w ramach instrumentu MSIT,Rozwój infrastruktury do prowadzenia działalności kulturalnej ważnej dla edukacji i aktywności kulturalnej,konkurencyjny,"Administracja publiczna, Organizacje społeczne i związki wyznaniowe,
 służby publiczne","Jednostki Samorządu Terytorialnego
 Instytucje kultury
 Instytucje sportu
@@ -45,12 +67,14 @@ Kościoły i związki wyznaniowe
 Niepubliczne instytucje kultury i sportu
 Organizacje pozarządowe
 Pozarządowe organizacje turystyczne
-Lokalne Grupy Działania",Tak,Nie,2026,03,16,2026-03-16,2026-06-03,79333549.99999999,region Mazowiecki regionalny,MJWPU,"EFRR.CP4.VI Wzmacnianie roli kultury i zrównoważonej turystyki w rozwoju gospodarczym, włączeniu społecznym i innowacjach społecznych",EFRR,"Termin ogłoszenia naboru: 2 marca 2026 r.
+Lokalne Grupy Działania",Tak,Nie,2026,03,16,2026-03-16,2026-06-03,78658300,region Mazowiecki regionalny,MJWPU,"EFRR.CP4.VI Wzmacnianie roli kultury i zrównoważonej turystyki w rozwoju gospodarczym, włączeniu społecznym i innowacjach społecznych",EFRR,"Termin ogłoszenia naboru: 2 marca 2026 r.
 Termin rozpoczęcia naboru: 16 marca 2026 r.
 Termin zakończenia naboru: 3 czerwca 2026 r.
 
-projekty wynikające ze strategii rozwoju ponadlokalnego w ramach instrumentu MSIT",
-6,FEMA,FEMA.05.07 Kultura i turystyka,IIT,"Nabór dla projektów wynikających ze strategii rozwoju lokalnego kierowanego przez społeczność (LSR), opracowanych przez Lokalne Grupy Działania (LGD)",Rozwój infrastruktury do prowadzenia działalności kulturalnej ważnej dla edukacji i aktywności kulturalnej,konkurencyjny,"Administracja publiczna, Organizacje społeczne i związki wyznaniowe,
+projekty wynikające ze strategii rozwoju ponadlokalnego w ramach instrumentu MSIT 
+
+Zmiana zgodnie z decyzją Zarządu Województwa Mazowieckiego z dnia 31 marca 2026 r.",
+7,FEMA,FEMA.05.07 Kultura i turystyka,IIT,"Nabór dla projektów wynikających ze strategii rozwoju lokalnego kierowanego przez społeczność (LSR), opracowanych przez Lokalne Grupy Działania (LGD)",Rozwój infrastruktury do prowadzenia działalności kulturalnej ważnej dla edukacji i aktywności kulturalnej,konkurencyjny,"Administracja publiczna, Organizacje społeczne i związki wyznaniowe,
 służby publiczne","Jednostki Samorządu Terytorialnego
 Instytucje kultury
 Instytucje sportu
@@ -59,16 +83,16 @@ Kościoły i związki wyznaniowe
 Niepubliczne instytucje kultury i sportu
 Organizacje pozarządowe
 Pozarządowe organizacje turystyczne
-Lokalne Grupy Działania",Tak,Nie,2026,03,17,2026-03-17,2026-04-28,19726179.999999996,województwo mazowieckie,MJWPU,"EFRR.CP4.VI Wzmacnianie roli kultury i zrównoważonej turystyki w rozwoju gospodarczym, włączeniu społecznym i innowacjach społecznych",EFRR,"Termin ogłoszenia naboru: 3 marca 2026 r.
+Lokalne Grupy Działania",Tak,Nie,2026,03,17,2026-03-17,2026-06.02,19558280,województwo mazowieckie,MJWPU,"EFRR.CP4.VI Wzmacnianie roli kultury i zrównoważonej turystyki w rozwoju gospodarczym, włączeniu społecznym i innowacjach społecznych",EFRR,"Termin ogłoszenia naboru: 3 marca 2026 r.
 Termin rozpoczęcia naboru: 17 marca 2026 r.
-Termin zakończenia naboru: 28 kwietnia 2026 r.
+Termin zakończenia naboru: 2 czerwca 2026 r.
 
 projekty wynikające z wybranych strategii rozwoju lokalnego kierowanego przez społeczność (LSR) 
 
 Alokacja przeznaczona na nabór: 4 600 000 EUR, w tym: 
 dla RMR - 2 000 000 EUR
 dla RWS - 2 600 000 EUR",
-7,FEMA,FEMA.05.07 Kultura i turystyka,IIT,Nabór dla projektów wynikających  ze strategii rozwoju ponadlokalnego w ramach instrumentu MSIT,"Turystyczne szlaki tematyczne i produkty turystyczne (odwołujące się do walorów historycznych, kulturowych, przyrodniczych i kulinarnych)",konkurencyjny,"Administracja publiczna, Organizacje społeczne i związki wyznaniowe, służby publiczne","Jednostki Samorządu Terytorialnego
+8,FEMA,FEMA.05.07 Kultura i turystyka,IIT,Nabór dla projektów wynikających  ze strategii rozwoju ponadlokalnego w ramach instrumentu MSIT,"Turystyczne szlaki tematyczne i produkty turystyczne (odwołujące się do walorów historycznych, kulturowych, przyrodniczych i kulinarnych)",konkurencyjny,"Administracja publiczna, Organizacje społeczne i związki wyznaniowe, służby publiczne","Jednostki Samorządu Terytorialnego
 Instytucje kultury
 Instytucje sportu
 Jednostki organizacyjne działające w imieniu jednostek samorządu terytorialnego   
@@ -76,12 +100,12 @@ Kościoły i związki wyznaniowe
 Niepubliczne instytucje kultury i sportu
 Organizacje pozarządowe
 Pozarządowe organizacje turystyczne
-Lokalne Grupy Działania",Tak,Nie,2026,04,08,2026-04-08,2026-05-21,85337169.99999999,region Mazowiecki regionalny,MJWPU,"EFRR.CP4.VI Wzmacnianie roli kultury i zrównoważonej turystyki w rozwoju gospodarczym, włączeniu społecznym i innowacjach społecznych",EFRR,"Termin ogłoszenia naboru:  25 marca 2026 r.
+Lokalne Grupy Działania",Tak,Nie,2026,04,08,2026-04-08,2026-07-01,84610820,region Mazowiecki regionalny,MJWPU,"EFRR.CP4.VI Wzmacnianie roli kultury i zrównoważonej turystyki w rozwoju gospodarczym, włączeniu społecznym i innowacjach społecznych",EFRR,"Termin ogłoszenia naboru:  25 marca 2026 r.
 Termin rozpoczęcia naboru:  8 kwietnia 2026 r.
-Termin zakończenia naboru: 21 maja 2026 r.
+Termin zakończenia naboru: 1 lipca 2026 r.
 
 projekty wynikające ze strategii rozwoju ponadlokalnego w ramach instrumentu MSIT",
-8,FEMA,FEMA.05.07 Kultura i turystyka,IIT,"Nabór dla projektów wynikających ze strategii rozwoju lokalnego kierowanego przez społeczność (LSR), opracowanych przez Lokalne Grupy Działania (LGD)","Turystyczne szlaki tematyczne i produkty turystyczne (odwołujące się do walorów historycznych, kulturowych, przyrodniczych i kulinarnych)",konkurencyjny,"Administracja publiczna, Organizacje społeczne i związki wyznaniowe, służby publiczne","Jednostki Samorządu Terytorialnego
+9,FEMA,FEMA.05.07 Kultura i turystyka,IIT,"Nabór dla projektów wynikających ze strategii rozwoju lokalnego kierowanego przez społeczność (LSR), opracowanych przez Lokalne Grupy Działania (LGD)","Turystyczne szlaki tematyczne i produkty turystyczne (odwołujące się do walorów historycznych, kulturowych, przyrodniczych i kulinarnych)",konkurencyjny,"Administracja publiczna, Organizacje społeczne i związki wyznaniowe, służby publiczne","Jednostki Samorządu Terytorialnego
 Instytucje kultury
 Instytucje sportu
 Jednostki organizacyjne działające w imieniu jednostek samorządu terytorialnego   
@@ -89,90 +113,76 @@ Kościoły i związki wyznaniowe
 Niepubliczne instytucje kultury i sportu
 Organizacje pozarządowe
 Pozarządowe organizacje turystyczne
-Lokalne Grupy Działania",Tak,Nie,2026,04,09,2026-04-09,2026-05-22,27445119.999999996,województwo mazowieckie,MJWPU,"EFRR.CP4.VI Wzmacnianie roli kultury i zrównoważonej turystyki w rozwoju gospodarczym, włączeniu społecznym i innowacjach społecznych",EFRR,"Termin ogłoszenia naboru: 26 marca 2026 r.
+Lokalne Grupy Działania",Tak,Nie,2026,04,09,2026-04-09,2026-06-01,27211520,województwo mazowieckie,MJWPU,"EFRR.CP4.VI Wzmacnianie roli kultury i zrównoważonej turystyki w rozwoju gospodarczym, włączeniu społecznym i innowacjach społecznych",EFRR,"Termin ogłoszenia naboru: 26 marca 2026 r.
 Termin rozpoczęcia naboru: 9 kwietnia 2026 r.
-Termin zakończenia naboru: 22 maja 2026 r.
+Termin zakończenia naboru: 1 czerwca 2026 r.
 
 projekty wynikające z wybranych strategii rozwoju lokalnego kierowanego przez społeczność (LSR) 
 
 Alokacja przeznaczona na nabór: 6 400 000 EUR, w tym: 
 dla RMR - 1 000 000 EUR
 dla RWS - 5 400 000 EUR",
-9,FEMA,"FEMA.06.03 Nowoczesne, regionalne służby zatrudnienia",Nie dotyczy,nie dotyczy,Wsparcie PSZ w świadczeniu usług w ramach sieci EURES,niekonkurencyjny,"Instytucje wspierające biznes, Organizacje społeczne i związki wyznaniowe, Partnerzy społeczni, Służby publiczne","Instytucje rynku pracy, Organizacje pozarządowe, Organizacje zrzeszające pracodawców, Związki zawodowe",Tak,Nie,2026,08,31,2026-08-31,2026-09-14,1588600.74,województwo mazowieckie (RMR),WUP w Warszawie,EFS+.CP4.B - Modernizacja instytucji i służb rynków pracy celem oceny i przewidywania zapotrzebowania na umiejętności oraz zapewnienia terminowej i odpowiednio dopasowanej pomocy i wsparcia na rzecz dostosowania umiejętności i kwalifikacji zawodowych do potrzeb rynku pracy oraz na rzecz przepływów i mobilności na rynku pracy,EFS+,"Termin ogłoszenia naboru: 17 sierpnia 2026 r.
+10,FEMA,"FEMA.06.03 Nowoczesne, regionalne służby zatrudnienia",Nie dotyczy,nie dotyczy,Wsparcie PSZ w świadczeniu usług w ramach sieci EURES,niekonkurencyjny,"Instytucje wspierające biznes, Organizacje społeczne i związki wyznaniowe, Partnerzy społeczni, Służby publiczne","Instytucje rynku pracy, Organizacje pozarządowe, Organizacje zrzeszające pracodawców, Związki zawodowe",Tak,Nie,2026,08,31,2026-08-31,2026-09-14,1575079.31,województwo mazowieckie (RMR),WUP w Warszawie,EFS+.CP4.B - Modernizacja instytucji i służb rynków pracy celem oceny i przewidywania zapotrzebowania na umiejętności oraz zapewnienia terminowej i odpowiednio dopasowanej pomocy i wsparcia na rzecz dostosowania umiejętności i kwalifikacji zawodowych do potrzeb rynku pracy oraz na rzecz przepływów i mobilności na rynku pracy,EFS+,"Termin ogłoszenia naboru: 17 sierpnia 2026 r.
 Termin rozpoczęcia naboru: 31 sierpnia 2026 r.
 Termin zakończenia naboru: 14 września 2026 r.",
-10,FEMA,"FEMA.06.03 Nowoczesne, regionalne służby zatrudnienia",Nie dotyczy,nie dotyczy,Wsparcie PSZ w świadczeniu usług w ramach sieci EURES,niekonkurencyjny,"Instytucje wspierające biznes, Organizacje społeczne i związki wyznaniowe, Partnerzy społeczni, Służby publiczne","Instytucje rynku pracy, Organizacje pozarządowe, Organizacje zrzeszające pracodawców, Związki zawodowe",Tak,Nie,2026,08,31,2026-08-31,2026-09-14,1103941.36,województwo mazowieckie (RWS),WUP w Warszawie,EFS+.CP4.B - Modernizacja instytucji i służb rynków pracy celem oceny i przewidywania zapotrzebowania na umiejętności oraz zapewnienia terminowej i odpowiednio dopasowanej pomocy i wsparcia na rzecz dostosowania umiejętności i kwalifikacji zawodowych do potrzeb rynku pracy oraz na rzecz przepływów i mobilności na rynku pracy,EFS+,"Termin ogłoszenia naboru: 17 sierpnia 2026 r.
+11,FEMA,"FEMA.06.03 Nowoczesne, regionalne służby zatrudnienia",Nie dotyczy,nie dotyczy,Wsparcie PSZ w świadczeniu usług w ramach sieci EURES,niekonkurencyjny,"Instytucje wspierające biznes, Organizacje społeczne i związki wyznaniowe, Partnerzy społeczni, Służby publiczne","Instytucje rynku pracy, Organizacje pozarządowe, Organizacje zrzeszające pracodawców, Związki zawodowe",Tak,Nie,2026,08,31,2026-08-31,2026-09-14,1094545.13,województwo mazowieckie (RWS),WUP w Warszawie,EFS+.CP4.B - Modernizacja instytucji i służb rynków pracy celem oceny i przewidywania zapotrzebowania na umiejętności oraz zapewnienia terminowej i odpowiednio dopasowanej pomocy i wsparcia na rzecz dostosowania umiejętności i kwalifikacji zawodowych do potrzeb rynku pracy oraz na rzecz przepływów i mobilności na rynku pracy,EFS+,"Termin ogłoszenia naboru: 17 sierpnia 2026 r.
 Termin rozpoczęcia naboru:  31 sierpnia 2026 r.
 Termin zakończenia naboru: 14 września 2026 r.",
-11,FEMA,FEMA.06.07 Kompleksowe wsparcie dla osób młodych,Nie dotyczy,Kompleksowe wsparcie dla osób młodych pozostających bez zatrudnienia,Kompleksowe wsparcie dla osób młodych pozostających bez zatrudnienia,konkurencyjny,Służby publiczne,Instytucje rynku pracy,Tak,Nie,2026,04,13,2026-04-13,11.05.2026,15336869.09,województwo mazowieckie (RMR),WUP w Warszawie,"EFS+.CP4.A - Poprawa dostępu do zatrudnienia i działań aktywizujących dla wszystkich osób poszukujących pracy, w szczególności osób młodych, zwłaszcza poprzez wdrażanie gwarancji dla młodzieży, długotrwale bezrobotnych oraz grup znajdujących się w niekorzystnej sytuacji na rynku pracy, jak również dla osób biernych zawodowo, a także poprzez promowanie samozatrudnienia i ekonomii społecznej",EFS+,"Termin ogłoszenia naboru: 30 marca 2026 r.
-Termin rozpoczęcia naboru: 13 kwietnia 2026 r.
-Termin zakończenia naboru: 11 maja 2026 r.",
-12,FEMA,FEMA.06.07 Kompleksowe wsparcie dla osób młodych,Nie dotyczy,Kompleksowe wsparcie dla osób młodych pozostających bez zatrudnienia,Kompleksowe wsparcie dla osób młodych pozostających bez zatrudnienia,konkurencyjny,Służby publiczne,Instytucje rynku pracy,Tak,Nie,2026,04,13,2026-04-13,11.05.2026,1816330.91,województwo mazowieckie (RWS),WUP w Warszawie,"EFS+.CP4.A - Poprawa dostępu do zatrudnienia i działań aktywizujących dla wszystkich osób poszukujących pracy, w szczególności osób młodych, zwłaszcza poprzez wdrażanie gwarancji dla młodzieży, długotrwale bezrobotnych oraz grup znajdujących się w niekorzystnej sytuacji na rynku pracy, jak również dla osób biernych zawodowo, a także poprzez promowanie samozatrudnienia i ekonomii społecznej",EFS+,"Termin ogłoszenia naboru: 30 marca 2026 r.
-Termin rozpoczęcia naboru: 13 kwietnia 2026 r.
-Termin zakończenia naboru: 11 maja 2026 r.",
-13,FEMA,FEMA.07.02 Wzmocnienie kompetencji uczniów,Nie dotyczy,Nie dotyczy,Wsparcie szkół prowadzących kształcenie zawodowe w ramach kompleksowych programów rozwojowych,konkurencyjny,"Instytucje nauki i edukacji, administracja publiczna, organizacje społeczne i związki wyznaniowe, przedsiębiorstwa","Administracja rządowa, Jednostki Samorządu Terytorialnego,  MŚP, Duże przedsiębiorstwa, Kościoły i związki wyznaniowe, Organizacje pozarządowe",Tak,Tak,2026,03,31,2026-03-31,2026-05-05,56529884.12,województwo mazowieckie,MJWPU,"EFS+.CP4.F Wspieranie równego dostępu do dobrej jakości, włączającego kształcenia i szkolenia oraz możliwości ich ukończenia, w szczególności w odniesieniu do grup w niekorzystnej sytuacji, od wczesnej edukacji i opieki nad dzieckiem przez ogólne i zawodowe kształcenie i szkolenie, po szkolnictwo wyższe, a także kształcenie i uczenie się dorosłych, w tym ułatwianie mobilności edukacyjnej dla wszystkich i dostępności dla osób z niepełnosprawnościami",EFS+,"Termin ogłoszenia naboru: 16 marca 2026
-Termin rozpoczęcia naboru:  31 marca 2026 r.
-Termin zakończenia naboru:  5 maja 2026 r.
-
-Podział planowanej alokacji UE wg obszarów:
-RWS = 9 000 000 EUR
-RMR =  1 400 000 EUR",
-14,FEMA,FEMA.07.02 Wzmocnienie kompetencji uczniów,Nie dotyczy,Nie dotyczy,Wsparcie edukacji włączającej,konkurencyjny,"Instytucje nauki i edukacji, administracja publiczna, organizacje społeczne i związki wyznaniowe, przedsiębiorstwa","Administracja rządowa, Jednostki Samorządu Terytorialnego,  MŚP, Duże przedsiębiorstwa, Kościoły i związki wyznaniowe, Organizacje pozarządowe",Tak,Tak,2026,03,24,2026-03-24,2026-04-28,66153333.82,województwo mazowieckie,MJWPU,"EFS+.CP4.F Wspieranie równego dostępu do dobrej jakości, włączającego kształcenia i szkolenia oraz możliwości ich ukończenia, w szczególności w odniesieniu do grup w niekorzystnej sytuacji, od wczesnej edukacji i opieki nad dzieckiem przez ogólne i zawodowe kształcenie i szkolenie, po szkolnictwo wyższe, a także kształcenie i uczenie się dorosłych, w tym ułatwianie mobilności edukacyjnej dla wszystkich i dostępności dla osób z niepełnosprawnościami",EFS+,"Termin ogłoszenia naboru: 9 marca 2026 r.
-Termin rozpoczęcia naboru: 24 marca 2026 r.
-Termin zakończenia naboru: 28 kwietnia 2026 r.
-
-Podział planowanej alokacji UE wg obszarów:
-RWS =  2 500 000 EUR
-RMR =  10 000 000 EUR",
-15,FEMA,FEMA.07.03 Wzmocnienie kompetencji uczniów w ZIT,ZIT,Nie dotyczy,Rozwój kompetencji kluczowych i umiejętności niezbędnych na rynku pracy uczniów szkół podstawowych i ponadpodstawowych ogólnokształcących,konkurencyjny,"Instytucje nauki i edukacji, administracja publiczna, organizacje społeczne i związki wyznaniowe, przedsiębiorstwa","Administracja rządowa, jednostki samorządu terytorialnego,  MŚP, duże przedsiębiorstwa, kościoły i związki wyznaniowe, organizacje pozarządowe",Tak,Tak,2026,05,13,2026-05-13,2026-06-17,6578252.2,województwo mazowieckie (RWS),MJWPU,"EFS+.CP4.F Wspieranie równego dostępu do dobrej jakości, włączającego kształcenia i szkolenia oraz możliwości ich ukończenia, w szczególności w odniesieniu do grup w niekorzystnej sytuacji, od wczesnej edukacji i opieki nad dzieckiem przez ogólne i zawodowe kształcenie i szkolenie, po szkolnictwo wyższe, a także kształcenie i uczenie się dorosłych, w tym ułatwianie mobilności edukacyjnej dla wszystkich i dostępności dla osób z niepełnosprawnościami",EFS+,"Termin ogłoszenia naboru: 28 kwietnia 2026 r.
+12,FEMA,FEMA.07.03 Wzmocnienie kompetencji uczniów w ZIT,ZIT,Nie dotyczy,Rozwój kompetencji kluczowych i umiejętności niezbędnych na rynku pracy uczniów szkół podstawowych i ponadpodstawowych ogólnokształcących,konkurencyjny,"Instytucje nauki i edukacji, administracja publiczna, organizacje społeczne i związki wyznaniowe, przedsiębiorstwa","Administracja rządowa, jednostki samorządu terytorialnego,  MŚP, duże przedsiębiorstwa, kościoły i związki wyznaniowe, organizacje pozarządowe",Tak,Tak,2026,05,13,2026-05-13,2026-06-17,6522261.2,województwo mazowieckie (RWS),MJWPU,"EFS+.CP4.F Wspieranie równego dostępu do dobrej jakości, włączającego kształcenia i szkolenia oraz możliwości ich ukończenia, w szczególności w odniesieniu do grup w niekorzystnej sytuacji, od wczesnej edukacji i opieki nad dzieckiem przez ogólne i zawodowe kształcenie i szkolenie, po szkolnictwo wyższe, a także kształcenie i uczenie się dorosłych, w tym ułatwianie mobilności edukacyjnej dla wszystkich i dostępności dla osób z niepełnosprawnościami",EFS+,"Termin ogłoszenia naboru: 28 kwietnia 2026 r.
 Termin rozpoczęcia naboru: 13 maja 2026 r.
 Termin zakończenia naboru: 17 czerwca 2026 r.
 
 Podział planowanej alokacji UE wg obszarów:
 RWS = 1 180 000  EUR",
-16,FEMA,FEMA.07.04 Edukacja osób dorosłych,Nie dotyczy,Nie dotyczy,"Wsparcie poprzez usługi rozwojowe, w tym w zakresie kompetencji cyfrowych, w ramach PSF dla osób dorosłych",konkurencyjny,"Administracja publiczna, instytucje nauki i edukacji, organizacje społeczne i związki wyznaniowe, przedsiębiorstwa","Jednostki samorządu terytorialnego, MŚP, duże przedsiębiorstwa, kościoły i związki wyznaniowe, organizacje pozarządowe",Tak,Tak,2026,05,27,2026-05-27,2026-06-30,69095612.13,województwo mazowieckie,WUP,"EFS+.CP4.G Wspieranie uczenia się przez całe życie, w szczególności elastycznych możliwości podnoszenia i zmiany kwalifikacji dla wszystkich, z uwzględnieniem umiejętności w zakresie przedsiębiorczości i kompetencji cyfrowych, lepsze przewidywanie zmian i zapotrzebowania na nowe umiejętności na podstawie potrzeb rynku pracy, ułatwianie zmian ścieżki kariery zawodowej i wspieranie mobilności zawodowej",EFS+,"Termin ogłoszenia naboru: 12 maja 2026 r.
+13,FEMA,FEMA.07.04 Edukacja osób dorosłych,Nie dotyczy,Nie dotyczy,"Wsparcie poprzez usługi rozwojowe, w tym w zakresie kompetencji cyfrowych, w ramach PSF dla osób dorosłych",konkurencyjny,"Administracja publiczna, instytucje nauki i edukacji, organizacje społeczne i związki wyznaniowe, przedsiębiorstwa","Jednostki samorządu terytorialnego, MŚP, duże przedsiębiorstwa, kościoły i związki wyznaniowe, organizacje pozarządowe",Tak,Tak,2026,05,27,2026-05-27,2026-06-30,68507502.66,województwo mazowieckie,WUP,"EFS+.CP4.G Wspieranie uczenia się przez całe życie, w szczególności elastycznych możliwości podnoszenia i zmiany kwalifikacji dla wszystkich, z uwzględnieniem umiejętności w zakresie przedsiębiorczości i kompetencji cyfrowych, lepsze przewidywanie zmian i zapotrzebowania na nowe umiejętności na podstawie potrzeb rynku pracy, ułatwianie zmian ścieżki kariery zawodowej i wspieranie mobilności zawodowej",EFS+,"Termin ogłoszenia naboru: 12 maja 2026 r.
 Termin rozpoczęcia naboru: 27 maja 2026 r.
 Termin zakończenia naboru: 30 czerwca 2026 r.
 
 Podział planowanej alokacji UE wg obszarów:
 RWS = 3 160 000 EUR
 RMR =  9 610 000 EUR",
-17,FEMA,FEMA.07.05 Edukacja osób dorosłych poza PSF,Nie dotyczy,Nie dotyczy,"Wsparcie dla osób o niskich umiejętnościach lub kompetencjach (w tym cyfrowych) realizowane poza systemem BUR i PSF, umożliwiające wdrażanie Upskilling pathways",konkurencyjny,"Instytucje nauki i edukacji, organizacje społeczne i związki wyznaniowe, przedsiębiorstwa","MŚP, duże przedsiębiorstwa, kościoły i związki wyznaniowe, organizacje pozarządowe",Nie,Tak,2026,07,13,2026-07-13,2026-08-17,29586747.47,województwo mazowieckie,MJWPU,"EFS+.CP4.G Wspieranie uczenia się przez całe życie, w szczególności elastycznych możliwości podnoszenia i zmiany kwalifikacji dla wszystkich, z uwzględnieniem umiejętności w zakresie przedsiębiorczości i kompetencji cyfrowych, lepsze przewidywanie zmian i zapotrzebowania na nowe umiejętności na podstawie potrzeb rynku pracy, ułatwianie zmian ścieżki kariery zawodowej i wspieranie mobilności zawodowej",EFS+,"Termin ogłoszenia naboru: 26 czerwca 2026 r.
+14,FEMA,FEMA.07.05 Edukacja osób dorosłych poza PSF,Nie dotyczy,Nie dotyczy,"Wsparcie dla osób o niskich umiejętnościach lub kompetencjach (w tym cyfrowych) realizowane poza systemem BUR i PSF, umożliwiające wdrażanie Upskilling pathways",konkurencyjny,"Instytucje nauki i edukacji, organizacje społeczne i związki wyznaniowe, przedsiębiorstwa","MŚP, duże przedsiębiorstwa, kościoły i związki wyznaniowe, organizacje pozarządowe",Nie,Tak,2026,07,13,2026-07-13,2026-08-17,29334918.94,województwo mazowieckie,MJWPU,"EFS+.CP4.G Wspieranie uczenia się przez całe życie, w szczególności elastycznych możliwości podnoszenia i zmiany kwalifikacji dla wszystkich, z uwzględnieniem umiejętności w zakresie przedsiębiorczości i kompetencji cyfrowych, lepsze przewidywanie zmian i zapotrzebowania na nowe umiejętności na podstawie potrzeb rynku pracy, ułatwianie zmian ścieżki kariery zawodowej i wspieranie mobilności zawodowej",EFS+,"Termin ogłoszenia naboru: 26 czerwca 2026 r.
 Termin rozpoczęcia naboru: 13 lipca 2026 r.
 Termin zakończenia naboru: 17 siepnia 2026 r.
 
 Podział planowanej alokacji UE wg obszarów:
 RWS = 1 100 000 EUR
 RMR = 4 500 000 EUR",
-18,FEMA,FEMA.08.02 Ekonomia społeczna,Nie dotyczy,Nie dotyczy,Wsparcie przedsiębiorstw społecznych i podmiotów ekonomii społecznej,konkurencyjny,"Administracja publiczna, Instytucje nauki i edukacji, Instytucje wspierające biznes, Organizacje społeczne i związki wyznaniowe, Partnerstwa, Partnerzy społeczni, Przedsiębiorstwa, Służby publiczne",OWES,Tak,Nie,2026,07,13,2026-07-13,2026-08-07,54291528.06,województwo mazowieckie,MJWPU,"EFS+.CP4.H Wspieranie aktywnego włączenia społecznego w celu promowania równości szans, niedyskryminacji i aktywnego uczestnictwa, oraz zwiększanie zdolności do zatrudnienia, w szczególności grup w niekorzystnej sytuacji",EFS+,"Termin ogłoszenia naboru: 26 czerwca 2026 r.
+15,FEMA,FEMA.08.01 Aktywizacja społeczna i zawodowa,Nie dotyczy,Nie dotyczy,Aktywizacja społeczna i zawodowa osób biernych zawodowo oraz zagrożonych ubóstwem lub wykluczeniem społecznym przy zastosowaniu usług aktywnej integracji,konkurencyjny,"Administracja publiczna, Instytucje nauki i edukacji, Instytucje wspierające biznes, Organizacje społeczne i związki wyznaniowe, Partnerstwa, Partnerzy społeczni, Przedsiębiorstwa, Służby publiczne","Administracja publiczna, Instytucje nauki i edukacji, Instytucje wspierające biznes, Organizacje społeczne i związki wyznaniowe, Partnerstwa, Partnerzy społeczni, Przedsiębiorstwa, Służby publiczne",Tak,Tak,,,,I kw. 2027,I kw. 2027,33739283.53,województwo mazowieckie,MJWPU,"EFS+.CP4.H Wspieranie aktywnego włączenia społecznego w celu promowania równości szans, niedyskryminacji i aktywnego uczestnictwa, oraz zwiększanie zdolności do zatrudnienia, w szczególności grup w niekorzystnej sytuacji",EFS+,"Termin ogłoszenia naboru: IV kw. 2026 r.
+Termin rozpoczęcia naboru: I kw. 2027 r.
+Termin zakończenia naboru: I kw. 2027 r.
+
+Podział planowanej alokacji UE wg obszarów:
+RWS = 3 000 000 EUR
+RMR = 2 000 000 EUR",
+16,FEMA,FEMA.08.02 Ekonomia społeczna,Nie dotyczy,Nie dotyczy,Wsparcie przedsiębiorstw społecznych i podmiotów ekonomii społecznej,konkurencyjny,"Administracja publiczna, Instytucje nauki i edukacji, Instytucje wspierające biznes, Organizacje społeczne i związki wyznaniowe, Partnerstwa, Partnerzy społeczni, Przedsiębiorstwa, Służby publiczne",OWES,Tak,Nie,2026,07,13,2026-07-13,2026-08-07,83410190.69,województwo mazowieckie,MJWPU,"EFS+.CP4.H Wspieranie aktywnego włączenia społecznego w celu promowania równości szans, niedyskryminacji i aktywnego uczestnictwa, oraz zwiększanie zdolności do zatrudnienia, w szczególności grup w niekorzystnej sytuacji",EFS+,"Termin ogłoszenia naboru: 26 czerwca 2026 r.
 Termin rozpoczęcia naboru: 13 lipca 2026 r.
 Termin zakończenia naboru: 7 sierpnia 2026 r.
 
 Podział planowanej alokacji UE wg obszarów:
-RWS = 4 349 811 EUR
-RMR =  3 933 034 EUR",
-19,FEMA,FEMA.08.05 Usługi społeczne i zdrowotne,Nie dotyczy,Nie dotyczy,Rozwój usług społecznych świadczonych w społeczności lokalnej,konkurencyjny,"Administracja publiczna, Instytucje nauki i edukacji, Instytucje ochrony zdrowia, Instytucje wspierające biznes, Organizacje społeczne i związki wyznaniowe, Partnerstwa, Partnerzy społeczni, Przedsiębiorstwa, Służby publiczne",nie dotyczy,Tak,Tak,2026,02,20,2026-02-20,2026-04-30,88120480.07,województwo mazowieckie,MJWPU,"EFS+.CP4.K Zwiększanie równego i szybkiego dostępu do dobrej jakości, trwałych i przystępnych cenowo usług, w tym usług, które wspierają dostęp do mieszkań oraz opieki skoncentrowanej na osobie, w tym opieki zdrowotnej; modernizacja systemów ochrony socjalnej, w tym wspieranie dostępu do ochrony socjalnej, ze szczególnym uwzględnieniem dzieci i grup w niekorzystnej sytuacji; poprawa dostępności, w tym dla osób z niepełnosprawnościami, skuteczności i odporności systemów ochrony zdrowia i usług opieki długoterminowej",EFS+,"Termin ogłoszenia naboru: 6 luty 2026 r.
-Termin rozpoczęcia naboru: 20 luty 2026 r.
-Termin zakończenia naboru: 30 kwietnia 2026 r.
-
-Podział planowanej alokacji UE wg obszarów:
-RWS =  1 796 074 EUR 
-(w tym oddzielna koperta dla projektów wynikających z LSR = 500 000 EUR)
-
-RMR = 15 332 664 EUR 
-(w tym oddzielna koperta dla projektów wynikających z LSR = 1 814 985 EUR)",
-20,FEMA,FEMA.08.06 Usługi społeczne na rzecz rodzin,Nie dotyczy,Nie dotyczy,Zwiększenie dostępności i skuteczności ochrony oraz wsparcia osób dotkniętych przemocą domową,konkurencyjny,"Administracja publiczna, Instytucje nauki i edukacji, Instytucje wspierające biznes, Organizacje społeczne i związki wyznaniowe, Partnerstwa, Partnerzy społeczni, Przedsiębiorstwa, Służby publiczne","Administracja publiczna, Instytucje nauki i edukacji, Instytucje wspierające biznes, Organizacje społeczne i związki wyznaniowe, Partnerstwa, Partnerzy społeczni, Przedsiębiorstwa, Służby publiczne",Tak,Tak,2026,07,08,2026-07-08,2026-08-04,16511216.26,województwo mazowieckie,MJWPU,"EFS+.CP4.L Wspieranie integracji społecznej osób zagrożonych ubóstwem lub wykluczeniem społecznym, w tym osób najbardziej potrzebujących i dzieci",EFS+,"Termin ogłoszenia naboru: 23 czerwca 2026 r.
+RWS = 6 890 643 EUR
+RMR = 5 838 513 EUR",
+17,FEMA,FEMA.08.06 Usługi społeczne na rzecz rodzin,Nie dotyczy,Nie dotyczy,Zwiększenie dostępności i skuteczności ochrony oraz wsparcia osób dotkniętych przemocą domową,konkurencyjny,"Administracja publiczna, Instytucje nauki i edukacji, Instytucje wspierające biznes, Organizacje społeczne i związki wyznaniowe, Partnerstwa, Partnerzy społeczni, Przedsiębiorstwa, Służby publiczne","Administracja publiczna, Instytucje nauki i edukacji, Instytucje wspierające biznes, Organizacje społeczne i związki wyznaniowe, Partnerstwa, Partnerzy społeczni, Przedsiębiorstwa, Służby publiczne",Tak,Tak,2026,07,08,2026-07-08,2026-08-04,16370680.53,województwo mazowieckie,MJWPU,"EFS+.CP4.L Wspieranie integracji społecznej osób zagrożonych ubóstwem lub wykluczeniem społecznym, w tym osób najbardziej potrzebujących i dzieci",EFS+,"Termin ogłoszenia naboru: 23 czerwca 2026 r.
 Termin rozpoczęcia naboru: 8 lipca 2026 r.
 Termin zakończenia naboru: 4 sierpnia 2026 r.
 
 Podział planowanej alokacji UE wg obszarów:
 RWS =     850 000 EUR
 RMR = 2 000 000 EUR",
-21,FEMA,FEMA.09.03 Mazowieckie Centrum Wsparcia Doradczego,Nie dotyczy,nie dotyczy,Mazowieckie Centrum Wsparcia Doradczego (MCWD),konkurencyjny,"Organizacje społeczne i związki wyznaniowe, Partnerstwa, Przedsiębiorstwa","Organizacje pozarządowe, Partnerstwa instytucji pozarządowych",Tak,Nie,,,,2026-05-28,2026-07-07,85765.99999999999,region Mazowiecki regionalny,MJWPU,"EFRR.CP5.I Wspieranie zintegrowanego i sprzyjającego włączeniu społecznemu rozwoju społecznego, gospodarczego i środowiskowego, kultury, dziedzictwa naturalnego, zrównoważonej turystyki i bezpieczeństwa na obszarach miejskich",EFRR,"Termin ogłoszenia naboru: 14 maja 2026 r.
+18,FEMA,FEMA.09.03 Mazowieckie Centrum Wsparcia Doradczego,IIT,Nie dotyczy,Mazowieckie Centrum Wsparcia Doradczego (MCWD),konkurencyjny,"Organizacje społeczne i związki wyznaniowe, Partnerstwa, Przedsiębiorstwa","Organizacje pozarządowe, Partnerstwa instytucji pozarządowych",Tak,Nie,,,,2026-05-28,2026-07-07,4251800,region Mazowiecki regionalny,MJWPU,"EFRR.CP5.I Wspieranie zintegrowanego i sprzyjającego włączeniu społecznemu rozwoju społecznego, gospodarczego i środowiskowego, kultury, dziedzictwa naturalnego, zrównoważonej turystyki i bezpieczeństwa na obszarach miejskich",EFRR,"Termin ogłoszenia naboru: 14 maja 2026 r.
 Termin rozpoczęcia naboru: 28 maja 2026 r.
-Termin zakończenia naboru: 7 lipca 2026 r.
- 
-Planowane zwiększenie alokacji na nabór do 1 000 000 EURO po przyjęciu zmian w SZOP",
+Termin zakończenia naboru: 7 lipca 2026 r.",
+19,FEMA,"FEMA.12.01
+STEP dla rozwoju biotechnologii",Nie dotyczy,Nie dotyczy,Rozwój terapii genowych,konkurencyjny,"Instytucje nauki i edukacji, Instytucje ochrony zdrowia, Partnerstwa","Konsorcja naukowe, Organizacje badawcze",Nie,Nie,,,,2026-07-13,2026-08-19,11100000,województwo mazowieckie,MJWPU,"EFRR.CP1.VI - Wspieranie inwestycji przyczyniających się do realizacji celów Platformy na rzecz Technologii Strategicznych dla Europy (STEP), o których mowa w art. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2024/795",EFRR,"Termin ogłoszenia naboru:  29 czerwca 2026 r.
+Termin rozpoczęcia naboru: 13 lipca 2026 r.
+Termin zakończenia naboru: 19 sierpnia 2026 r.",
+20,FEMA,FEMA.13.01 Gotowość cywilna mieszkańców,Nie dotyczy,Gotowość cywilna Mazowsza,Rozwój umiejętności i wzrost bezpieczeństwa mieszkańców Mazowsza,niekonkurencyjny,"Administracja publiczna, Instytucje nauki i edukacji, Przedsiębiorstwa",Administracja publiczna,Tak,Tak,,,,2026-07-20,2026-08-04,114354734.46,województwo mazowieckie,MJWPU,"EFS+.CP4.G Wspieranie uczenia się przez całe życie, w szczególności elastycznych możliwości podnoszenia i zmiany kwalifikacji dla wszystkich, z uwzględnieniem umiejętności w zakresie przedsiębiorczości i kompetencji cyfrowych, lepsze przewidywanie zmian i zapotrzebowania na nowe umiejętności na podstawie potrzeb rynku pracy, ułatwianie zmian ścieżki kariery zawodowej i wspieranie mobilności zawodowej",EFS+,"Termin ogłoszenia naboru:  3 lipca 2026 r.
+Termin rozpoczęcia naboru: 20 lipca 2026 r.
+Termin zakończenia naboru: 4 sierpnia 2026 r.
+
+Podział planowanej alokacji UE wg obszarów:
+RWS =   6 678 000 EUR
+RMR = 15 506 000 EUR",
 # arkusz: listy rozwijane - do ukrycia
 Program,Program,Działanie - kod i nazwa,Sposób wyboru,Cel szczegółowy - kod i nazwa,Fundusz - kod,Realizacja instrumentów terytorialnych,Dzień,Miesiąc,Rok,Wybór
 FEDS,FEDS,FEDS.01.01 Rozwój jednostek naukowych,konkurencyjny,EFRR.CP1.I Rozwijanie i wzmacnianie zdolności badawczych i innowacyjnych oraz wykorzystywanie zaawansowanych technologii,EFRR,IIT,01,01,2023,Tak

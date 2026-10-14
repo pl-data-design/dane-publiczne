@@ -1,0 +1,38 @@
+{
+  "dni_zbierania": [
+    1,
+    15
+  ],
+  "dni_wstecz_pierwsze_uruchomienie": 35,
+  "sejm_kadencja": null,
+  "regiony": {
+    "dolnośląskie": [
+      "https://funduszeuedolnoslaskie.pl/nabory",
+      "https://funduszeuedolnoslaskie.pl/harmonogram"
+    ],
+    "kujawsko-pomorskie": "https://funduszeue.kujawsko-pomorskie.pl/harmonogram-naborow/",
+    "lubelskie": "https://funduszeue.lubelskie.pl/nabory/harmonogram-naborow",
+    "lubuskie": [
+      "https://funduszeue.lubuskie.pl/nabory/"
+    ],
+    "mazowieckie": "https://funduszeuedlamazowsza.eu/dokumenty-list/harmonogram-naborow-wnioskow-o-dofinansowanie-w-trybie-konkurencyjnym-i-niekonkurencyjnym-dla-programu-fundusze-europejskie-dla-mazowsza-2021-2027-2/",
+    "małopolskie": "https://www.fundusze.malopolska.pl/harmonogram",
+    "opolskie": "https://funduszeue.opolskie.pl/harmonogram-naborow",
+    "podkarpackie": "https://funduszeue.podkarpackie.pl/harmonogram",
+    "podlaskie": [
+      "https://funduszeuepodlaskie.pl/nabory/"
+    ],
+    "pomorskie": [
+      "https://funduszeuepomorskie.pl/nabory",
+      "https://funduszeuepomorskie.pl/dokumenty/5122-harmonogram-naborow-wnioskow-o-dofinansowanie-w-ramach-programu-regionalnego"
+    ],
+    "warmińsko-mazurskie": "https://funduszeeuropejskie.warmia.mazury.pl/artykul/1183/aktualizacja-harmonogramu-naborow-wnioskow",
+    "wielkopolskie": "https://funduszeue.wielkopolskie.pl/nabory/harmonogram-naborow",
+    "zachodniopomorskie": "https://funduszeue.wzp.pl/dokumenty-list/harmonogram-naboru-wnioskow-programu-fundusze-europejskie-dla-pomorza-zachodniego-2021-2027/",
+    "łódzkie": "https://www.funduszeue.lodzkie.pl/dokumenty/harmonogram-naborow-wnioskow-dla-programu-fundusze-europejskie-dla-lodzkiego-2021-2027",
+    "śląskie": "https://funduszeue.slaskie.pl/harmonogram-naborow",
+    "świętokrzyskie": [
+      "https://funduszeueswietokrzyskie.pl/nabory"
+    ]
+  }
+}

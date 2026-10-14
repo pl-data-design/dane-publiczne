@@ -16,7 +16,10 @@
     "lubuskie": [
       "https://funduszeue.lubuskie.pl/nabory/"
     ],
-    "mazowieckie": "https://funduszeuedlamazowsza.eu/dokumenty-list/harmonogram-naborow-wnioskow-o-dofinansowanie-w-trybie-konkurencyjnym-i-niekonkurencyjnym-dla-programu-fundusze-europejskie-dla-mazowsza-2021-2027-2/",
+    "mazowieckie": [
+      "https://funduszeuedlamazowsza.eu/nabory/",
+      "https://funduszeuedlamazowsza.eu/dokumenty-list/harmonogram-naborow-wnioskow-o-dofinansowanie-w-trybie-konkurencyjnym-i-niekonkurencyjnym-dla-programu-fundusze-europejskie-dla-mazowsza-2021-2027-2/"
+    ],
     "małopolskie": "https://www.fundusze.malopolska.pl/harmonogram",
     "opolskie": "https://funduszeue.opolskie.pl/harmonogram-naborow",
     "podkarpackie": "https://funduszeue.podkarpackie.pl/harmonogram",

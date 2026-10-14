@@ -251,7 +251,7 @@ EXT_PRIORITY = {".xlsx": 3, ".xlsm": 3, ".xls": 2, ".pdf": 1}
 
 
 def dates_in(text):
-    """Daty z tekstu: najpierw dd.mm.rrrr i „15 września 2026”, potem rrrr-mm-dd. Odrzuca daty z przyszłości."""
+    """Daty z tekstu w kolejności występowania (dd.mm.rrrr, „15 września 2026”, rrrr-mm-dd). Odrzuca daty odległe w przyszłość."""
     text = urllib.parse.unquote(text or "")
     found, spans = [], []
     for rx, kind in ((D_MONTH_Y, "month"), (DMY, "dmy"), (DMY_COMPACT, "dmy"), (YMD, "ymd")):
@@ -270,8 +270,8 @@ def dates_in(text):
                 continue
             spans.append((m.start(), m.end()))
             if d <= dt.date.today() + dt.timedelta(days=60):
-                found.append(d)
-    return found
+                found.append((m.start(), d))
+    return [d for _, d in sorted(found, key=lambda x: x[0])]
 
 
 def guess_ext(href, label):
@@ -304,11 +304,21 @@ def content_date(text):
     return max(found) if found else None
 
 
-def choose_downloads(links, limit_dated=2, limit_undated=2):
-    """Dwa najnowsze pliki z datą oraz do dwóch plików bez daty (data ustalana potem z treści)."""
-    dated = [c for c in links if c["data"]][:limit_dated]
-    undated = sorted([c for c in links if not c["data"]], key=lambda c: c["kolejnosc"])[:limit_undated]
-    return dated + undated
+def choose_downloads(links, limit_dated=2):
+    """Do pobrania: dwa najnowsze pliki z datą, pierwszy plik bez daty oraz ostatni plik na stronie
+    (bieżąca wersja bywa pod listą poprzednich wersji). Ostateczna kolejność – wg daty z treści."""
+    picks = [c for c in links if c["data"]][:limit_dated]
+    undated = sorted([c for c in links if not c["data"]], key=lambda c: c["kolejnosc"])
+    if undated:
+        picks.append(undated[0])
+    if links:
+        picks.append(max(links, key=lambda c: c["kolejnosc"]))
+    out, seen = [], set()
+    for c in picks:
+        if c["url"] not in seen:
+            seen.add(c["url"])
+            out.append(c)
+    return out
 
 
 def find_schedule_files(raw, base):
@@ -327,7 +337,7 @@ def find_schedule_files(raw, base):
             continue
         if not (page_is_schedule or "harmonogram" in hay):
             continue
-        context = html_to_text(raw[max(0, m.start() - 1500):m.start()])
+        context = html_to_text(raw[max(0, m.start() - 4000):m.start()])[-600:]
         ctx_dates = dates_in(context)
         own_dates = dates_in(urllib.parse.unquote(full) + " " + label)
         best = max(own_dates) if own_dates else (ctx_dates[-1] if ctx_dates else None)
@@ -399,7 +409,7 @@ def collect_regions(prev):
         file_links.sort(key=rank_key, reverse=True)
         entry["pliki_kandydaci"] = [
             {"url": c["url"], "opis": c["opis"], "data": c["data"].isoformat() if c["data"] else None}
-            for c in file_links[:6]
+            for c in file_links[:12]
         ]
         # Dedup po adresie (kilka stron regionu może linkować ten sam plik).
         seen, links = set(), []
@@ -426,13 +436,16 @@ def collect_regions(prev):
                         item["zmiana"] = old.get(furl) != item["sha"]
                         cd = content_date(txt)
                         item["data_wg_tresci"] = cd.isoformat() if cd else None
+                        head = txt[:5000].lower()
+                        item["to_harmonogram"] = "harmonogram" in head or "nabor" in head
                 except Exception as e:  # noqa: BLE001
                     item["status"] = f"błąd: {str(e)[:150]}"
             eff = item.get("data_wg_tresci") or item["data_wg_strony"] or ""
-            fetched.append((eff, c["kolejnosc"], item, txt, out_ext))
-        # Najnowszy wg treści (a gdy jej brak – wg strony) jako plik1.
-        fetched.sort(key=lambda f: (f[0], -f[1]), reverse=True)
-        for i, (_, _, item, txt, out_ext) in enumerate(fetched, 1):
+            fetched.append((bool(item.get("to_harmonogram")), eff, c["kolejnosc"], item, txt, out_ext))
+        # plik1 = harmonogram najnowszy wg treści (a gdy jej brak – wg strony); pliki niebędące
+        # harmonogramem (np. regulamin podlinkowany na dole strony) zawsze na końcu.
+        fetched.sort(key=lambda f: (f[0], f[1], -f[2]), reverse=True)
+        for i, (_, _, _, item, txt, out_ext) in enumerate(fetched, 1):
             if txt is not None:
                 name = f"plik{i}{out_ext}"
                 (d / name).write_text(txt[:MAX_FILE_TEXT], encoding="utf-8")

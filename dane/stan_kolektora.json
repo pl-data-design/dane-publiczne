@@ -156,6 +156,10 @@
     {
      "url": "https://funduszeue.lubelskie.pl/assets/files/1019/cc/cc1bf8b608cbb169058a35dd8f578227b2e67022.harmonogram_fel_17_08_2026.xlsm",
      "sha": "d16404b788c84b3890ee956572148d056199c93a632b5e29167cf29549fd36a4"
+    },
+    {
+     "url": "https://funduszeue.lubelskie.pl/assets/files/1019/87/87d0ae30d140e333df0c5294984e7a66c3915efd.harmonogram_fel_20_10_205.xlsm",
+     "sha": "09d0feeff6fc532460ed62880458019a7fa34baa2145db62a9da9c4c3abcd0e9"
     }
    ]
   },
@@ -166,6 +170,14 @@
   "mazowieckie": {
    "sha": "34ea90dd1fe0d398345ed5a70780286a703d48070b95f1ed243511a65df14962",
    "pliki": [
+    {
+     "url": "https://funduszeuedlamazowsza.eu/wp-content/uploads/2024/04/Harmonogram-Naboru-Wnioskow-FEM-2021-2027-7.xlsm",
+     "sha": "1c7f4fce1a65403cf176901e0160d567ba631bcd5c1348f4ba76762f879ec9e2"
+    },
+    {
+     "url": "https://funduszeuedlamazowsza.eu/wp-content/uploads/2024/04/Harmonogram-Naboru-Wnioskow-FEM-2021-2027-MAJ-2026.xlsm",
+     "sha": "8257b0ec324fce2e6ec94d79cbb1098ff7698b945118aed0dbcbe20200e16520"
+    },
     {
      "url": "https://funduszeuedlamazowsza.eu/wp-content/uploads/2024/04/Harmonogram-Naboru-Wnioskow-FEM-2021-2027-7.04.2026-.xlsm",
      "sha": "88494bef560a53e86697b7336bf33877693a1f723a4ce39858489ed4a2881b2d"
@@ -190,7 +202,7 @@
    ]
   },
   "opolskie": {
-   "sha": "1851a1104b34e221e263cc1e38afd0164d0adf1460dc50033471a9be364ab283",
+   "sha": "6343d53b926de1d73698b551fa842ad4757066668ffc3440f7595ab23653a69e",
    "pliki": [
     {
      "url": "https://funduszeue.opolskie.pl/sites/default/files/2026-09/harmonogram-naborow-wnioskow-zwo-28.09.2026.xlsx",
@@ -199,6 +211,10 @@
     {
      "url": "https://funduszeue.opolskie.pl/sites/default/files/2026-09/harmonogram-naborow-wnioskow-zwo-30.06.2026.xlsx",
      "sha": "51e86e5361297a2a6d4828535c988798db9a03918e59f9fa6d3fd35f2032037b"
+    },
+    {
+     "url": "https://funduszeue.opolskie.pl/sites/default/files/2024-11/harmonogram-naboru-wnioskow-29-maj-2023.xlsx",
+     "sha": "78296d6cad355b05c0f0e0934dd1a39dd492fad190e4048952f7b45779fd1e49"
     }
    ]
   },
@@ -251,6 +267,14 @@
     {
      "url": "https://funduszeue.wzp.pl/wp-content/uploads/2026/06/Harmonogram-naborow-wnioskow-FEPZ-24-06-2026.xlsx",
      "sha": "30688ab6c48af028d95f937fdd4f7cf1232861d1e623f274e2f93fbb6a19f6b7"
+    },
+    {
+     "url": "https://funduszeue.wzp.pl/wp-content/uploads/2025/12/FEPZ-Harmonogram-naborow-wnioskow-20260324.xlsm",
+     "sha": "95946870a461d92523b9fbe4a848d5920c1a1ebe934c0cc26b24f7883593afa9"
+    },
+    {
+     "url": "https://funduszeue.wzp.pl/wp-content/uploads/2025/11/FEPZ-Harmonogram-naborow-wnioskow-20251216.xlsm",
+     "sha": "28d02f026e69a980da3797fa48fb3ab754309b39fddcd0806db4fa17d9bfd8d3"
     }
    ]
   },
@@ -271,12 +295,12 @@
    "sha": "bd6bf3b1e25e9ea34edb351004aabbd5d208b60f09cbdc426bda97a7bacf7e08",
    "pliki": [
     {
-     "url": "https://funduszeue.slaskie.pl/documents/20117/1331649/Harmonogram+naborow+wnioskow+o+dofinansowanie+FESL+v.+17.2.xlsm/9e3da803-d211-aa92-f6aa-4025c6d58983?t=1790585510221/",
-     "sha": "e92902a42955a8dd679e20ca6f55f13f1c0f7e27399fcbc6f47314b2ca1b5c7d"
-    },
-    {
      "url": "https://funduszeue.slaskie.pl/documents/20117/1331649/Harmonogram+naborow+wnioskow+o+dofinansowanie+FESL+v.17.2.pdf/9e03962b-05ce-9fae-7192-4de2caf81c5a?t=1790586236946",
      "sha": "b0749473832e649d6e4dc7d01c3b7e27f124c7d48eb371792e5118093c7fb8a3"
+    },
+    {
+     "url": "https://funduszeue.slaskie.pl/documents/20117/1331649/Harmonogram+naborow+wnioskow+o+dofinansowanie+FESL+v.+17.2.xlsm/9e3da803-d211-aa92-f6aa-4025c6d58983?t=1790585510221/",
+     "sha": "e92902a42955a8dd679e20ca6f55f13f1c0f7e27399fcbc6f47314b2ca1b5c7d"
     }
    ]
   },

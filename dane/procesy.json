@@ -273,6 +273,30 @@
     "decyzja": null
    },
    {
+    "etap": "Praca w komisjach nad stanowiskiem Senatu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-21",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "przyjęto poprawki"
+   },
+   {
+    "etap": "Ustawę przekazano Prezydentowi do podpisu",
+    "data": "2026-10-27",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
     "etap": "Uchwalono",
     "data": null,
     "poziom": 0,
@@ -497,6 +521,30 @@
     "decyzja": null
    },
    {
+    "etap": "Praca w komisjach nad stanowiskiem Senatu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-20",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "przyjęto część poprawek"
+   },
+   {
+    "etap": "Ustawę przekazano Prezydentowi do podpisu",
+    "data": "2026-10-23",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
     "etap": "Uchwalono",
     "data": null,
     "poziom": 0,
@@ -585,6 +633,30 @@
     "decyzja": null
    },
    {
+    "etap": "Praca w komisjach nad stanowiskiem Senatu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-21",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "przyjęto poprawkę"
+   },
+   {
+    "etap": "Ustawę przekazano Prezydentowi do podpisu",
+    "data": "2026-10-23",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
     "etap": "Uchwalono",
     "data": null,
     "poziom": 0,
@@ -598,11 +670,11 @@
   "tytul": "Rządowy projekt ustawy o przywróceniu prawa do niezależnego i bezstronnego sądu ustanowionego na podstawie prawa przez uregulowanie skutków uchwał Krajowej Rady Sądownictwa podjętych w latach 2018-2025",
   "opis": "projekt dotyczy przywrócenia prawa do niezależnego i bezstronnego sądu ustanowionego na podstawie prawa przez uregulowanie skutków uchwał w sprawach indywidualnych podjętych przez Krajową Radę Sądownictwa, działającą w okresie od 7 marca 2018 r. do 13 maja 2026 r. Skład Krajowej Rady Sądownictwa w ww. okresie został ukształtowany na podstawie ustawy z dnia 8 grudnia 2017 r. o zmianie ustawy o Krajowej Radzie Sądownictwa oraz niektórych innych ustaw",
   "przekazano_do_sejmu": "2025-12-29",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Skierowanie",
-   "data": "2026-10-08",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -670,6 +742,36 @@
     "etap": "Skierowanie",
     "data": "2026-10-08",
     "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po II czytaniu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-21",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
     "decyzja": null
    }
   ],
@@ -770,6 +872,30 @@
     "etap": "Skierowanie",
     "data": "2026-10-14",
     "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach nad stanowiskiem Senatu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "przyjęto poprawki"
+   },
+   {
+    "etap": "Ustawę przekazano Prezydentowi do podpisu",
+    "data": "2026-10-23",
+    "poziom": 0,
     "decyzja": null
    },
    {
@@ -1113,6 +1239,30 @@
     "decyzja": null
    },
    {
+    "etap": "Praca w komisjach nad stanowiskiem Senatu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-21",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "przyjęto poprawkę"
+   },
+   {
+    "etap": "Ustawę przekazano Prezydentowi do podpisu",
+    "data": "2026-10-23",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
     "etap": "Uchwalono",
     "data": null,
     "poziom": 0,
@@ -1126,11 +1276,11 @@
   "tytul": "Rządowy projekt ustawy o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw",
   "opis": "projekt dotyczy uregulowania na nowo dwóch obszarów dotyczących funkcjonowania sądownictwa powszechnego, odnoszących się do sytuacji prawnej sędziów: możliwości dalszego pełnienia służby przez sędziego po osiągnięciu wieku uprawniającego do przejścia w stan spoczynku oraz delegowań, w szczególności delegowań pozaorzeczniczych",
   "przekazano_do_sejmu": "2026-07-22",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Sprawozdanie komisji",
-   "data": "2026-10-13",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -1174,6 +1324,48 @@
     "etap": "Sprawozdanie komisji",
     "data": "2026-10-13",
     "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": "skierowano ponownie do komisji w celu przedstawienia sprawozdania"
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-21",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po II czytaniu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-21",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
     "decyzja": null
    }
   ],
@@ -1478,10 +1670,10 @@
   "przekazano_do_sejmu": "2026-07-30",
   "uchwalona": false,
   "ostatni_etap": {
-   "etap": "Sprawozdanie komisji",
-   "data": "2026-09-15",
-   "poziom": 1,
-   "decyzja": null
+   "etap": "II czytanie na posiedzeniu Sejmu",
+   "data": "2026-10-23",
+   "poziom": 0,
+   "decyzja": "niezwłocznie przystąpiono do III czytania"
   },
   "etapy": [
    {
@@ -1525,6 +1717,12 @@
     "data": "2026-09-15",
     "poziom": 1,
     "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-23",
+    "poziom": 0,
+    "decyzja": "niezwłocznie przystąpiono do III czytania"
    }
   ],
   "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=3000"
@@ -1738,11 +1936,11 @@
   "tytul": "Rządowy projekt ustawy o zmianie ustawy o służbie zagranicznej oraz ustawy o finansach publicznych",
   "opis": "projekt dotyczy przedłużenia obowiązujących przepisów dotyczących polskich placówek zagranicznych oraz usprawnienia ich funkcjonowania. Chodzi o uporządkowanie zasad pracy osób delegowanych przez inne resorty oraz wprowadzenie możliwości wspólnej obsługi finansowej placówek. Zmiany pozwolą ograniczyć obciążenia administracyjne, lepiej wykorzystać dostępne zasoby i zapewnić jednolite standardy obsługi finansowej.",
   "przekazano_do_sejmu": "2026-09-03",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Sprawozdanie komisji",
-   "data": "2026-10-07",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -1780,6 +1978,30 @@
     "etap": "Sprawozdanie komisji",
     "data": "2026-10-07",
     "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": "niezwłocznie przystąpiono do III czytania"
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
     "decyzja": null
    }
   ],
@@ -1836,11 +2058,11 @@
   "tytul": "Rządowy projekt ustawy o zmianie ustawy o postępowaniu w sprawach dotyczących pomocy publicznej oraz niektórych innych ustaw",
   "opis": "projekt dotyczy zniesienia obowiązku przedstawiania zaświadczeń lub oświadczeń dotyczących udzielonej pomocy de minimis i pomocy de minimis w rolnictwie lub rybołówstwie przez podmioty ubiegające się o taką pomoc, jaki obecnie ciąży na nich zgodnie z art. 37 ust. 1 i 2 ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej. Nowe przepisy realizują działania deregulacyjne rządu.",
   "przekazano_do_sejmu": "2026-09-10",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Sprawozdanie komisji",
-   "data": "2026-10-08",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -1884,6 +2106,30 @@
     "etap": "Sprawozdanie komisji",
     "data": "2026-10-08",
     "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "niezwłocznie przystąpiono do III czytania"
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
     "decyzja": null
    }
   ],
@@ -2094,11 +2340,11 @@
   "tytul": "Rządowy projekt ustawy o zmianie ustawy o ubezpieczeniach gwarantowanych przez Skarb Państwa",
   "opis": "projekt dotyczy rozszerzenia możliwości działania Korporacji Ubezpieczeń Kredytów Eksportowych (KUKE). Zmiany mają wzmocnić pozycję krajowych firm na rynkach zagranicznych, zwiększyć bezpieczeństwo Polski oraz wesprzeć transformację energetyczną i klimatyczną. KUKE będzie mogła m.in. ubezpieczać wybrane inwestycje związane z bezpieczeństwem i obronnością państwa, szerzej wspierać inwestycje energetyczne, przejmować część ryzyka w sytuacjach nadzwyczajnych oraz inwestować w zagraniczne instytucje",
   "przekazano_do_sejmu": "2026-09-14",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Sprawozdanie komisji",
-   "data": "2026-10-07",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -2142,6 +2388,30 @@
     "etap": "Sprawozdanie komisji",
     "data": "2026-10-07",
     "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": "niezwłocznie przystąpiono do III czytania"
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
     "decyzja": null
    }
   ],
@@ -2244,12 +2514,12 @@
   "tytul": "Rządowy projekt ustawy o ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Filipin o przekazywaniu osób skazanych, podpisanej w Warszawie dnia 8 czerwca 2026 r.",
   "opis": "projekt dotyczy uregulowania problematyki współpracy prawnej w sprawach karnych, w szczególności w zakresie przekazywania osób skazanych",
   "przekazano_do_sejmu": "2026-08-18",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "II czytanie na posiedzeniu Sejmu",
-   "data": "2026-10-09",
+   "etap": "Uchwalono",
+   "data": null,
    "poziom": 0,
-   "decyzja": "zakończono II czytanie"
+   "decyzja": null
   },
   "etapy": [
    {
@@ -2299,6 +2569,24 @@
     "data": "2026-10-09",
     "poziom": 0,
     "decyzja": "zakończono II czytanie"
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
+    "decyzja": null
    }
   ],
   "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=3013"
@@ -2347,6 +2635,12 @@
     "decyzja": null
    },
    {
+    "etap": "Skierowanie",
+    "data": "2026-09-16",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
     "etap": "Praca w komisjach po I czytaniu",
     "data": "2026-09-16",
     "poziom": 0,
@@ -2385,6 +2679,12 @@
    {
     "etap": "Ustawę przekazano Prezydentowi do podpisu",
     "data": "2026-09-24",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Prezydent podpisał ustawę",
+    "data": "2026-10-15",
     "poziom": 0,
     "decyzja": null
    },
@@ -2689,6 +2989,12 @@
     "decyzja": null
    },
    {
+    "etap": "Prezydent podpisał ustawę",
+    "data": "2026-10-15",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
     "etap": "Uchwalono",
     "data": null,
     "poziom": 0,
@@ -2906,12 +3212,12 @@
   "tytul": "Poselski projekt ustawy o zmianie ustawy o Krajowej Administracji Skarbowej",
   "opis": "projekt dotyczy przywrócenia (obowiązującego przed dniem 1 lipca 2022 r.) rozwiązania polegającego na tym, że informacje o rachunku bankowym są przekazywane organom Krajowej Administracji Skarbowej, na ich żądanie, wobec podejrzanego o popełnienie przestępstwa lub wykroczenia oraz przestępstwa skarbowego lub wykroczenia skarbowego, a nie każdej osobie fizycznej",
   "przekazano_do_sejmu": "2024-07-23",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "II czytanie na posiedzeniu Sejmu",
-   "data": "2026-10-09",
+   "etap": "Uchwalono",
+   "data": null,
    "poziom": 0,
-   "decyzja": "zakończono II czytanie"
+   "decyzja": null
   },
   "etapy": [
    {
@@ -2967,6 +3273,24 @@
     "data": "2026-10-09",
     "poziom": 0,
     "decyzja": "zakończono II czytanie"
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
+    "decyzja": null
    }
   ],
   "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=604"
@@ -3941,6 +4265,12 @@
     "decyzja": null
    },
    {
+    "etap": "Prezydent podpisał ustawę",
+    "data": "2026-10-15",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
     "etap": "Uchwalono",
     "data": null,
     "poziom": 0,
@@ -4066,11 +4396,11 @@
   "tytul": "Rządowy projekt ustawy o zmianie ustawy o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne oraz niektórych innych ustaw",
   "opis": "projekt dotyczy zaktualizowania i uproszczenia zasad i warunków udzielania poręczeń i gwarancji przez Skarb Państwa oraz Bank Gospodarstwa Krajowego",
   "przekazano_do_sejmu": "2026-09-14",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Sprawozdanie komisji",
-   "data": "2026-10-07",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -4109,6 +4439,30 @@
     "data": "2026-10-07",
     "poziom": 1,
     "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": "niezwłocznie przystąpiono do III czytania"
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
+    "decyzja": null
    }
   ],
   "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=3120"
@@ -4118,11 +4472,11 @@
   "tytul": "Rządowy projekt ustawy o zmianie ustawy o finansowym wsparciu niektórych przedsięwzięć mieszkaniowych oraz niektórych innych ustaw",
   "opis": "projekt dotyczy zmian w dwóch programach wsparcia mieszkalnictwa: programie budownictwa socjalnego i komunalnego (BSK) oraz programie TERMO, wspierającym termomodernizację, remonty i instalację odnawialnych źródeł energii w budynkach wielorodzinnych. Zmiany pozwolą wykorzystać wolne środki z programu Stop Smog na zwiększenie wsparcia dla wspólnot i spółdzielni mieszkaniowych, gmin oraz innych właścicieli i zarządców budynków, w ramach programu TERMO.",
   "przekazano_do_sejmu": "2026-09-16",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Sprawozdanie komisji",
-   "data": "2026-10-06",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -4166,6 +4520,30 @@
     "etap": "Sprawozdanie komisji",
     "data": "2026-10-06",
     "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": "niezwłocznie przystąpiono do III czytania"
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
     "decyzja": null
    }
   ],
@@ -4404,10 +4782,10 @@
   "tytul": "Przedstawiony przez Prezydium Sejmu projekt uchwały w sprawie ustanowienia dnia 14 lutego Dniem Przyjaźni i Współpracy Polsko-Bułgarskiej",
   "opis": "",
   "przekazano_do_sejmu": "2026-09-17",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Sprawozdanie komisji",
-   "data": "2026-10-07",
+   "etap": "Głosowanie",
+   "data": "2026-10-22",
    "poziom": 1,
    "decyzja": null
   },
@@ -4445,6 +4823,18 @@
    {
     "etap": "Sprawozdanie komisji",
     "data": "2026-10-07",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
     "poziom": 1,
     "decyzja": null
    }
@@ -4488,7 +4878,7 @@
  {
   "numer": "2884",
   "tytul": "Poselski projekt ustawy o zmianie ustawy o znakach Sił Zbrojnych Rzeczypospolitej Polskiej",
-  "opis": "projekt dotyczy zmiany zapisów dotyczących prawa posiadania sztandaru jednostki wojskowej. Nowelizacja zakłada, że prawo do posiadania sztandaru będzie przysługiwało jednostkom wojskowym Sił Zbrojnych Rzeczypospolitej Polskiej przeznaczonym do prowadzenia walki zbrojnej lub zabezpieczenia bojowego działań oraz szkołom wojskowym. Zgodnie z obowiązującym stanem prawnym prawo posiadania sztandaru przysługuje jednostkom liniowym wszystkich rodzajów sił zbrojnych oraz szkołom wojskowym. W rozumieniu ",
+  "opis": "projekt dotyczy rozwiązania problemu polegającego na braku możliwości posiadania sztandaru przez jednostki wojskowe Sił Zbrojnych Rzeczypospolitej Polskiej będące w trakcie formowania i nabywania zdolności bojowych. Jak wskazują Wnioskodawcy, z powodu odległych terminów zakończenia procesu formowania jednostki wojskowe nie mogą wykorzystać sztandaru wojskowego w procesach kształtowania wartości patriotycznych wśród wcielanych do jednostek żołnierzy i propagowania tradycji wojskowych wśród lokaln",
   "przekazano_do_sejmu": "2026-07-20",
   "uchwalona": false,
   "ostatni_etap": {
@@ -4544,10 +4934,10 @@
   "przekazano_do_sejmu": "2026-07-22",
   "uchwalona": false,
   "ostatni_etap": {
-   "etap": "Sprawozdanie komisji",
-   "data": "2026-09-17",
-   "poziom": 1,
-   "decyzja": null
+   "etap": "II czytanie na posiedzeniu Sejmu",
+   "data": "2026-10-22",
+   "poziom": 0,
+   "decyzja": "niezwłocznie przystąpiono do III czytania"
   },
   "etapy": [
    {
@@ -4591,6 +4981,12 @@
     "data": "2026-09-17",
     "poziom": 1,
     "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "niezwłocznie przystąpiono do III czytania"
    }
   ],
   "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2869"
@@ -4717,6 +5113,12 @@
     "decyzja": null
    },
    {
+    "etap": "Prezydent podpisał ustawę",
+    "data": "2026-10-28",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
     "etap": "Uchwalono",
     "data": null,
     "poziom": 0,
@@ -4835,6 +5237,12 @@
     "decyzja": null
    },
    {
+    "etap": "Prezydent podpisał ustawę",
+    "data": "2026-10-28",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
     "etap": "Uchwalono",
     "data": null,
     "poziom": 0,
@@ -4882,11 +5290,11 @@
   "tytul": "Rządowy projekt ustawy o zmianie ustawy o podatku od towarów i usług",
   "opis": "projekt dotyczy zlikwidowania preferencyjnego opodatkowania napojów będących bezalkoholowymi odpowiednikami napojów alkoholowych, jak również napojów energetyzujących; podwyższenia stawki VAT do 23% na określone napoje bezalkoholowe, które zawierają w swoim składzie co najmniej 20% soku owocowego, warzywnego lub owocowo-warzywnego",
   "przekazano_do_sejmu": "2026-09-23",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Głosowanie",
-   "data": "2026-10-08",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -4924,6 +5332,72 @@
     "etap": "Głosowanie",
     "data": "2026-10-08",
     "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po I czytaniu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-21",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": "skierowano ponownie do komisji w celu przedstawienia sprawozdania"
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-21",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po II czytaniu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Stanowisko Senatu",
+    "data": "2026-10-27",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Ustawę przekazano Prezydentowi do podpisu",
+    "data": "2026-10-28",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
     "decyzja": null
    }
   ],
@@ -4934,11 +5408,11 @@
   "tytul": "Rządowy projekt ustawy o zmianie ustawy o podatku akcyzowym oraz ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych",
   "opis": "projekt dotyczy podwyżki stawek akcyzy w 2027 r. na alkohol etylowy, piwo, wino, napoje fermentowane i wyroby pośrednie; przeznaczenia dodatkowych wpływów z akcyzy na zwiększenie dotacji podmiotowej dla Narodowego Funduszu Zdrowia, a tym samym na finansowanie świadczeń opieki zdrowotnej",
   "przekazano_do_sejmu": "2026-09-24",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Głosowanie",
-   "data": "2026-10-08",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -4977,6 +5451,72 @@
     "data": "2026-10-08",
     "poziom": 1,
     "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po I czytaniu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-21",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": "skierowano ponownie do komisji w celu przedstawienia sprawozdania"
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-21",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po II czytaniu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Stanowisko Senatu",
+    "data": "2026-10-27",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Ustawę przekazano Prezydentowi do podpisu",
+    "data": "2026-10-28",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
+    "decyzja": null
    }
   ],
   "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=3136"
@@ -4986,11 +5526,11 @@
   "tytul": "Rządowy projekt ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne",
   "opis": "projekt dotyczy ujednolicenia m.in. zasad opodatkowania świadczeń na zaspokojenie potrzeb rodziny, rozszerzenia zwolnienia podatkowego dla organizacji pozarządowych oraz doprecyzowania zasad obliczania daniny solidarnościowej",
   "przekazano_do_sejmu": "2026-09-24",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Skierowanie",
-   "data": "2026-10-06",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -5022,6 +5562,72 @@
     "etap": "Skierowanie",
     "data": "2026-10-06",
     "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po I czytaniu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-20",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": "skierowano ponownie do komisji w celu przedstawienia sprawozdania"
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-21",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po II czytaniu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Stanowisko Senatu",
+    "data": "2026-10-27",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-28",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
     "decyzja": null
    }
   ],
@@ -5035,7 +5641,7 @@
   "uchwalona": false,
   "ostatni_etap": {
    "etap": "Skierowanie",
-   "data": "2026-09-28",
+   "data": "2026-10-22",
    "poziom": 1,
    "decyzja": null
   },
@@ -5057,6 +5663,24 @@
     "data": "2026-09-28",
     "poziom": 1,
     "decyzja": null
+   },
+   {
+    "etap": "I czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
    }
   ],
   "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=3138"
@@ -5068,8 +5692,8 @@
   "przekazano_do_sejmu": "2026-09-23",
   "uchwalona": false,
   "ostatni_etap": {
-   "etap": "Skierowanie",
-   "data": "2026-09-28",
+   "etap": "Sprawozdanie komisji",
+   "data": "2026-10-21",
    "poziom": 1,
    "decyzja": null
   },
@@ -5095,6 +5719,24 @@
    {
     "etap": "Skierowanie",
     "data": "2026-09-28",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "I czytanie w komisjach",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po I czytaniu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-21",
     "poziom": 1,
     "decyzja": null
    }
@@ -5108,8 +5750,8 @@
   "przekazano_do_sejmu": "2026-09-23",
   "uchwalona": false,
   "ostatni_etap": {
-   "etap": "Skierowanie",
-   "data": "2026-09-28",
+   "etap": "Sprawozdanie komisji",
+   "data": "2026-10-21",
    "poziom": 1,
    "decyzja": null
   },
@@ -5137,6 +5779,24 @@
     "data": "2026-09-28",
     "poziom": 1,
     "decyzja": null
+   },
+   {
+    "etap": "I czytanie w komisjach",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po I czytaniu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-21",
+    "poziom": 1,
+    "decyzja": null
    }
   ],
   "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=3140"
@@ -5146,11 +5806,11 @@
   "tytul": "Rządowy projekt ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw",
   "opis": "projekt dotyczy wprowadzenia zasad powoływania Ośrodków Eksperckich Chorób Rzadkich; uszczelnienia systemu ubezpieczenia zdrowotnego w stosunku do osób w sytuacjach transgranicznych związanych ze stosowaniem unijnych przepisów o koordynacji systemów zabezpieczenia społecznego wobec braku zgodności przepisów w zakresie transgranicznej opieki zdrowotnej z wymogami prawa unijnego oraz występowania tzw. luk prawnych w zakresie uregulowań dotyczących pobierania składek na ubezpieczenie zdrowotne z em",
   "przekazano_do_sejmu": "2026-09-23",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Sprawozdanie komisji",
-   "data": "2026-10-08",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -5189,6 +5849,30 @@
     "data": "2026-10-08",
     "poziom": 1,
     "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": "niezwłocznie przystąpiono do III czytania"
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
+    "decyzja": null
    }
   ],
   "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=3141"
@@ -5198,11 +5882,11 @@
   "tytul": "Rządowy projekt ustawy zmieniającej ustawę o zmianie ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi",
   "opis": "projekt dotyczy zmiany daty końcowej obowiązywania wykazu świadczeniodawców zakwalifikowanych do systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki\nzdrowotnej, z dnia 30 czerwca 2027 r., na dzień 30 czerwca 2029 r",
   "przekazano_do_sejmu": "2026-09-23",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Sprawozdanie komisji",
-   "data": "2026-10-07",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -5240,6 +5924,48 @@
     "etap": "Sprawozdanie komisji",
     "data": "2026-10-07",
     "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": "skierowano ponownie do komisji w celu przedstawienia sprawozdania"
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-20",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po II czytaniu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-21",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
     "decyzja": null
    }
   ],
@@ -5250,11 +5976,11 @@
   "tytul": "Rządowy projekt ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi",
   "opis": "projekt dotyczy określenia sposobu finansowania świadczeń opieki zdrowotnej udzielanych: osadzonym w zakładach penitencjarnych w ramach programu polityki zdrowotnej leczenia wirusowego zapalenia wątroby typu C (HCV) i osobom nieposiadającym uprawnień z tytułu ubezpieczenia zdrowotnego w ramach programu polityki zdrowotnej leczenia antyretrowirusowego osób zakażonych HIV. Świadczenia te będą finansowane przez NFZ, niezależnie od tego, czy dana osoba posiada ubezpieczenie zdrowotne.",
   "przekazano_do_sejmu": "2026-09-23",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Sprawozdanie komisji",
-   "data": "2026-10-08",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -5292,6 +6018,30 @@
     "etap": "Sprawozdanie komisji",
     "data": "2026-10-08",
     "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": "niezwłocznie przystąpiono do III czytania"
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
     "decyzja": null
    }
   ],
@@ -5302,11 +6052,11 @@
   "tytul": "Rządowy projekt ustawy o zmianie ustawy o działalności leczniczej oraz ustawy o systemie informacji w ochronie zdrowia",
   "opis": "projekt dotyczy wprowadzenia większej jawności konkursów na udzielanie świadczeń zdrowotnych oraz zawieranych umów. Podmioty lecznicze będą publikować m.in. informacje o konkursach, ich wynikach oraz warunkach finansowych ofert. Dane będą udostępniane na stronach internetowych, jak i w centralnej aplikacji",
   "przekazano_do_sejmu": "2026-09-23",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Sprawozdanie komisji",
-   "data": "2026-10-07",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -5344,6 +6094,30 @@
     "etap": "Sprawozdanie komisji",
     "data": "2026-10-07",
     "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": "niezwłocznie przystąpiono do III czytania"
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
     "decyzja": null
    }
   ],
@@ -5412,11 +6186,11 @@
   "tytul": "Rządowy projekt ustawy o zmianie ustawy o Straży Granicznej oraz niektórych innych ustaw",
   "opis": "projekt dotyczy zapewnienia stosowania przepisów rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/1896; rozszerzenia w sposób istotny zakres działania Europejskiej Agencji Straży Granicznej i Przybrzeżnej, jako podmiotu, który ma dysponować znacznie większymi niż dotychczas zasobami kadrowymi i sprzętowymi. Rozporządzenie 2019/1896, w ramach rozszerzania mandatu Agencji Frontex, tworzy stałą służbę Europejskiej Straży Granicznej i Przybrzeżnej, aby skuteczniej wspierać państwa członkowsk",
   "przekazano_do_sejmu": "2026-09-23",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Sprawozdanie komisji",
-   "data": "2026-10-08",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -5455,6 +6229,60 @@
     "data": "2026-10-08",
     "poziom": 1,
     "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "skierowano ponownie do komisji w celu przedstawienia sprawozdania"
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po II czytaniu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Stanowisko Senatu",
+    "data": "2026-10-27",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-28",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
+    "decyzja": null
    }
   ],
   "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=3146"
@@ -5464,11 +6292,11 @@
   "tytul": "Rządowy projekt ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne",
   "opis": "projekt dotyczy podniesienia pierwszego progu podatkowego do 130 tys. zł oraz wprowadzenie 24% stawki dla dochodów powyżej 130 tys. zł do 150 tys. zł., trzecia, najwyższa stawka 32% będzie dotyczyć dochodów powyżej 150 tys. zł.",
   "przekazano_do_sejmu": "2026-09-29",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Skierowanie",
-   "data": "2026-10-06",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -5500,6 +6328,72 @@
     "etap": "Skierowanie",
     "data": "2026-10-06",
     "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po I czytaniu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-20",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": "skierowano ponownie do komisji w celu przedstawienia sprawozdania"
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-21",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po II czytaniu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Stanowisko Senatu",
+    "data": "2026-10-27",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-28",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
     "decyzja": null
    }
   ],
@@ -5510,11 +6404,11 @@
   "tytul": "Rządowy projekt ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych oraz ustawy o podatku dochodowym od osób prawnych",
   "opis": "projekt dotyczy uszczelnienia zasad opodatkowania fundacji rodzinnych i ograniczenia możliwości wykorzystywania preferencji podatkowych niezgodnie z celem, dla którego powstała ta instytucja. Nowe przepisy obejmą m.in. dochody zagraniczne, krótkoterminowy najem nieruchomości oraz sprzedaż majątku wniesionego do fundacji. Jednocześnie projekt rozszerza zwolnienie z PIT na świadczenia otrzymywane przez dzieci i wnuki rodzeństwa fundatora oraz dzieci i wnuki jego pasierba.",
   "przekazano_do_sejmu": "2026-09-29",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Skierowanie",
-   "data": "2026-10-06",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -5546,6 +6440,72 @@
     "etap": "Skierowanie",
     "data": "2026-10-06",
     "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po I czytaniu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-20",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": "skierowano ponownie do komisji w celu przedstawienia sprawozdania"
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-21",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po II czytaniu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Stanowisko Senatu",
+    "data": "2026-10-27",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-28",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
     "decyzja": null
    }
   ],
@@ -5556,11 +6516,11 @@
   "tytul": "Rządowy projekt ustawy o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz ustawy o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne",
   "opis": "projekt dotyczy m.in. przedłużenia na kolejne 10 lat ulgi podatkowej na robotyzację, zwiększenia o 100% ulgi dla honorowych dawców krwi oraz likwidacji ulgi na internet.",
   "przekazano_do_sejmu": "2026-09-29",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Skierowanie",
-   "data": "2026-10-06",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -5592,6 +6552,66 @@
     "etap": "Skierowanie",
     "data": "2026-10-06",
     "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po I czytaniu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-20",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": "skierowano ponownie do komisji w celu przedstawienia sprawozdania"
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-21",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po II czytaniu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Stanowisko Senatu",
+    "data": "2026-10-27",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Ustawę przekazano Prezydentowi do podpisu",
+    "data": "2026-10-28",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
     "decyzja": null
    }
   ],
@@ -5654,11 +6674,11 @@
   "tytul": "Przedstawiony przez Prezydenta Rzeczypospolitej Polskiej projekt ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi",
   "opis": "projekt dotyczy zapewnienia komplementarności finansowania interwencji medycznych (w tym świadczeń zdrowotnych)  zaplanowanych w ramach programu polityki zdrowotnej oraz doprecyzowania przepisów ustawy o zapobieganiu i zwalczaniu zakażeń i chorób zakaźnych u ludzi w zakresie finansowania świadczeń opieki zdrowotnej niezbędnych do realizacji programu polityki zdrowotnej leczenia antyretrowirusowego osób żyjących z wirusem HIV",
   "przekazano_do_sejmu": "2026-06-11",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Sprawozdanie komisji",
-   "data": "2026-10-08",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -5696,6 +6716,30 @@
     "etap": "Sprawozdanie komisji",
     "data": "2026-10-08",
     "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": "niezwłocznie przystąpiono do III czytania"
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
     "decyzja": null
    }
   ],
@@ -5758,11 +6802,11 @@
   "tytul": "Rządowy projekt ustawy o zmianie ustawy o zdrowiu publicznym",
   "opis": "projekt dotyczy zwiększenia skuteczności poboru opłaty od środków spożywczych (tzw. opłaty cukrowej) przez rozszerzenie katalogu napojów objętych opłatą oraz aktualizację jej wysokości. Projektowane zmiany umożliwią również zwiększenie przychodów Narodowego Funduszu Zdrowia, które zostaną przeznaczone na działania edukacyjne i profilaktyczne oraz na finansowanie świadczeń opieki zdrowotnej, w szczególności w zakresie leczenia chorób związanych z nieprawidłowymi\nnawykami żywieniowymi, takich jak ",
   "przekazano_do_sejmu": "2026-09-29",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Głosowanie",
-   "data": "2026-10-08",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -5806,6 +6850,84 @@
     "etap": "Głosowanie",
     "data": "2026-10-08",
     "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po I czytaniu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-20",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": "skierowano ponownie do komisji w celu przedstawienia sprawozdania"
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-21",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-21",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po II czytaniu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Stanowisko Senatu",
+    "data": "2026-10-27",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-28",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-28",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
     "decyzja": null
    }
   ],
@@ -5862,11 +6984,11 @@
   "tytul": "Rządowy projekt ustawy o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw",
   "opis": "projekt dotyczy uporządkowania zasad zatrudniania i wynagradzania personelu medycznego przez m.in.: wprowadzenie maksymalnych stawek godzinowych i miesięcznych wynagrodzeń za świadczenia finansowane przez NFZ, ograniczenie możliwości zawierania umów za pośrednictwem spółek czy spółdzielni lekarskich,\nzakaz uzależniania wynagrodzenia pracownika medycznego od wysokości kontraktu placówki z NFZ. Projekt przewiduje też wzmocnienie kontroli NFZ oraz większe kompetencje Agencji Ochrony Technologii Med",
   "przekazano_do_sejmu": "2026-09-28",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Sprawozdanie komisji",
-   "data": "2026-10-07",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -5904,6 +7026,48 @@
     "etap": "Sprawozdanie komisji",
     "data": "2026-10-07",
     "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": "skierowano ponownie do komisji w celu przedstawienia sprawozdania"
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-20",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po II czytaniu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-21",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
     "decyzja": null
    }
   ],
@@ -5948,11 +7112,11 @@
   "tytul": "Rządowy projekt ustawy o wsparciu przedsiębiorców sektorów energochłonnych z tytułu ponoszenia kosztów energii elektrycznej",
   "opis": "projekt dotyczy wprowadzenia programu wsparcia dla przedsiębiorstw energochłonnych, który pozwoli czasowo obniżyć koszty energii elektrycznej. Firmy korzystające z pomocy będą jednocześnie zobowiązane do inwestowania w zieloną transformację, czyli m.in. w odnawialne źródła energii, magazyny energii, poprawę efektywności energetycznej i elektryfikację. Źródłem finansowania mają być m.in. dodatkowe wpływy z czasowego podwyższenia podatku CIT dla największych firm z wybranych segmentów sektora ener",
   "przekazano_do_sejmu": "2026-09-30",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Skierowanie",
-   "data": "2026-10-08",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -5991,6 +7155,84 @@
     "data": "2026-10-08",
     "poziom": 1,
     "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po I czytaniu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-20",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "skierowano ponownie do komisji w celu przedstawienia sprawozdania"
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po II czytaniu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Stanowisko Senatu",
+    "data": "2026-10-27",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-28",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-28",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
+    "decyzja": null
    }
   ],
   "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=3159"
@@ -6000,11 +7242,11 @@
   "tytul": "Rządowy projekt ustawy o zmianie ustawy o wspieraniu nowych inwestycji oraz niektórych innych ustaw",
   "opis": "projekt dotyczy zmian w zasadach działania Polskiej Strefy Inwestycji (PSI): zmiana zasad określania dochodu, który może być objęty zwolnieniem w ramach PSI; decyzja o wsparciu będzie obowiązywać od 15 do maksymalnie 20 lat, w zależności od obszaru kraju; przy większych inwestycjach projekt przewiduje opiniowanie decyzji o wsparciu przez Szefa Krajowej Administracji Skarbowe; wnioski o wsparcie w ramach systemu rozpatrywane będą za pośrednictwem Elektronicznej Platformy Polskiej Strefy Inwestycj",
   "przekazano_do_sejmu": "2026-10-01",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Skierowanie",
-   "data": "2026-10-08",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -6036,6 +7278,72 @@
     "etap": "Skierowanie",
     "data": "2026-10-08",
     "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po I czytaniu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-21",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "skierowano ponownie do komisji w celu przedstawienia sprawozdania"
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po II czytaniu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Stanowisko Senatu",
+    "data": "2026-10-27",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Ustawę przekazano Prezydentowi do podpisu",
+    "data": "2026-10-28",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
     "decyzja": null
    }
   ],
@@ -6198,8 +7506,8 @@
   "przekazano_do_sejmu": "2026-08-12",
   "uchwalona": false,
   "ostatni_etap": {
-   "etap": "Sprawozdanie komisji",
-   "data": "2026-10-07",
+   "etap": "Skierowanie",
+   "data": "2026-10-23",
    "poziom": 1,
    "decyzja": null
   },
@@ -6237,6 +7545,18 @@
    {
     "etap": "Sprawozdanie komisji",
     "data": "2026-10-07",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-23",
+    "poziom": 0,
+    "decyzja": "skierowano ponownie do komisji w celu przedstawienia sprawozdania"
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-23",
     "poziom": 1,
     "decyzja": null
    }
@@ -6294,11 +7614,11 @@
   "tytul": "Rządowy projekt ustawy o zmianie ustawy - Kodeks karny wykonawczy",
   "opis": "projekt dotyczy rozszerzenia możliwości odbywania kary pozbawienia wolności w systemie dozoru elektronicznego (SDE)",
   "przekazano_do_sejmu": "2026-08-07",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Sprawozdanie komisji",
-   "data": "2026-10-06",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -6343,6 +7663,30 @@
     "data": "2026-10-06",
     "poziom": 1,
     "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "niezwłocznie przystąpiono do III czytania"
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
+    "decyzja": null
    }
   ],
   "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=3009"
@@ -6352,11 +7696,11 @@
   "tytul": "Rządowy projekt ustawy o zmianie ustawy - Kodeks postępowania karnego",
   "opis": "projekt dotyczy wprowadzenia prostszych i bardziej przejrzystych pouczeń dla świadków, pokrzywdzonych i oskarżonych oraz rozszerzenia informacji o przysługujących im prawach",
   "przekazano_do_sejmu": "2026-07-30",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Sprawozdanie komisji",
-   "data": "2026-10-06",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -6401,6 +7745,30 @@
     "data": "2026-10-06",
     "poziom": 1,
     "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "niezwłocznie przystąpiono do III czytania"
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
+    "decyzja": null
    }
   ],
   "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=2997"
@@ -6412,9 +7780,9 @@
   "przekazano_do_sejmu": "2026-09-17",
   "uchwalona": false,
   "ostatni_etap": {
-   "etap": "Opinia organizacji samorządowej",
-   "data": "2026-09-24",
-   "poziom": 0,
+   "etap": "Skierowanie",
+   "data": "2026-10-20",
+   "poziom": 1,
    "decyzja": null
   },
   "etapy": [
@@ -6428,6 +7796,18 @@
     "etap": "Opinia organizacji samorządowej",
     "data": "2026-09-24",
     "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Skierowano do I czytania w komisjach",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-20",
+    "poziom": 1,
     "decyzja": null
    }
   ],
@@ -6496,9 +7876,9 @@
   "przekazano_do_sejmu": "2026-09-04",
   "uchwalona": false,
   "ostatni_etap": {
-   "etap": "Opinia organizacji samorządowej",
-   "data": "2026-09-14",
-   "poziom": 0,
+   "etap": "Skierowanie",
+   "data": "2026-10-20",
+   "poziom": 1,
    "decyzja": null
   },
   "etapy": [
@@ -6513,6 +7893,24 @@
     "data": "2026-09-14",
     "poziom": 0,
     "decyzja": null
+   },
+   {
+    "etap": "Skierowano do I czytania w komisjach",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-20",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-20",
+    "poziom": 1,
+    "decyzja": null
    }
   ],
   "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=3175"
@@ -6524,9 +7922,9 @@
   "przekazano_do_sejmu": "2026-06-19",
   "uchwalona": false,
   "ostatni_etap": {
-   "etap": "Skierowanie",
-   "data": "2026-10-06",
-   "poziom": 1,
+   "etap": "I czytanie w komisjach",
+   "data": "2026-10-23",
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -6547,99 +7945,15 @@
     "data": "2026-10-06",
     "poziom": 1,
     "decyzja": null
-   }
-  ],
-  "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=3176"
- },
- {
-  "numer": "3177",
-  "tytul": "Poselski projekt ustawy o zmianie ustawy o systemie ubezpieczeń społecznych",
-  "opis": "projekt dotyczy zwolnienia osób mających ustalone prawo do emerytury i podlegających obowiązkowo ubezpieczeniom emerytalnemu i rentowym z opłacania należnych składek na ubezpieczenia rentowe w części finansowanej przez ubezpieczonych w wysokości 1,5% podstawy wymiaru",
-  "przekazano_do_sejmu": "2026-09-18",
-  "uchwalona": false,
-  "ostatni_etap": {
-   "etap": "Projekt wpłynął do Sejmu",
-   "data": "2026-09-18",
-   "poziom": 0,
-   "decyzja": null
-  },
-  "etapy": [
+   },
    {
-    "etap": "Projekt wpłynął do Sejmu",
-    "data": "2026-09-18",
+    "etap": "I czytanie w komisjach",
+    "data": "2026-10-23",
     "poziom": 0,
     "decyzja": null
    }
   ],
-  "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=3177"
- },
- {
-  "numer": "3178",
-  "tytul": "Poselski projekt uchwały w sprawie upamiętnienia 100. rocznicy urodzin profesor Marii Janion",
-  "opis": "",
-  "przekazano_do_sejmu": "2026-09-30",
-  "uchwalona": false,
-  "ostatni_etap": {
-   "etap": "Skierowanie",
-   "data": "2026-10-06",
-   "poziom": 1,
-   "decyzja": null
-  },
-  "etapy": [
-   {
-    "etap": "Projekt wpłynął do Sejmu",
-    "data": "2026-09-30",
-    "poziom": 0,
-    "decyzja": null
-   },
-   {
-    "etap": "Skierowano do I czytania w komisjach",
-    "data": "2026-10-06",
-    "poziom": 0,
-    "decyzja": null
-   },
-   {
-    "etap": "Skierowanie",
-    "data": "2026-10-06",
-    "poziom": 1,
-    "decyzja": null
-   }
-  ],
-  "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=3178"
- },
- {
-  "numer": "3179",
-  "tytul": "Rządowy dokument - Przegląd ustawy o fundacji rodzinnej",
-  "opis": "",
-  "przekazano_do_sejmu": "2026-09-30",
-  "uchwalona": false,
-  "ostatni_etap": {
-   "etap": "Skierowanie",
-   "data": "2026-10-06",
-   "poziom": 1,
-   "decyzja": null
-  },
-  "etapy": [
-   {
-    "etap": "Projekt wpłynął do Sejmu",
-    "data": "2026-10-01",
-    "poziom": 0,
-    "decyzja": null
-   },
-   {
-    "etap": "Skierowano do I czytania w komisjach",
-    "data": "2026-10-06",
-    "poziom": 0,
-    "decyzja": null
-   },
-   {
-    "etap": "Skierowanie",
-    "data": "2026-10-06",
-    "poziom": 1,
-    "decyzja": null
-   }
-  ],
-  "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=3179"
+  "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=3176"
  },
  {
   "numer": "3180",
@@ -6835,6 +8149,30 @@
     "decyzja": null
    },
    {
+    "etap": "Praca w komisjach nad stanowiskiem Senatu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-20",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "przyjęto poprawkę"
+   },
+   {
+    "etap": "Ustawę przekazano Prezydentowi do podpisu",
+    "data": "2026-10-23",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
     "etap": "Uchwalono",
     "data": null,
     "poziom": 0,
@@ -6848,9 +8186,9 @@
   "tytul": "Wniosek oskarżycieli subsydiarnych Janusza Hirscha oraz Piotra Walkusza, reprezentowanych przez radcę prawnego Jakuba Wysockiego, z dnia 10 października 2025 r. o wyrażenie zgody przez Sejm na pociągnięcie do odpowiedzialności karnej posła Stanisława Józefa Lamczyka",
   "opis": "",
   "przekazano_do_sejmu": "2025-10-10",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Projekt wpłynął do Sejmu",
+   "etap": "Rozpatrywanie na forum Sejmu",
    "data": null,
    "poziom": 0,
    "decyzja": null
@@ -6882,6 +8220,12 @@
    },
    {
     "etap": "Projekt wpłynął do Sejmu",
+    "data": null,
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Rozpatrywanie na forum Sejmu",
     "data": null,
     "poziom": 0,
     "decyzja": null
@@ -6954,9 +8298,9 @@
   "przekazano_do_sejmu": "2026-10-02",
   "uchwalona": false,
   "ostatni_etap": {
-   "etap": "Skierowanie",
-   "data": "2026-10-07",
-   "poziom": 1,
+   "etap": "Rozpatrywanie na forum Sejmu",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -6976,6 +8320,18 @@
     "etap": "Skierowanie",
     "data": "2026-10-07",
     "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Rozpatrywanie w komisjach",
+    "data": null,
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Rozpatrywanie na forum Sejmu",
+    "data": null,
+    "poziom": 0,
     "decyzja": null
    }
   ],
@@ -7032,11 +8388,11 @@
   "tytul": "Poselski projekt ustawy o zmianie ustawy - Kodeks karny",
   "opis": "projekt dotyczy zgodnie z uzasadnieniem - częściowej dekryminalizacji przerywania za zgodą kobiety jej ciąży z naruszeniem przepisów ustawy o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży oraz dekryminalizacji pomocy w samodzielnej aborcji",
   "przekazano_do_sejmu": "2024-07-26",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Sprawozdanie komisji",
-   "data": "2026-10-08",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -7087,6 +8443,48 @@
     "data": "2026-10-08",
     "poziom": 1,
     "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": "skierowano ponownie do komisji w celu przedstawienia sprawozdania"
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-20",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po II czytaniu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-20",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-20",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
+    "decyzja": null
    }
   ],
   "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=611"
@@ -7096,11 +8494,11 @@
   "tytul": "Poselski projekt ustawy o zmianie ustawy o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży",
   "opis": "projekt dotyczy zgodnie z uzasadnieniem - realizacji zobowiązania programowego dotyczącego odwrócenia skutków orzeczenia Trybunału Konstytucyjnego z 2020 r. w sprawie dopuszczalności przerywania ciąży",
   "przekazano_do_sejmu": "2024-02-23",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Sprawozdanie komisji",
-   "data": "2026-10-08",
-   "poziom": 1,
+   "etap": "Uchwalono",
+   "data": null,
+   "poziom": 0,
    "decyzja": null
   },
   "etapy": [
@@ -7157,6 +8555,48 @@
     "data": "2026-10-08",
     "poziom": 1,
     "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": "skierowano ponownie do komisji w celu przedstawienia sprawozdania"
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-20",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po II czytaniu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-20",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "III czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-20",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Uchwalono",
+    "data": null,
+    "poziom": 0,
+    "decyzja": null
    }
   ],
   "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=223"
@@ -7168,9 +8608,9 @@
   "przekazano_do_sejmu": "2026-09-18",
   "uchwalona": false,
   "ostatni_etap": {
-   "etap": "Projekt wpłynął do Sejmu",
-   "data": "2026-09-18",
-   "poziom": 0,
+   "etap": "Skierowanie",
+   "data": "2026-10-22",
+   "poziom": 1,
    "decyzja": null
   },
   "etapy": [
@@ -7178,6 +8618,18 @@
     "etap": "Projekt wpłynął do Sejmu",
     "data": "2026-09-18",
     "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Skierowano do I czytania w komisjach",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
     "decyzja": null
    }
   ],
@@ -7190,9 +8642,9 @@
   "przekazano_do_sejmu": "2026-09-18",
   "uchwalona": false,
   "ostatni_etap": {
-   "etap": "Projekt wpłynął do Sejmu",
-   "data": "2026-09-18",
-   "poziom": 0,
+   "etap": "Skierowanie",
+   "data": "2026-10-22",
+   "poziom": 1,
    "decyzja": null
   },
   "etapy": [
@@ -7200,6 +8652,18 @@
     "etap": "Projekt wpłynął do Sejmu",
     "data": "2026-09-18",
     "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Skierowano do I czytania w komisjach",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
     "decyzja": null
    }
   ],
@@ -7212,9 +8676,9 @@
   "przekazano_do_sejmu": "2026-09-22",
   "uchwalona": false,
   "ostatni_etap": {
-   "etap": "Opinia organizacji samorządowej",
-   "data": "2026-09-30",
-   "poziom": 0,
+   "etap": "Skierowanie",
+   "data": "2026-10-22",
+   "poziom": 1,
    "decyzja": null
   },
   "etapy": [
@@ -7229,6 +8693,24 @@
     "data": "2026-09-30",
     "poziom": 0,
     "decyzja": null
+   },
+   {
+    "etap": "Skierowano do I czytania w komisjach",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Skierowanie",
+    "data": "2026-10-22",
+    "poziom": 1,
+    "decyzja": null
    }
   ],
   "link": "https://www.sejm.gov.pl/Sejm10.nsf/PrzebiegProc.xsp?nr=3206"
@@ -7238,10 +8720,10 @@
   "tytul": "Poselski projekt uchwały w sprawie upamiętnienia księdza Stanisława Stojałowskiego",
   "opis": "",
   "przekazano_do_sejmu": "2026-10-06",
-  "uchwalona": false,
+  "uchwalona": true,
   "ostatni_etap": {
-   "etap": "Skierowanie",
-   "data": "2026-10-08",
+   "etap": "Głosowanie",
+   "data": "2026-10-22",
    "poziom": 1,
    "decyzja": null
   },
@@ -7261,6 +8743,36 @@
    {
     "etap": "Skierowanie",
     "data": "2026-10-08",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "I czytanie w komisjach",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach po I czytaniu",
+    "data": "2026-10-21",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-21",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "II czytanie na posiedzeniu Sejmu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "uchwalono"
+   },
+   {
+    "etap": "Głosowanie",
+    "data": "2026-10-22",
     "poziom": 1,
     "decyzja": null
    }
@@ -7365,6 +8877,30 @@
     "decyzja": null
    },
    {
+    "etap": "Praca w komisjach nad stanowiskiem Senatu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-20",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "przyjęto część poprawek"
+   },
+   {
+    "etap": "Ustawę przekazano Prezydentowi do podpisu",
+    "data": "2026-10-23",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
     "etap": "Uchwalono",
     "data": null,
     "poziom": 0,
@@ -7450,6 +8986,30 @@
     "etap": "Skierowanie",
     "data": "2026-10-14",
     "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Praca w komisjach nad stanowiskiem Senatu",
+    "data": "2026-10-20",
+    "poziom": 0,
+    "decyzja": null
+   },
+   {
+    "etap": "Sprawozdanie komisji",
+    "data": "2026-10-20",
+    "poziom": 1,
+    "decyzja": null
+   },
+   {
+    "etap": "Rozpatrywanie na forum Sejmu stanowiska Senatu",
+    "data": "2026-10-22",
+    "poziom": 0,
+    "decyzja": "przyjęto poprawkę"
+   },
+   {
+    "etap": "Ustawę przekazano Prezydentowi do podpisu",
+    "data": "2026-10-23",
+    "poziom": 0,
     "decyzja": null
    },
    {

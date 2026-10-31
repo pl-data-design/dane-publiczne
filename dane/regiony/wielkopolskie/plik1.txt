@@ -1,6 +1,6 @@
-Załącznik do Uchwały Nr 4195/2026 
+Załącznik do Uchwały Nr 4427/2026 
 Zarządu Województwa Wielkopolskiego 
-z dnia 3 września 2026 r. 
+z dnia 29 października 2026 r. 
 
 Harmonogram naborów wniosków o dofinansowanie dla Programu Fundusze Europejskie dla Wielkopolski 2021-20271 
 
@@ -54,7 +54,7 @@ mogących uzyskać dofinansowanie
 
 27.07.2026 
 – 
-30.10.2026 
+27.11.2026 
 
 Priorytet 2. Fundusze europejskie dla zielonej Wielkopolski 
 Typy projektów: 
@@ -113,42 +113,7 @@ w ramach ZIT (cs 2.viii)
 
 27.07.2026 
 – 
-18.11.2026 
-
-Typy projektów: 
-2. Interwencje na rzecz zwiększenia 
-zrównoważonej mobilności i funkcjonalności i 
-efektywności transportu miejskiego – 
-pozostała infrastruktura 
-3. Wspieranie zeroemisyjnych form 
-indywidualnej mobilności 
-4. Promowanie integracji taryfowej i 
-wdrażanie komponentów koncepcji MaaS 
-5. Działania informacyjno-promocyjne i 
-edukacyjne 
-Wnioskodawcy: 
-1.Administracja publiczna 
-2.Partnerstwa 
-3.Przedsiębiorstwa realizujące cele publiczne 
-4.Służby publiczne 
-Sposób wyboru: niekonkurencyjny 
-
-Priorytet 5. Fundusze europejskie wspierające społeczną infrastrukturę dla Wielkopolan 
-Działanie 5.4 Kultura i 
-zrównoważona turystyka 
-(cs 4.vi) 
-
-08.06.2026 
-– 
-30.10.2026 
-
-Typy projektów: 
-1. Inwestycje w infrastrukturę służącą 
-rozwojowi i zwiększaniu dostępności 
-infrastruktury do prowadzenia ważnej dla 
-edukacji i aktywności działalności kulturalnej 
-(m.in. teatry, zespoły artystyczne, galerie, 
-biblioteki, centra kultury). 
+18.12.2026 
 
 Orientacyjna kwota 
 przeznaczona na 
@@ -156,7 +121,7 @@ dofinansowanie
 projektów w 
 naborze (w PLN) 
 
-48 198 947,613 
+69 224 964,733 
 
 Instytucja 
 ogłaszająca 
@@ -184,9 +149,11 @@ Wdrażania
 Programu 
 Regionalnego 
 
-70 000 000 
+3 584 983,114 
 
-Poznań 
+MOF Piła, 
+MOF 
+Gniezno 
 
 Urząd 
 Marszałkowski 
@@ -195,18 +162,46 @@ Wielkopolskiego
 – Departament 
 Wdrażania 
 
-Nabór dla projektu  
-pn. „Budowa budynku o 
-charakterze kulturalnym 
-Akademii Muzycznej im. 
-I.J. Paderewskiego 
-w Poznaniu”. 
+Typy projektów: 
+2. Interwencje na rzecz zwiększenia 
+zrównoważonej mobilności i funkcjonalności i 
+efektywności transportu miejskiego – 
+pozostała infrastruktura 
+3. Wspieranie zeroemisyjnych form 
+indywidualnej mobilności 
+4. Promowanie integracji taryfowej i 
+wdrażanie komponentów koncepcji MaaS 
+5. Działania informacyjno-promocyjne i 
+edukacyjne 
+Wnioskodawcy: 
+1.Administracja publiczna 
+2.Partnerstwa 
+3.Przedsiębiorstwa realizujące cele publiczne 
+4.Służby publiczne 
+Sposób wyboru: niekonkurencyjny 
+Typy projektów: 
+2. Interwencje na rzecz zwiększenia 
+zrównoważonej mobilności i funkcjonalności i 
+efektywności transportu miejskiego – 
+pozostała infrastruktura 
+3. Wspieranie zeroemisyjnych form 
+
+3.2 Rozwój zrównoważonej 
+mobilności miejskiej  
+w ramach ZIT (cs 2.viii) 
+
+07.12.2026 
+– 
+26.02.2027 
 
 3 Ostateczna kwota może ulec zmianie – Dostępność środków ustalana jest na bieżąco za pomocą algorytmu przeliczania środków EFRR, EFS+ oraz FST zgodnie z załącznikiem nr 32 do Kontraktu 
+Programowego dla Województwa Wielkopolskiego. 
+4 Ostateczna kwota może ulec zmianie – Dostępność środków ustalana jest na bieżąco za pomocą algorytmu przeliczania środków EFRR, EFS+ oraz FST zgodnie z załącznikiem nr 32 do Kontraktu 
 Programowego dla Województwa Wielkopolskiego. 
 
 str. 2 
 
+ 
  
  
  
@@ -222,14 +217,34 @@ Typy projektów oraz typy wnioskodawców
 mogących uzyskać dofinansowanie 
 / Sposób wyboru projektów 
 
+indywidualnej mobilności 
+4. Promowanie integracji taryfowej i 
+wdrażanie komponentów koncepcji MaaS 
+5. Działania informacyjno-promocyjne i 
+edukacyjne 
+Wnioskodawcy: 
+1.Administracja publiczna 
+2.Partnerstwa 
+3.Przedsiębiorstwa realizujące cele publiczne 
+4.Służby publiczne 
+Sposób wyboru: konkurencyjny 
+
+Priorytet 5. Fundusze europejskie wspierające społeczną infrastrukturę dla Wielkopolan 
 Działanie 5.4 Kultura i 
 zrównoważona turystyka 
 (cs 4.vi) 
 
-05.10.2026
+08.06.2026 
 – 
-30.11.2026 
+04.12.2026 
 
+Typy projektów: 
+1. Inwestycje w infrastrukturę służącą 
+rozwojowi i zwiększaniu dostępności 
+infrastruktury do prowadzenia ważnej dla 
+edukacji i aktywności działalności kulturalnej 
+(m.in. teatry, zespoły artystyczne, galerie, 
+biblioteki, centra kultury). 
 Wnioskodawcy: 
 1. Instytucje nauki i edukacji 
 Sposób wyboru: niekonkurencyjny 
@@ -242,16 +257,20 @@ edukacji i aktywności działalności kulturalnej
 biblioteki, centra kultury). 
 Wnioskodawcy: 
 1.Administracja publiczna 
-2.Służby publiczne 
-Sposób wyboru: niekonkurencyjny 
+
+Działanie 5.4 Kultura i 
+zrównoważona turystyka 
+(cs 4.vi) 
+
+05.10.2026
+– 
+29.01.2027 
 
 Orientacyjna kwota 
 przeznaczona na 
 dofinansowanie 
 projektów w 
 naborze (w PLN) 
-
-66 949 248,80 
 
 Instytucja 
 ogłaszająca 
@@ -266,14 +285,18 @@ Dodatkowe informacje
 Programu 
 Regionalnego 
 
-Urząd 
-Marszałkowski 
-Województwa 
-Wielkopolskiego 
-– Departament 
-Wdrażania 
-Programu 
-Regionalnego 
+70 000 000 
+
+66 949 248,80 
+
+Poznań 
+
+Nabór dla projektu  
+pn. „Budowa budynku o 
+charakterze kulturalnym 
+Akademii Muzycznej im. 
+I.J. Paderewskiego 
+w Poznaniu”. 
 
 Poznań 
 
@@ -283,6 +306,59 @@ budynku nowej siedziby
 Teatru Muzycznego w 
 Poznaniu”. 
 
+Urząd 
+Marszałkowski 
+Województwa 
+Wielkopolskiego 
+– Departament 
+Wdrażania 
+Programu 
+Regionalnego 
+
+Urząd 
+Marszałkowski 
+Województwa 
+Wielkopolskiego 
+– Departament 
+Wdrażania 
+Programu 
+Regionalnego 
+
+str. 3 
+
+ 
+ 
+Nazwa i numer  
+Działania 
+(Cel szczegółowy) 
+
+Planowany 
+termin 
+naboru 
+
+Typy projektów oraz typy wnioskodawców 
+mogących uzyskać dofinansowanie 
+/ Sposób wyboru projektów 
+
+2.Służby publiczne 
+Sposób wyboru: niekonkurencyjny 
+
+Orientacyjna kwota 
+przeznaczona na 
+dofinansowanie 
+projektów w 
+naborze (w PLN) 
+
+Instytucja 
+ogłaszająca 
+nabór 
+
+Obszar 
+realizacji 
+projektów 
+
+Dodatkowe informacje 
+
 Priorytet 6. Fundusze europejskie dla Wielkopolski o silniejszym wymiarze społecznym (EFS+) 
 6.1 Aktywizacja zawodowa 
 osób bezrobotnych  
@@ -290,25 +366,11 @@ i poszukujących pracy –
 projekty PUP 
 (cs 4.a) 
 
-grudzień 
-2026 
+14.12.2026 
+– 
+11.01.2027 
 
 195 714 932 
-
-Wojewódzki 
-Urząd Pracy w 
-Poznaniu 
-
-Wielkopolska 
-
-6.10 Aktywna integracja  
-(cs 4.h) 
-
-grudzień 
-2026 
-
-20 962 910,56 + 
-BP4 
 
 Wojewódzki 
 Urząd Pracy w 
@@ -329,52 +391,25 @@ Aktywizacja społeczno-zawodowa i integracja
 osób, rodzin i społeczności zagrożonych 
 ubóstwem lub wykluczeniem społecznym, ich 
 otoczenia oraz osób biernych zawodowo. 
+Wnioskodawcy: 
+1. Przedsiębiorstwa 
+2. Administracja publiczna 
+3. Służby publiczne 
+4. Organizacje społeczne i związki wyznaniowe 
+Sposób wyboru: konkurencyjny 
+Typy projektów: 
+1. Tworzenie lub rozwój CUS 
+Wnioskodawcy: 
+1.Administracja publiczna 
+2.Instytucje ochrony zdrowia 
+3.Organizacje społeczne i związki wyznaniowe 
 
-4 Ostateczna kwota może ulec zmianie – Dostępność środków ustalana jest na bieżąco za pomocą algorytmu przeliczania środków EFRR, EFS+ oraz FST zgodnie z załącznikiem nr 32 do Kontraktu 
-Programowego dla Województwa Wielkopolskiego. 
+6.10 Aktywna integracja  
+(cs 4.h) 
 
-str. 3 
-
- 
- 
- 
- 
- 
-Nazwa i numer  
-Działania 
-(Cel szczegółowy) 
-
-Planowany 
-termin 
-naboru 
-
-Typy projektów oraz typy wnioskodawców 
-mogących uzyskać dofinansowanie 
-/ Sposób wyboru projektów 
-
-Orientacyjna kwota 
-przeznaczona na 
-dofinansowanie 
-projektów w 
-naborze (w PLN) 
-
-Instytucja 
-ogłaszająca 
-nabór 
-
-Obszar 
-realizacji 
-projektów 
-
-Dodatkowe informacje 
-
-6.13 Usługi społeczne  
-i zdrowotne  
-(cs. 4.k) 
-
-04.09.2026 
+14.12.2026 
 – 
-23.10.2026 
+22.01.2027 
 
 6.13 Usługi społeczne i 
 zdrowotne (cs. 4.k) 
@@ -383,35 +418,14 @@ zdrowotne (cs. 4.k)
 – 
 20.11.2026 
 
-Wnioskodawcy: 
-1. Przedsiębiorstwa 
-2. Administracja publiczna 
-3. Służby publiczne 
-4. Organizacje społeczne i związki wyznaniowe 
-Sposób wyboru: konkurencyjny 
-Typy projektów: 
-1. Regionalne Programy Zdrowotne (RPZ) w 
-obszarze profilaktyki lub rehabilitacji oraz 
-programy wczesnego wykrywania chorób, 
-leczenia oraz rehabilitacji dzieci (w tym 
-Regionalne Programy Zdrowotne). 
-Wnioskodawcy: 
-1.Administracja publiczna 
-2.Instytucje nauki i edukacji 
-3.Instytucje ochrony zdrowia 
-4.Organizacje społeczne i związki wyznaniowe 
-5.Służby publiczne 
-Sposób wyboru: konkurencyjny 
-Typy projektów: 
-1. Tworzenie lub rozwój CUS 
-Wnioskodawcy: 
-1.Administracja publiczna 
-2.Instytucje ochrony zdrowia 
-3.Organizacje społeczne i związki wyznaniowe 
-4.Służby publiczne 
-Sposób wyboru: niekonkurencyjny 
+20 962 910,56 + 
+BP5 
 
-4 200 000 + BP 
+Wojewódzki 
+Urząd Pracy w 
+Poznaniu 
+
+Wielkopolska 
 
 14 000 000 + BP 
 
@@ -421,28 +435,6 @@ Województwa
 Wielkopolskiego 
 – Departament 
 Wdrażania 
-Europejskiego 
-Funduszu 
-Społecznego 
-
-Urząd 
-Marszałkowski 
-Województwa 
-Wielkopolskiego 
-– Departament 
-Wdrażania 
-Europejskiego 
-Funduszu 
-Społecznego 
-
-Wielkopolska  Dotyczy Regionalnego 
-
-Programu Zdrowotnego 
-pn. Program profilaktyki 
-raka skóry dla 
-mieszkańców 
-województwa 
-wielkopolskiego. 
 
 Wielkopolska  Nabór dla: projektu 
 
@@ -451,11 +443,15 @@ Polityki Społecznej z
 partnerami (jeśli 
 dotyczy) pn. „Rozwój 
 Wielkopolskiej Sieci 
-Centrów Usług 
-Społecznych”. 
+
+5 Ostateczna kwota może ulec zmianie – Dostępność środków ustalana jest na bieżąco za pomocą algorytmu przeliczania środków EFRR, EFS+ oraz FST zgodnie z załącznikiem nr 32 do Kontraktu 
+Programowego dla Województwa Wielkopolskiego. 
 
 str. 4 
 
+ 
+ 
+ 
  
  
 Nazwa i numer  
@@ -469,14 +465,6 @@ naboru
 Typy projektów oraz typy wnioskodawców 
 mogących uzyskać dofinansowanie 
 / Sposób wyboru projektów 
-
-6.14 Usługi społeczne  
-i zdrowotne w ramach ZIT 
-(cs. 4.k) 
-
-28.08.2026 
-– 
-09.10.2026 
 
 6.18 Integracja i 
 aktywizacja społeczna oraz 
@@ -487,16 +475,18 @@ ramach ZIT (cs 4.l)
 – 
 27.11.2026 
 
-Typy projektów: 
-1. Poprawa dostępu do lepszej jakości usług 
-zdrowotnych lub społecznych. 
-Wnioskodawcy: 
-1.Administracja publiczna 
-2.Instytucje nauki i edukacji 
-3.Instytucje ochrony zdrowia 
-4.Organizacje społeczne i związki wyznaniowe 
-5.Służby publiczne 
-Sposób wyboru: konkurencyjny 
+6.18 Integracja i 
+aktywizacja społeczna oraz 
+wsparcie potencjału w 
+ramach ZIT (cs 4.l) 
+
+09.10.2026 
+– 
+27.11.2026 
+
+4.Służby publiczne 
+Sposób wyboru: niekonkurencyjny 
+
 Typy projektów: 
 1. Działania na rzecz integracji społecznej osób 
 zagrożonych ubóstwem i wykluczeniem 
@@ -512,21 +502,43 @@ Wnioskodawcy:
 6.Służby publiczne, 
 7.Zintegrowane Inwestycje Terytorialne (ZIT) 
 Sposób wyboru: konkurencyjny 
+Typy projektów: 
+1. Działania na rzecz integracji społecznej osób 
+zagrożonych ubóstwem i wykluczeniem 
+społecznym oraz aktywizacja społeczności na 
+rzecz przeciwdziałania wykluczeniu 
+społecznemu 
+Wnioskodawcy: 
+1.Administracja publiczna, 
 
 Orientacyjna kwota 
 przeznaczona na 
 dofinansowanie 
 projektów w 
 naborze (w PLN) 
-394 781 + BP5 
 
 1 837 260 + BP6 
+
+Instytucja 
+ogłaszająca 
+nabór 
 
 Obszar 
 realizacji 
 projektów 
 
-MOF Piła 
+Europejskiego 
+Funduszu 
+Społecznego 
+Urząd 
+Marszałkowski 
+Województwa 
+Wielkopolskiego 
+– Departament 
+Wdrażania 
+Europejskiego 
+Funduszu 
+Społecznego 
 
 MOF Piła, 
 MOF Koło i 
@@ -534,39 +546,10 @@ Turek,
 MOF 
 Gniezno 
 
-Instytucja 
-ogłaszająca 
-nabór 
-
-Urząd 
-Marszałkowski 
-Województwa 
-Wielkopolskiego 
-– Departament 
-Wdrażania 
-Europejskiego 
-Funduszu 
-Społecznego 
-
-Urząd 
-Marszałkowski 
-Województwa 
-Wielkopolskiego 
-– Departament 
-Wdrażania 
-Europejskiego 
-Funduszu 
-Społecznego 
-
 Dodatkowe informacje 
 
-Projekty realizowane w 
-oparciu o listę 
-projektów Strategii ZIT 
-MOF Piły posiadającej 
-pozytywną opinię 
-Instytucji Zarządzającej 
-FEW. 
+Centrów Usług 
+Społecznych”. 
 
 Projekty realizowane w 
 oparciu o listę 
@@ -579,9 +562,31 @@ Zarządzającej FEW.
 Projekty poniżej 
 200 000 euro. 
 
-5 Ostateczna kwota może ulec zmianie – Dostępność środków ustalana jest na bieżąco za pomocą algorytmu przeliczania środków EFRR, EFS+ oraz FST zgodnie z załącznikiem nr 32 do Kontraktu 
-Programowego dla Województwa Wielkopolskiego. 
+1 932 234 + BP7 
+
+MOF Piła, 
+MOF Konin 
+
+Urząd 
+Marszałkowski 
+Województwa 
+Wielkopolskiego 
+– Departament 
+Wdrażania 
+Europejskiego 
+
+Projekty realizowane w 
+oparciu o listę 
+projektów z właściwej 
+ze względu na obszar, 
+Strategii ZIT 
+posiadającej pozytywną 
+opinię Instytucji 
+Zarządzającej FEW. 
+
 6 Ostateczna kwota może ulec zmianie – Dostępność środków ustalana jest na bieżąco za pomocą algorytmu przeliczania środków EFRR, EFS+ oraz FST zgodnie z załącznikiem nr 32 do Kontraktu 
+Programowego dla Województwa Wielkopolskiego. 
+7 Ostateczna kwota może ulec zmianie – Dostępność środków ustalana jest na bieżąco za pomocą algorytmu przeliczania środków EFRR, EFS+ oraz FST zgodnie z załącznikiem nr 32 do Kontraktu 
 Programowego dla Województwa Wielkopolskiego. 
 
 str. 5 
@@ -606,10 +611,17 @@ aktywizacja społeczna oraz
 wsparcie potencjału w 
 ramach ZIT (cs 4.l) 
 
-09.10.2026 
+28.12.2026 
 – 
-27.11.2026 
+19.02.2027 
 
+2.Instytucje nauki i edukacji, 
+3.Organizacje społeczne i związki wyznaniowe, 
+4.Partnerzy społeczni, 
+5.Przedsiębiorstwa realizujące cele publiczne, 
+6.Służby publiczne, 
+7.Zintegrowane Inwestycje Terytorialne (ZIT) 
+Sposób wyboru: konkurencyjny 
 Typy projektów: 
 1. Działania na rzecz integracji społecznej osób 
 zagrożonych ubóstwem i wykluczeniem 
@@ -626,24 +638,46 @@ Wnioskodawcy:
 7.Zintegrowane Inwestycje Terytorialne (ZIT) 
 Sposób wyboru: konkurencyjny 
 
+Priorytet 10. Sprawiedliwa Transformacja Wielkopolski Wschodniej 
+10.3 Budowa ekosystemu 
+instytucji otoczenia biznesu 
+oraz wsparcie publicznej 
+infrastruktury B+R i 
+cyfryzacji administracji 
+
+Typy projektów: 
+Wzmocnienie poziomu innowacyjności 
+poprzez rozwój otoczenia badawczo-
+rozwojowego. 
+
+24.08.2026 
+– 
+06.11.2026 
+
 Orientacyjna kwota 
 przeznaczona na 
 dofinansowanie 
 projektów w 
 naborze (w PLN) 
-1 932 234 + BP7 
-
-Obszar 
-realizacji 
-projektów 
-
-MOF Piła, 
-MOF Konin 
 
 Instytucja 
 ogłaszająca 
 nabór 
 
+Funduszu 
+Społecznego 
+
+Obszar 
+realizacji 
+projektów 
+
+Dodatkowe informacje 
+
+Projekty powyżej 
+200 000 euro. 
+
+2 164 378 + BP8 
+
 Urząd 
 Marszałkowski 
 Województwa 
@@ -654,61 +688,38 @@ Europejskiego
 Funduszu 
 Społecznego 
 
-Dodatkowe informacje 
+MOF Leszno 
 
 Projekty realizowane w 
-oparciu o listę 
-projektów z właściwej 
-ze względu na obszar, 
-Strategii ZIT 
-posiadającej pozytywną 
-opinię Instytucji 
-Zarządzającej FEW. 
-Projekty powyżej 
+oparciu o listę Strategii 
+ZIT LOF posiadającej 
+pozytywną opinię 
+Instytucji Zarządzającej 
+FEW. Projekty powyżej 
 200 000 euro. 
 
-Priorytet 10. Sprawiedliwa Transformacja Wielkopolski Wschodniej 
-10.1 Rynek pracy, 
-kształcenie i aktywne 
-społeczeństwo wspierające 
-transformację gospodarki  
-(cs 6.i) 
+31 528 000 + BP 
 
-Typy projektów: 
-12. Wsparcie potencjału organizacji 
-społeczeństwa obywatelskiego 
-Wnioskodawcy: 
-1. Organizacje społeczne i związki wyznaniowe 
-Sposób wyboru: konkurencyjny 
-
-28.08.2026 
-– 
-23.10.2026 
-
-2 144 150 + BP 
+Urząd 
+Marszałkowski 
+Województwa 
+Wielkopolskiego 
+– Departament 
 
 Wielkopolska 
 Wschodnia 
 
-Urząd 
-Marszałkowski 
-Województwa 
-Wielkopolskiego 
-– Departament 
-Wdrażania 
-Europejskiego 
-Funduszu 
-Społecznego 
-oraz Agencja 
-Rozwoju 
+Nabór dla projektu: 
+„PSNC Energy Lab - 
+wsparcie B+R dla 
+kompleksowej 
+transformacji 
 
-7 Ostateczna kwota może ulec zmianie – Dostępność środków ustalana jest na bieżąco za pomocą algorytmu przeliczania środków EFRR, EFS+ oraz FST zgodnie z załącznikiem nr 32 do Kontraktu 
-Programowego dla Województwa Wielkopolskiego. 
+8 Ostateczna kwota może ulec zmianie – Dostępność środków ustalana jest na bieżąco za pomocą algorytmu przeliczania środków EFRR, EFS+ oraz FST zgodnie z załącznikiem nr 32 do Kontraktu 
+Programowego dla Województwa Wielkopolskiego. Uruchomienie naboru uwarunkowane jest zatwierdzeniem przez Instytucję Zarządzającą FEW zmian w Strategii ZIT Leszno. 
 
 str. 6 
 
- 
- 
  
  
  
@@ -724,22 +735,9 @@ Typy projektów oraz typy wnioskodawców
 mogących uzyskać dofinansowanie 
 / Sposób wyboru projektów 
 
-10.3 Budowa ekosystemu 
-instytucji otoczenia biznesu 
-oraz wsparcie publicznej 
-infrastruktury B+R i 
-cyfryzacji administracji 
 publicznej  
 (cs 6.i) 
 
-24.08.2026 
-– 
-06.11.2026 
-
-Typy projektów: 
-Wzmocnienie poziomu innowacyjności 
-poprzez rozwój otoczenia badawczo-
-rozwojowego. 
 Wnioskodawcy: Instytucje nauki i edukacji 
 Sposób wyboru: niekonkurencyjny 
 
@@ -749,7 +747,202 @@ dofinansowanie
 projektów w 
 naborze (w PLN) 
 
-31 528 000 + BP 
+Instytucja 
+ogłaszająca 
+nabór 
+
+Obszar 
+realizacji 
+projektów 
+
+10.6 Przybliżenie 
+Wielkopolski Wschodniej 
+do osiągniecia neutralności 
+klimatycznej 
+(cs 6.i) 
+
+czerwiec 
+2027 
+
+Typy projektów: 
+5. Proj. demonstracyjne z zakresu 
+budownictwa pasywnego. 
+Wnioskodawcy: Przedsiębiorstwa 
+Sposób wyboru: niekonkurencyjny 
+
+37 800 000 + BP 
+
+luty 2027 
+
+10.6 Przybliżenie 
+Wielkopolski Wschodniej 
+do osiągniecia neutralności 
+klimatycznej 
+(cs 6.i) 
+
+Typy projektów: 
+Inwestycje w zakresie kompleksowej 
+(głębokiej) modernizacji energetycznej 
+budynków sektora publicznego (w tym 
+budynków użyteczności publicznej oraz 
+zamieszkania zbiorowego) 
+
+60 000 000 
+
+Wnioskodawcy: 
+1. Administracja publiczna 
+
+Sposób wyboru: konkurencyjny 
+
+10.6 Przybliżenie 
+Wielkopolski Wschodniej 
+do osiągniecia neutralności 
+
+luty 2027 
+
+Typy projektów: 
+Inwestycje w zakresie kompleksowej 
+(głębokiej) modernizacji energetycznej 
+
+10 000 000 
+
+Wdrażania 
+Programu 
+Regionalnego 
+oraz Agencja 
+Rozwoju 
+Regionalnego w 
+Koninie 
+
+Urząd 
+Marszałkowski 
+Województwa 
+Wielkopolskiego 
+– Departament 
+Wdrażania 
+Programu 
+Regionalnego 
+Urząd 
+Marszałkowski 
+Województwa 
+Wielkopolskiego 
+– Departament 
+Wdrażania 
+Programu 
+Regionalnego 
+oraz Agencja 
+Rozwoju 
+Regionalnego w 
+Koninie 
+Urząd 
+Marszałkowski 
+Województwa 
+
+Dodatkowe informacje 
+
+społeczno-gospodarczej 
+w Wielkopolsce 
+Wschodniej z 
+wykorzystaniem 
+technologii 
+informacyjno-
+komunikacyjnych 
+nowych generacji”. 
+Nabór dla projektu: 
+„Budowa Centrum 
+Sprawiedliwej 
+Transformacji”. 
+
+Wielkopolska 
+Wschodnia 
+
+Wielkopolska 
+Wschodnia 
+
+Nabór nie jest 
+skierowany na realizację 
+projektów 
+podlegających zasadom 
+pomocy publicznej. 
+
+Wielkopolska 
+Wschodnia 
+
+Nabór nie jest 
+skierowany na realizację 
+projektów 
+
+str. 7 
+
+ 
+ 
+ 
+ 
+Nazwa i numer  
+Działania 
+(Cel szczegółowy) 
+
+klimatycznej 
+(cs 6.i) 
+
+Planowany 
+termin 
+naboru 
+
+Typy projektów oraz typy wnioskodawców 
+mogących uzyskać dofinansowanie 
+/ Sposób wyboru projektów 
+
+Orientacyjna kwota 
+przeznaczona na 
+dofinansowanie 
+projektów w 
+naborze (w PLN) 
+
+Instytucja 
+ogłaszająca 
+nabór 
+
+Obszar 
+realizacji 
+projektów 
+
+budynków mieszkalnych wielorodzinnych 
+
+Wnioskodawcy: 
+1. Administracja publiczna 
+2. Organizacje społeczne i związki wyznaniowe 
+3. Służby publiczne 
+
+Sposób wyboru: konkurencyjny 
+
+Wielkopolskiego 
+– Departament 
+Wdrażania 
+Programu 
+Regionalnego 
+oraz Agencja 
+Rozwoju 
+Regionalnego w 
+Koninie 
+
+Dodatkowe informacje 
+
+podlegających zasadom 
+pomocy publicznej. 
+Wsparciem objęte 
+zostaną budynki będące 
+własnością jednostek 
+samorządu 
+terytorialnego 
+stanowiące komunalne 
+zasoby mieszkaniowe 
+oraz mieszkania 
+socjalne. 
+Wsparcie nie jest 
+skierowane dla 
+wspólnot, spółdzielni 
+mieszkaniowych i TBS. 
 
 19.10.2026 
 – 
@@ -786,48 +979,6 @@ wyposażenie podmiotów opieki
 ambulatoryjnej i rehabilitacji w zakresie 
 projektów wpisanych do KP. 
 
-Instytucja 
-ogłaszająca 
-nabór 
-
-Obszar 
-realizacji 
-projektów 
-
-Dodatkowe informacje 
-
-Regionalnego w 
-Koninie 
-Urząd 
-Marszałkowski 
-Województwa 
-Wielkopolskiego 
-– Departament 
-Wdrażania 
-Programu 
-Regionalnego 
-oraz Agencja 
-Rozwoju 
-Regionalnego w 
-Koninie 
-
-Wielkopolska 
-Wschodnia 
-
-Nabór dla projektu: 
-„PSNC Energy Lab - 
-wsparcie B+R dla 
-kompleksowej 
-transformacji 
-społeczno-gospodarczej 
-w Wielkopolsce 
-Wschodniej z 
-wykorzystaniem 
-technologii 
-informacyjno-
-komunikacyjnych 
-nowych generacji”. 
-
 Wielkopolska  Nabór dla projektu 
 
 niekonkurencyjnego pn. 
@@ -841,8 +992,10 @@ udzielania świadczeń
 onkologicznych – etap 
 III.” 
 
-str. 7 
+str. 8 
 
+ 
+ 
  
  
 Nazwa i numer  
@@ -857,7 +1010,30 @@ Typy projektów oraz typy wnioskodawców
 mogących uzyskać dofinansowanie 
 / Sposób wyboru projektów 
 
+15.1 Wzmocnienie 
+bezpieczeństwa i 
+odporności regionalnej 
+Wielkopolski (cs 3.iii) 
+
+30.11.2026 
+– 
+29.01.2027 
+
 Wnioskodawcy: Instytucje ochrony zdrowia. 
+Sposób wyboru: niekonkurencyjny 
+Typy projektów: 
+1. Gotowość cywilna, wzmocnienie krytycznej 
+infrastruktury społecznej i bezpieczeństwa 
+ludności: 
+h) budowa, rozbudowa, modernizacja oraz 
+wyposażenie budynków użyteczności 
+publicznej mogących pełnić funkcję miejsc 
+doraźnego schronienia/punktów ewakuacji w 
+zakresie projektów wpisanych do Kontraktu 
+Programowego. 
+Wnioskodawcy: 
+1.Organizacje społeczne i związki wyznaniowe, 
+2.Instytucje nauki i edukacji 
 Sposób wyboru: niekonkurencyjny 
 
 Orientacyjna kwota 
@@ -865,6 +1041,8 @@ przeznaczona na
 dofinansowanie 
 projektów w 
 naborze (w PLN) 
+
+14 210 000 
 
 Instytucja 
 ogłaszająca 
@@ -875,6 +1053,22 @@ realizacji
 projektów 
 
 Dodatkowe informacje 
+
+Kąkolewo 
+
+Nabór dla projektu 
+niekonkurencyjnego pn. 
+„Wielkopolskie Centrum 
+Historii Lotnictwa”. 
+
+Urząd 
+Marszałkowski 
+Województwa 
+Wielkopolskiego 
+– Departament 
+Wdrażania 
+Programu 
+Regionalnego 
 
 Cele szczegółowe: 
 Cs 1.i Rozwijanie i wzmacnianie zdolności badawczych i innowacyjnych oraz wykorzystywanie zaawansowanych technologii 
@@ -890,7 +1084,13 @@ Cs 2.vi Wspieranie transformacji w kierunku gospodarki o obiegu zamkniętym i go
 Cs 2.vii Wzmacnianie ochrony i zachowania przyrody, różnorodności biologicznej oraz zielonej infrastruktury, w tym na obszarach miejskich, oraz ograniczanie wszelkich rodzajów 
 zanieczyszczenia 
 Cs 2.viii Wspieranie zrównoważonej multimodalnej mobilności miejskiej jako elementu transformacji w kierunku gospodarki zeroemisyjnej 
-Cs 3.ii Rozwój i udoskonalanie zrównoważonej, odpornej na zmiany klimatu, inteligentnej i intermodalnej mobilności na poziomie krajowym, regionalnym i lokalnym, w tym poprawę dostępu do 
+
+str. 9 
+
+ 
+ 
+ 
+Cs 3.ii Rozwój i udoskonalanie zrównoważonej, odpornej na zmiany klimatu, inteligentnej i intermodalnej mobilności na poziomie krajowym, regionalnym i lokalnym, w tym poprawę dostępu do 
 TEN-T oraz mobilności transgranicznej 
 Cs 3.iii Rozwój odpornej infrastruktury obronnej, przy priorytetowym traktowaniu infrastruktury podwójnego zastosowania, w tym w celu wspierania mobilności wojskowej w Unii, oraz 
 zwiększanie gotowości cywilnej 
@@ -906,13 +1106,7 @@ długotrwale bezrobotnych oraz grup znajdujących się w niekorzystnej sytuacji 
 ekonomii społecznej 
 Cs 4.c Wspieranie zrównoważonego pod względem płci uczestnictwa w rynku pracy, równych warunków pracy oraz lepszej równowagi między życiem zawodowym a prywatnym, w tym poprzez 
 dostęp do przystępnej cenowo opieki nad dziećmi i osobami wymagającymi wsparcia w codziennym funkcjonowaniu 
-
-str. 8 
-
- 
- 
- 
-Cs 4.d Wspieranie dostosowania pracowników, przedsiębiorstw i przedsiębiorców do zmian, wspieranie aktywnego i zdrowego starzenia się oraz zdrowego i dobrze dostosowanego środowiska 
+Cs 4.d Wspieranie dostosowania pracowników, przedsiębiorstw i przedsiębiorców do zmian, wspieranie aktywnego i zdrowego starzenia się oraz zdrowego i dobrze dostosowanego środowiska 
 pracy, które uwzględnia zagrożenia dla zdrowia 
 Cs 4.e Poprawa jakości, poziomu włączenia społecznego i skuteczności systemów kształcenia i szkolenia oraz ich powiązania z rynkiem pracy – w tym przez walidację uczenia się pozaformalnego 
 i nieformalnego, w celu wspierania nabywania kompetencji kluczowych, w tym umiejętności w zakresie przedsiębiorczości i kompetencji cyfrowych oraz przez wspieranie wprowadzania 
@@ -937,7 +1131,7 @@ zrównoważonej turystyki i bezpieczeństwa na obszarach innych niż miejskie
 Cs 6.i Umożliwienie regionom i ludności łagodzenia wpływających na społeczeństwo, zatrudnienie, gospodarkę i środowisko skutków transformacji w kierunku osiągnięcia celów Unii na rok 2030 
 w dziedzinie energii i klimatu oraz w kierunku neutralnej dla klimatu gospodarki Unii do roku 2050 w oparciu o porozumienie paryskie 
 
-str. 9 
+str. 10 
 
  
  

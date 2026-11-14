@@ -1,5 +1,5 @@
 {
- "ostatnie_uruchomienie": "2026-10-31",
+ "ostatnie_uruchomienie": "2026-11-14",
  "procesy_widziane": {
   "258": "2026-10-14",
   "2775": "2026-10-14",
@@ -121,11 +121,79 @@
   "3206": "2026-10-14",
   "3207": "2026-10-14",
   "2693": "2026-10-14",
-  "2870": "2026-10-14"
+  "2870": "2026-10-14",
+  "1529": "2026-11-14",
+  "2516": "2026-11-14",
+  "2632": "2026-11-14",
+  "2995": "2026-11-14",
+  "3221": "2026-11-14",
+  "2769": "2026-11-14",
+  "2271": "2026-11-14",
+  "2670": "2026-11-14",
+  "3231": "2026-11-14",
+  "3232": "2026-11-14",
+  "3233": "2026-11-14",
+  "3234": "2026-11-14",
+  "3235": "2026-11-14",
+  "3236": "2026-11-14",
+  "3237": "2026-11-14",
+  "3238": "2026-11-14",
+  "3239": "2026-11-14",
+  "3038": "2026-11-14",
+  "3241": "2026-11-14",
+  "3245": "2026-11-14",
+  "3003": "2026-11-14",
+  "3004": "2026-11-14",
+  "3035": "2026-11-14",
+  "3258": "2026-11-14",
+  "1964": "2026-11-14",
+  "3261": "2026-11-14",
+  "3262": "2026-11-14",
+  "3263": "2026-11-14",
+  "3264": "2026-11-14",
+  "3266": "2026-11-14",
+  "3267": "2026-11-14",
+  "3268": "2026-11-14",
+  "3269": "2026-11-14",
+  "3276": "2026-11-14",
+  "2126": "2026-11-14",
+  "3278": "2026-11-14",
+  "3279": "2026-11-14",
+  "3281": "2026-11-14",
+  "3282": "2026-11-14",
+  "3293": "2026-11-14",
+  "3295": "2026-11-14",
+  "3296": "2026-11-14",
+  "3297": "2026-11-14",
+  "3298": "2026-11-14",
+  "3299": "2026-11-14",
+  "3305": "2026-11-14",
+  "3306": "2026-11-14",
+  "3307": "2026-11-14",
+  "3308": "2026-11-14",
+  "3309": "2026-11-14",
+  "3310": "2026-11-14",
+  "3311": "2026-11-14",
+  "3312": "2026-11-14",
+  "3313": "2026-11-14",
+  "3314": "2026-11-14",
+  "3315": "2026-11-14",
+  "3316": "2026-11-14",
+  "3317": "2026-11-14",
+  "3318": "2026-11-14",
+  "3319": "2026-11-14",
+  "2621": "2026-11-14",
+  "3332": "2026-11-14",
+  "3333": "2026-11-14",
+  "3334": "2026-11-14",
+  "3335": "2026-11-14",
+  "3353": "2026-11-14",
+  "3354": "2026-11-14",
+  "3355": "2026-11-14"
  },
  "regiony": {
   "dolnośląskie": {
-   "sha": "34c94648b6047faaeb065126dd59568f9ed3ba5bbf4b6d99d3283ae4b85b79b0",
+   "sha": "a6967ace9b7818710e7f8328b800c345215a71509c4365745e5d447bda1ade3a",
    "pliki": [
     {
      "url": "https://funduszeuedolnoslaskie.pl/sites/default/files/2026/10/3679/Harmonogram%20naborow%20FEDS_ZWD%20-%20z%20dnia%2026%20pazdziernika%202026.xlsx",
@@ -147,7 +215,7 @@
    ]
   },
   "lubelskie": {
-   "sha": "17d199fa9388306a7666dffbb1f991a71dbde91f4eced893b659b4041907902d",
+   "sha": "da70dbc8725a8e9ea240ac6104d257b44e79f516259bfed5aa28987b65aafaed",
    "pliki": [
     {
      "url": "https://funduszeue.lubelskie.pl/assets/files/6999/harmonogram_fel_20_10_2026.xlsm",
@@ -160,12 +228,16 @@
    ]
   },
   "lubuskie": {
-   "sha": "f07180941872ee3ceaac08c48a65653d331a777f9dff47bab0902b415253f550",
+   "sha": "81177ac9acd859ad3aa42b316ccbe5ac370846e26f20711f6e1eb15bffc10f61",
    "pliki": []
   },
   "mazowieckie": {
-   "sha": "6a012a78358fd03bdd15dd2b902cdc1ba6f44b38d6d557520beca8c73a2e4de7",
+   "sha": "1f1f475a4b5f244dcff5985487a64e6432afe90c46d2ef4f78cf48fef00dc05e",
    "pliki": [
+    {
+     "url": "https://funduszeuedlamazowsza.eu/wp-content/uploads/2024/04/Harmonogram-Naboru-Wnioskow-FEM-2021-2027-9.xlsx",
+     "sha": "adb56b9c1e4ff287b83e2657d957db87f10018d3be70c6d627b882885b6770e7"
+    },
     {
      "url": "https://funduszeuedlamazowsza.eu/wp-content/uploads/2024/04/Harmonogram-Naboru-Wnioskow-FEM-2021-2027-8.xlsx",
      "sha": "e23ca656850ad9470463c1f6b925c5c0fc9e81c9294cbcc52ef4b74984565990"
@@ -173,29 +245,38 @@
     {
      "url": "https://funduszeuedlamazowsza.eu/wp-content/uploads/2024/04/Harmonogram-Naboru-Wnioskow-FEM-2021-2027-7.xlsm",
      "sha": "1c7f4fce1a65403cf176901e0160d567ba631bcd5c1348f4ba76762f879ec9e2"
-    },
-    {
-     "url": "https://funduszeuedlamazowsza.eu/wp-content/uploads/2024/04/Harmonogram-Naboru-Wnioskow-FEM-2021-2027-MAJ-2026.xlsm",
-     "sha": "8257b0ec324fce2e6ec94d79cbb1098ff7698b945118aed0dbcbe20200e16520"
     }
    ]
   },
   "małopolskie": {
-   "sha": "0f270ec9f3305f00edfd41cbf7f69d9ba02fe6b7b32282a0972441a943986443",
+   "sha": "1ac3de10e21db367d36b5172cd4db934d14e9e8886a6f5bada1d0d503631d037",
    "pliki": [
     {
-     "url": "https://www.fundusze.malopolska.pl/sites/default/files/2026/10/1862/zal.%20do%20uchwaly%202298_26%20z%20dn.%2019.10.2026.pdf",
-     "sha": "4672adcd0f6721382089a175c0e25c5eca74156948b24d0bdbf5132bd02b2e27"
+     "url": "https://www.fundusze.malopolska.pl/sites/default/files/2026/11/1862/zal.%20do%20uchwaly%20nr%202471_26%20z%20dn.10.11.2026..pdf",
+     "sha": "ba5e6cd66d3610a4987565a20c3db8f525b64b1a328ad03f60d7972c8dd16c84"
     },
     {
-     "url": "https://www.fundusze.malopolska.pl/sites/default/files/2026/10/1862/zal.%20do%20uchwaly%202298_26%20z%20dn.%2019.10.2026.xls",
-     "sha": null
+     "url": "https://www.fundusze.malopolska.pl/sites/default/files/2026/11/1862/zal.%20do%20uchwaly%20nr%202471_26%20z%20dn.10.11.2026..xlsx",
+     "sha": "3246b07c06eb2f019e3f36100b7e013512837f264fcce3d04e05097c12888dc5"
     }
    ]
   },
   "opolskie": {
-   "sha": null,
-   "pliki": []
+   "sha": "6e09080c94bd7be740725b4630eedb78f8617f5cf71fc904c382d8e79bf3f80b",
+   "pliki": [
+    {
+     "url": "https://funduszeue.opolskie.pl/sites/default/files/2026-09/harmonogram-naborow-wnioskow-zwo-28.09.2026.xlsx",
+     "sha": "8c851ac79d8c7c375cbb0bac4537566f79a25e7dbac35cd268128e0b5b6a9331"
+    },
+    {
+     "url": "https://funduszeue.opolskie.pl/sites/default/files/2026-09/harmonogram-naborow-wnioskow-zwo-30.06.2026.xlsx",
+     "sha": "51e86e5361297a2a6d4828535c988798db9a03918e59f9fa6d3fd35f2032037b"
+    },
+    {
+     "url": "https://funduszeue.opolskie.pl/sites/default/files/2025-08/harmonogram-naborow-wnioskow-24-czerwca-2025_2.xlsx",
+     "sha": "79b6b9d4d247b8163d96b016852800fa019d8c364616aa46071bc713e9e307d8"
+    }
+   ]
   },
   "podkarpackie": {
    "sha": "f6521e9137617bf49ba74dfcb39974714f782730d9753966d7278959f35f1015",
@@ -215,15 +296,15 @@
    ]
   },
   "podlaskie": {
-   "sha": "2f44f10f6b19bd24d94855a525eb0565f9bb2817eb90b53579445bc2347ccfec",
+   "sha": "79e5fcf8ae58b31b18969a9df92e045752bac0e1e9b15d0b38ef2dc71857c928",
    "pliki": []
   },
   "pomorskie": {
-   "sha": "e6e11147b6d7d8a4117d961dc01d2b9ef852dc65845d56b3ccf26e143630caa3",
+   "sha": "93008f9f6732bedd19c348e2149ccf668262242e5e0e55dbc39dc61413c0d8ff",
    "pliki": [
     {
-     "url": "https://funduszeuepomorskie.pl/sites/default/files/2026/10/5530/Harmonogram%20naborow%20FEP%202021-2027%20z%2029%20pazdziernika%202026%20r..xlsm",
-     "sha": "c73b918121362e7e47cfdf452626a276e115aa43c92fae0706027cd2b5637ddb"
+     "url": "https://funduszeuepomorskie.pl/sites/default/files/2026/11/5530/Harmonogram%20naborow%20FEP%202021-2027%20z%2029%20pazdziernika%202026%20r..xlsm",
+     "sha": "217a97dc15a1063c35edeb283c9b6e01dbf9c3c941232e270da8d249bea771eb"
     }
    ]
   },
@@ -232,11 +313,11 @@
    "pliki": []
   },
   "wielkopolskie": {
-   "sha": "146482d83ce26123b9ff91e3702347a0dfcdd56a64c675b7f2ea132f4450f457",
+   "sha": "881172b23276ebb5afaa31582257be926244dd51ac7d5ec8f10da0b184aad733",
    "pliki": [
     {
-     "url": "https://funduszeue.wielkopolskie.pl/sites/default/files/Dokumenty%2C%20Harmonogram%20nabor%C3%B3w/2026-10-30/Harmonogram_nabor%C3%B3w_wniosk%C3%B3w_2021-2027.pdf",
-     "sha": "0e6524ffe712f92ead97921b45ce42fc67e6c94ee5eb0c87329060d4badd20ac"
+     "url": "https://funduszeue.wielkopolskie.pl/sites/default/files/Dokumenty%2C%20Harmonogram%20nabor%C3%B3w/2026-11-13/Harmonogram_nabor%C3%B3w_wniosk%C3%B3w_2021-2027.pdf",
+     "sha": "9d821047624c5bd82f3744de18ba52d87385858dca201bf5d29977a3a5a80ac9"
     }
    ]
   },

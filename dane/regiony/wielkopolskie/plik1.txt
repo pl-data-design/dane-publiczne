@@ -1,6 +1,6 @@
-Załącznik do Uchwały Nr 4427/2026 
+Załącznik do Uchwały Nr 4539/2026 
 Zarządu Województwa Wielkopolskiego 
-z dnia 29 października 2026 r. 
+z dnia 13 listopada 2026 r. 
 
 Harmonogram naborów wniosków o dofinansowanie dla Programu Fundusze Europejskie dla Wielkopolski 2021-20271 
 
@@ -149,11 +149,7 @@ Wdrażania
 Programu 
 Regionalnego 
 
-3 584 983,114 
-
-MOF Piła, 
-MOF 
-Gniezno 
+6 124 430,074 
 
 Urząd 
 Marszałkowski 
@@ -161,6 +157,11 @@ Województwa
 Wielkopolskiego 
 – Departament 
 Wdrażania 
+
+MOF Piła, 
+MOF 
+Gniezno, 
+MOF Leszno 
 
 Typy projektów: 
 2. Interwencje na rzecz zwiększenia 
@@ -370,7 +371,8 @@ projekty PUP
 – 
 11.01.2027 
 
-195 714 932 
+137 000 452,40 + 
+BP  
 
 Wojewódzki 
 Urząd Pracy w 
@@ -676,7 +678,7 @@ Dodatkowe informacje
 Projekty powyżej 
 200 000 euro. 
 
-2 164 378 + BP8 
+2 178 508 + BP8 
 
 Urząd 
 Marszałkowski 
@@ -716,7 +718,7 @@ kompleksowej
 transformacji 
 
 8 Ostateczna kwota może ulec zmianie – Dostępność środków ustalana jest na bieżąco za pomocą algorytmu przeliczania środków EFRR, EFS+ oraz FST zgodnie z załącznikiem nr 32 do Kontraktu 
-Programowego dla Województwa Wielkopolskiego. Uruchomienie naboru uwarunkowane jest zatwierdzeniem przez Instytucję Zarządzającą FEW zmian w Strategii ZIT Leszno. 
+Programowego dla Województwa Wielkopolskiego.  
 
 str. 6 
 
@@ -741,6 +743,47 @@ publicznej
 Wnioskodawcy: Instytucje nauki i edukacji 
 Sposób wyboru: niekonkurencyjny 
 
+10.4 Zregenerowane 
+środowisko przyrodnicze 
+(cs 6.i) 
+
+16.12.2026
+-
+31.01.2027 
+
+10.6 Przybliżenie 
+Wielkopolski Wschodniej 
+do osiągniecia neutralności 
+klimatycznej 
+(cs 6.i) 
+
+czerwiec 
+2027 
+
+Typy projektów: 
+3. Odbudowa oraz zwiększanie zasobów 
+wodnych na obszarach Wielkopolski 
+Wschodniej zdegradowanych pod względem 
+hydrologicznym (w tym poprzez tworzenie 
+zbiorników wodnych w wyrobiskach 
+pokopalnianych) poprzez m.in.: 
+a. inwestycje w urządzenia wodne i 
+infrastrukturę hydrotechniczną; 
+b. projekty z zakresu odtwarzania sieci 
+hydrograficznej i renaturyzacji 
+przekształconych cieków. 
+Wnioskodawcy: 
+1. Administracja publiczna 
+2. Służby publiczne 
+3. Przedsiębiorstwa realizujące cele publiczne 
+4. Organizacje społeczne i związki wyznaniowe 
+Sposób wyboru: konkurencyjny 
+Typy projektów: 
+5. Proj. demonstracyjne z zakresu 
+budownictwa pasywnego. 
+Wnioskodawcy: Przedsiębiorstwa 
+Sposób wyboru: niekonkurencyjny 
+
 Orientacyjna kwota 
 przeznaczona na 
 dofinansowanie 
@@ -755,56 +798,7 @@ Obszar
 realizacji 
 projektów 
 
-10.6 Przybliżenie 
-Wielkopolski Wschodniej 
-do osiągniecia neutralności 
-klimatycznej 
-(cs 6.i) 
-
-czerwiec 
-2027 
-
-Typy projektów: 
-5. Proj. demonstracyjne z zakresu 
-budownictwa pasywnego. 
-Wnioskodawcy: Przedsiębiorstwa 
-Sposób wyboru: niekonkurencyjny 
-
-37 800 000 + BP 
-
-luty 2027 
-
-10.6 Przybliżenie 
-Wielkopolski Wschodniej 
-do osiągniecia neutralności 
-klimatycznej 
-(cs 6.i) 
-
-Typy projektów: 
-Inwestycje w zakresie kompleksowej 
-(głębokiej) modernizacji energetycznej 
-budynków sektora publicznego (w tym 
-budynków użyteczności publicznej oraz 
-zamieszkania zbiorowego) 
-
-60 000 000 
-
-Wnioskodawcy: 
-1. Administracja publiczna 
-
-Sposób wyboru: konkurencyjny 
-
-10.6 Przybliżenie 
-Wielkopolski Wschodniej 
-do osiągniecia neutralności 
-
-luty 2027 
-
-Typy projektów: 
-Inwestycje w zakresie kompleksowej 
-(głębokiej) modernizacji energetycznej 
-
-10 000 000 
+15 000 000 
 
 Wdrażania 
 Programu 
@@ -822,21 +816,13 @@ Wielkopolskiego
 Wdrażania 
 Programu 
 Regionalnego 
-Urząd 
-Marszałkowski 
-Województwa 
-Wielkopolskiego 
-– Departament 
-Wdrażania 
-Programu 
-Regionalnego 
 oraz Agencja 
 Rozwoju 
 Regionalnego w 
 Koninie 
-Urząd 
-Marszałkowski 
-Województwa 
+
+Wielkopolska 
+Wschodnia 
 
 Dodatkowe informacje 
 
@@ -848,13 +834,143 @@ technologii
 informacyjno-
 komunikacyjnych 
 nowych generacji”. 
+Ze względu na 
+przedmiot naboru z 
+konkursu wykluczone 
+są: 
+- Kościoły i związki 
+wyznaniowe, 
+- Niepubliczne instytucje 
+kultury, 
+- Niepubliczne instytucje 
+sportu, 
+- Niepubliczne podmioty 
+integracji i pomocy 
+społecznej. 
+
+37 800 000 + BP 
+
+Urząd 
+Marszałkowski 
+Województwa 
+Wielkopolskiego 
+– Departament 
+
+Wielkopolska 
+Wschodnia 
+
 Nabór dla projektu: 
 „Budowa Centrum 
 Sprawiedliwej 
 Transformacji”. 
 
-Wielkopolska 
-Wschodnia 
+str. 7 
+
+ 
+ 
+Orientacyjna kwota 
+przeznaczona na 
+dofinansowanie 
+projektów w 
+naborze (w PLN) 
+
+60 000 000 
+
+Nazwa i numer  
+Działania 
+(Cel szczegółowy) 
+
+Planowany 
+termin 
+naboru 
+
+Typy projektów oraz typy wnioskodawców 
+mogących uzyskać dofinansowanie 
+/ Sposób wyboru projektów 
+
+10.6 Przybliżenie 
+Wielkopolski Wschodniej 
+do osiągniecia neutralności 
+klimatycznej 
+(cs 6.i) 
+
+15.02.2027  
+–  
+30.04.2027 
+
+Typy projektów: 
+Inwestycje w zakresie kompleksowej 
+(głębokiej) modernizacji energetycznej 
+budynków sektora publicznego (w tym 
+budynków użyteczności publicznej oraz 
+zamieszkania zbiorowego) 
+
+Wnioskodawcy: 
+1. Administracja publiczna 
+
+Sposób wyboru: konkurencyjny 
+
+10.6 Przybliżenie 
+Wielkopolski Wschodniej 
+do osiągniecia neutralności 
+klimatycznej 
+(cs 6.i) 
+
+15.02.2027
+– 
+30.04.2027 
+
+Typy projektów: 
+Inwestycje w zakresie kompleksowej 
+(głębokiej) modernizacji energetycznej 
+budynków mieszkalnych wielorodzinnych 
+
+10 000 000 
+
+Wnioskodawcy: 
+1. Administracja publiczna 
+2. Organizacje społeczne i związki wyznaniowe 
+3. Służby publiczne 
+
+Sposób wyboru: konkurencyjny 
+
+Instytucja 
+ogłaszająca 
+nabór 
+
+Obszar 
+realizacji 
+projektów 
+
+Dodatkowe informacje 
+
+Wdrażania 
+Programu 
+Regionalnego 
+Urząd 
+Marszałkowski 
+Województwa 
+Wielkopolskiego 
+– Departament 
+Wdrażania 
+Programu 
+Regionalnego 
+oraz Agencja 
+Rozwoju 
+Regionalnego w 
+Koninie 
+Urząd 
+Marszałkowski 
+Województwa 
+Wielkopolskiego 
+– Departament 
+Wdrażania 
+Programu 
+Regionalnego 
+oraz Agencja 
+Rozwoju 
+Regionalnego w 
+Koninie 
 
 Wielkopolska 
 Wschodnia 
@@ -871,9 +987,24 @@ Wschodnia
 Nabór nie jest 
 skierowany na realizację 
 projektów 
+podlegających zasadom 
+pomocy publicznej. 
+Wsparciem objęte 
+zostaną budynki będące 
+własnością jednostek 
+samorządu 
+terytorialnego 
+stanowiące komunalne 
+zasoby mieszkaniowe 
+oraz mieszkania 
+socjalne. 
+Wsparcie nie jest 
+skierowane dla 
 
-str. 7 
+str. 8 
 
+ 
+ 
  
  
  
@@ -881,9 +1012,6 @@ str. 7
 Nazwa i numer  
 Działania 
 (Cel szczegółowy) 
-
-klimatycznej 
-(cs 6.i) 
 
 Planowany 
 termin 
@@ -907,47 +1035,36 @@ Obszar
 realizacji 
 projektów 
 
-budynków mieszkalnych wielorodzinnych 
-
-Wnioskodawcy: 
-1. Administracja publiczna 
-2. Organizacje społeczne i związki wyznaniowe 
-3. Służby publiczne 
-
-Sposób wyboru: konkurencyjny 
-
-Wielkopolskiego 
-– Departament 
-Wdrażania 
-Programu 
-Regionalnego 
-oraz Agencja 
-Rozwoju 
-Regionalnego w 
-Koninie 
-
 Dodatkowe informacje 
 
-podlegających zasadom 
-pomocy publicznej. 
-Wsparciem objęte 
-zostaną budynki będące 
-własnością jednostek 
-samorządu 
-terytorialnego 
-stanowiące komunalne 
-zasoby mieszkaniowe 
-oraz mieszkania 
-socjalne. 
-Wsparcie nie jest 
-skierowane dla 
 wspólnot, spółdzielni 
 mieszkaniowych i TBS. 
 
-19.10.2026 
-– 
-18.12.2026 
+60 000 000 
 
+Kwiecień 
+2027 
+
+10.7 Infrastruktura na rzecz 
+aktywnego społeczeństwa, 
+edukacyjna oraz 
+rewitalizacja wspierające 
+transformację gospodarki 
+(cs 6.i) 
+
+Typy projektów: 
+Rewitalizacja obszarów zdegradowanych 
+cechujących się negatywnym wpływem 
+sektora wydobywczo-energetycznego  
+(w szczególności na obszarach, na których 
+występują tereny poprzemysłowe, w tym 
+pokopalnianie) 
+Wnioskodawcy: 
+1. Służby publiczne 
+2. Administracja publiczna 
+3. Organizacje społeczne i związki wyznaniowe 
+4. Przedsiębiorstwa 
+Sposób wyboru: konkurencyjny 
 Priorytet 15. Fundusze Europejskie dla wzmocnienia bezpieczeństwa i odporności regionalnej Wielkopolski. Obronność 
 Urząd 
 15.1 Wzmocnienie 
@@ -961,6 +1078,23 @@ Wielkopolski (cs 3.iii)
 Wdrażania 
 Programu 
 Regionalnego 
+
+Urząd 
+Marszałkowski 
+Województwa 
+Wielkopolskiego 
+– Departament 
+Wdrażania 
+Programu 
+Regionalnego 
+oraz Agencja 
+Rozwoju 
+Regionalnego  
+w Koninie 
+
+19.10.2026 
+– 
+18.12.2026 
 
 30 660 000 
 
@@ -979,6 +1113,9 @@ wyposażenie podmiotów opieki
 ambulatoryjnej i rehabilitacji w zakresie 
 projektów wpisanych do KP. 
 
+Wielkopolska 
+Wschodnia 
+
 Wielkopolska  Nabór dla projektu 
 
 niekonkurencyjnego pn. 
@@ -992,9 +1129,8 @@ udzielania świadczeń
 onkologicznych – etap 
 III.” 
 
-str. 8 
+str. 9 
 
- 
  
  
  
@@ -1085,7 +1221,7 @@ Cs 2.vii Wzmacnianie ochrony i zachowania przyrody, różnorodności biologiczne
 zanieczyszczenia 
 Cs 2.viii Wspieranie zrównoważonej multimodalnej mobilności miejskiej jako elementu transformacji w kierunku gospodarki zeroemisyjnej 
 
-str. 9 
+str. 10 
 
  
  
@@ -1131,7 +1267,7 @@ zrównoważonej turystyki i bezpieczeństwa na obszarach innych niż miejskie
 Cs 6.i Umożliwienie regionom i ludności łagodzenia wpływających na społeczeństwo, zatrudnienie, gospodarkę i środowisko skutków transformacji w kierunku osiągnięcia celów Unii na rok 2030 
 w dziedzinie energii i klimatu oraz w kierunku neutralnej dla klimatu gospodarki Unii do roku 2050 w oparciu o porozumienie paryskie 
 
-str. 10 
+str. 11 
 
  
  

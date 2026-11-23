@@ -168,6 +168,8 @@ def collect_prints(term, since):
             "data_zmiany": p.get("changeDate"),
             "proces": [str(x) for x in (p.get("processPrint") or [])],
             "link": f"https://www.sejm.gov.pl/Sejm{term}.nsf/druk.xsp?nr={urllib.parse.quote(num)}",
+            "pliki": [f"{SEJM}/sejm/term{term}/prints/{urllib.parse.quote(num)}/{urllib.parse.quote(str(f))}"
+                      for f in (p.get("attachments") or [])][:5],
         })
     out.sort(key=lambda x: x["numer"])
     return out
